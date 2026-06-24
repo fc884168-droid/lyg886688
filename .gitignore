@@ -1,0 +1,21 @@
+# 備份檔
+*.bak*
+*.before_*
+
+# 遊戲設定雜檔（不上傳）
+伺服器設定.txt
+交接說明.md
+地產大亨_WZ官方點位交接.md
+地產大亨_WZ官方點位對照表.csv
+地產大亨_勢力歸類填寫表*.csv
+地產大亨_全部點位名稱清單.txt
+_dom_estate.txt
+_preview_estate.png
+
+# 工具資料夾
+tools/
+
+# 系統
+.DS_Store
+Thumbs.db
+desktop.ini

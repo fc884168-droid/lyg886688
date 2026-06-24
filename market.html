@@ -1,0 +1,133 @@
+﻿<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>落葉谷 Classic evo｜股市行情</title>
+  <link rel="stylesheet" href="./src/site.css">
+  <link rel="stylesheet" href="./src/market.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="./index.html"><img src="./assets/logo-classic-evo.png" alt="落葉谷"><span><strong>落葉谷</strong><small>Classic evo 經典進化</small></span></a>
+      <nav class="links">
+        <a href="./index.html" data-page="index">首頁</a>
+        <a href="./game.html" data-page="game">遊戲資訊</a>
+        <a href="./systems.html" data-page="systems">特色系統</a>
+        <a href="./地產大亨_靜態版.html" data-page="estate">地產大亨</a>
+        <a href="./market.html" data-page="market" class="active">股市行情</a>
+        <a href="./download.html" data-page="download">下載福利</a>
+      </nav>
+      <a class="btn-discord" href="https://discord.gg/5g3F68rqRX" target="_blank" rel="noopener">加入 Discord</a>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="page-title market-page-title">
+      <h1>股市行情</h1>
+      <p id="marketUpdated" class="market-meta">正在載入…</p>
+    </section>
+
+    <section class="market-rank-panel">
+      <div class="rank-block">
+        <div class="rank-head">
+          <h2>生涯盈利</h2>
+          <span>已實現淨利</span>
+        </div>
+        <table class="rank-table">
+          <thead>
+            <tr><th>#</th><th>玩家</th><th class="num">盈利</th><th class="num">可用基金</th></tr>
+          </thead>
+          <tbody id="profitRankBody"></tbody>
+        </table>
+      </div>
+      <div class="rank-block">
+        <div class="rank-head">
+          <h2>持倉市值</h2>
+          <span>依現價估算</span>
+        </div>
+        <table class="rank-table">
+          <thead>
+            <tr><th>#</th><th>玩家</th><th class="num">市值</th><th class="num">股數</th></tr>
+          </thead>
+          <tbody id="holdingsRankBody"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="market-board">
+        <aside class="market-sidebar" id="stockSidebar" aria-label="股票列表"></aside>
+        <div class="market-main">
+          <div class="market-quote" id="marketQuote">
+            <div class="market-quote-title">
+              <strong id="quoteName">—</strong>
+            </div>
+            <div class="market-quote-price">
+              <span class="price" id="quotePrice">—</span>
+              <span class="delta market-flat" id="quoteDelta">—</span>
+            </div>
+            <div class="market-quote-stats">
+              <div>開盤<b id="quoteOpen">—</b></div>
+              <div>最高<b id="quoteHigh">—</b></div>
+              <div>最低<b id="quoteLow">—</b></div>
+              <div>成交量<b id="quoteVol">—</b></div>
+            </div>
+          </div>
+          <div class="market-toolbar">
+            <span class="tab active">價格走勢</span>
+            <span class="chart-legend">
+              <i class="leg-up">紅＝上漲</i>
+              <i class="leg-down">綠＝下跌</i>
+            </span>
+          </div>
+          <div id="stockChartHost"></div>
+          <p id="chartEmpty" class="chart-empty" hidden>尚無 K 線資料</p>
+        </div>
+      </div>
+      <p id="marketEmpty" class="market-meta" hidden>尚無行情資料</p>
+    </section>
+
+    <section class="section market-section-light card">
+      <h3 class="market-table-title">全市場</h3>
+      <div class="stock-table-wrap">
+        <table class="stock-table">
+          <thead>
+            <tr>
+              <th>股票</th>
+              <th>現價</th>
+              <th>開盤</th>
+              <th>最高 / 最低</th>
+              <th>漲跌</th>
+              <th>成交量</th>
+            </tr>
+          </thead>
+          <tbody id="stockTableBody"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap site-footer-inner">
+      <div class="footer-leaf-bar" aria-hidden="true"></div>
+      <p class="footer-desc">落葉谷為楓之谷 Classic 懷舊私人伺服器，保留 v113 經典練等、打寶與組隊節奏，並加入地產大亨、股市投資、裝備覺醒、升星系統、遠征 BOSS、成就系統等長線養成玩法，適合想找楓之谷私服、楓之谷懷舊服、楓之谷長線社群的玩家。</p>
+      <p class="footer-keywords" aria-label="相關關鍵字">
+        <span>楓之谷私服</span><span>楓之谷 v113</span><span>楓之谷 Classic</span><span>楓之谷懷舊</span><span>楓之谷私人伺服器</span><span>楓之谷經典版</span><span>楓之谷 evo</span><span>楓之谷私服推薦</span><span>楓之谷長線服</span><span>楓之谷地產大亨</span><span>楓之谷股市</span><span>落葉谷楓之谷</span>
+      </p>
+      <div class="footer-bottom">
+        <span>© 落葉谷 Classic evo 經典進化</span>
+        <nav class="footer-nav">
+          <a href="./game.html">遊戲資訊</a>
+          <a href="./systems.html">特色系統</a>
+          <a href="./download.html">下載福利</a>
+        </nav>
+      </div>
+    </div>
+  </footer>
+  <script src="https://unpkg.com/lightweight-charts@4.2.0/dist/lightweight-charts.standalone.production.js"></script>
+  <script src="./src/site.js"></script>
+  <script src="./src/market.js"></script>
+</body>
+</html>

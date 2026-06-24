@@ -1,0 +1,4367 @@
+{
+  "source": "AICL_單人端端口/wz/Map.wz/WorldMap/WorldMap010.img.xml",
+  "coordinate": "percent is converted from WZ spot + origin using BaseImg 640x470",
+  "width": 640,
+  "height": 470,
+  "origin": {
+    "x": 320,
+    "y": 235
+  },
+  "points": [
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 0,
+      "id": "wm010-0",
+      "name": "弓箭手村",
+      "region": "弓箭手村",
+      "type": 0,
+      "typeLabel": "村莊/主要地點",
+      "spot": {
+        "x": -28,
+        "y": 142
+      },
+      "pixel": {
+        "x": 292,
+        "y": 377,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 45.62,
+        "y": 80.21
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 100000000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "弓箭手村",
+      "mapIds": [
+        100000000,
+        100000001
+      ],
+      "maps": [
+        {
+          "mapId": 100000000,
+          "streetName": "維多利亞",
+          "mapName": "弓箭手村"
+        },
+        {
+          "mapId": 100000001,
+          "streetName": "維多利亞",
+          "mapName": "弓箭手村民宅"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 1,
+      "id": "wm010-1",
+      "name": "魔法森林",
+      "region": "魔法森林",
+      "type": 0,
+      "typeLabel": "村莊/主要地點",
+      "spot": {
+        "x": 124,
+        "y": 20
+      },
+      "pixel": {
+        "x": 444,
+        "y": 255,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 69.38,
+        "y": 54.26
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101000000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "魔法森林",
+      "mapIds": [
+        101000000,
+        101000001,
+        101000002,
+        101000003,
+        101000200
+      ],
+      "maps": [
+        {
+          "mapId": 101000000,
+          "streetName": "維多利亞",
+          "mapName": "魔法森林"
+        },
+        {
+          "mapId": 101000001,
+          "streetName": "維多利亞",
+          "mapName": "魔法森林武器店"
+        },
+        {
+          "mapId": 101000002,
+          "streetName": "維多利亞",
+          "mapName": "魔法森林雜貨店"
+        },
+        {
+          "mapId": 101000003,
+          "streetName": "維多利亞",
+          "mapName": "魔法森林圖書館"
+        },
+        {
+          "mapId": 101000200,
+          "streetName": "隱密之地",
+          "mapName": "生命之林"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 2,
+      "id": "wm010-2",
+      "name": "勇士之村",
+      "region": "勇士之村",
+      "type": 0,
+      "typeLabel": "村莊/主要地點",
+      "spot": {
+        "x": -74,
+        "y": -149
+      },
+      "pixel": {
+        "x": 246,
+        "y": 86,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 38.44,
+        "y": 18.3
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 102000000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "勇士之村",
+      "mapIds": [
+        102000000,
+        102000001,
+        102000002,
+        102000003
+      ],
+      "maps": [
+        {
+          "mapId": 102000000,
+          "streetName": "維多利亞",
+          "mapName": "勇士之村"
+        },
+        {
+          "mapId": 102000001,
+          "streetName": "維多利亞",
+          "mapName": "勇士之村武器店"
+        },
+        {
+          "mapId": 102000002,
+          "streetName": "維多利亞",
+          "mapName": "勇士之村雜貨店"
+        },
+        {
+          "mapId": 102000003,
+          "streetName": "維多利亞",
+          "mapName": "勇士聖殿"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 3,
+      "id": "wm010-3",
+      "name": "墮落城市",
+      "region": "墮落城市",
+      "type": 0,
+      "typeLabel": "村莊/主要地點",
+      "spot": {
+        "x": -224,
+        "y": -51
+      },
+      "pixel": {
+        "x": 96,
+        "y": 184,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 15.0,
+        "y": 39.15
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 103000000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "墮落城市",
+      "mapIds": [
+        103000000,
+        103000001,
+        103000002,
+        103000003,
+        103000004,
+        103000005,
+        103000006,
+        193000000,
+        103000100,
+        103000101,
+        103000102,
+        103000103,
+        103000104,
+        103000105,
+        103000200,
+        103000201,
+        103000202
+      ],
+      "maps": [
+        {
+          "mapId": 103000000,
+          "streetName": "維多利亞",
+          "mapName": "墮落城市"
+        },
+        {
+          "mapId": 103000001,
+          "streetName": "維多利亞",
+          "mapName": "墮落城市武器店"
+        },
+        {
+          "mapId": 103000002,
+          "streetName": "維多利亞",
+          "mapName": "墮落城市藥店"
+        },
+        {
+          "mapId": 103000003,
+          "streetName": "維多利亞",
+          "mapName": "墮落城市酒吧"
+        },
+        {
+          "mapId": 103000004,
+          "streetName": "維多利亞",
+          "mapName": "墮落城市醫院"
+        },
+        {
+          "mapId": 103000005,
+          "streetName": "維多利亞",
+          "mapName": "墮落城市美髮店"
+        },
+        {
+          "mapId": 103000006,
+          "streetName": "維多利亞",
+          "mapName": "墮落城市修理店"
+        },
+        {
+          "mapId": 193000000,
+          "streetName": "奔翔之地",
+          "mapName": "墮落城市網咖"
+        },
+        {
+          "mapId": 103000100,
+          "streetName": "墮落城市地鐵",
+          "mapName": "地鐵售票處"
+        },
+        {
+          "mapId": 103000101,
+          "streetName": "墮落城市地鐵",
+          "mapName": "地鐵一號線[地區01]"
+        },
+        {
+          "mapId": 103000102,
+          "streetName": "墮落城市地鐵",
+          "mapName": "轉乘區"
+        },
+        {
+          "mapId": 103000103,
+          "streetName": "墮落城市地鐵",
+          "mapName": "地鐵一號線[地區02]"
+        },
+        {
+          "mapId": 103000104,
+          "streetName": "墮落城市地鐵",
+          "mapName": "地鐵一號線[地區03]"
+        },
+        {
+          "mapId": 103000105,
+          "streetName": "墮落城市地鐵",
+          "mapName": "地鐵一號線[地區04]"
+        },
+        {
+          "mapId": 103000200,
+          "streetName": "墮落城市地鐵",
+          "mapName": "地鐵二號線[01]"
+        },
+        {
+          "mapId": 103000201,
+          "streetName": "墮落城市地鐵",
+          "mapName": "地鐵二號線[地區02]"
+        },
+        {
+          "mapId": 103000202,
+          "streetName": "墮落城市地鐵",
+          "mapName": "地鐵二號線[地區03]"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 4,
+      "id": "wm010-4",
+      "name": "維多利亞港",
+      "region": "維多利亞港",
+      "type": 0,
+      "typeLabel": "村莊/主要地點",
+      "spot": {
+        "x": -219,
+        "y": 140
+      },
+      "pixel": {
+        "x": 101,
+        "y": 375,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 15.78,
+        "y": 79.79
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 104000000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "維多利亞港",
+      "mapIds": [
+        104000000,
+        104000001,
+        104000002,
+        104000003,
+        104000004
+      ],
+      "maps": [
+        {
+          "mapId": 104000000,
+          "streetName": "維多利亞",
+          "mapName": "維多利亞港"
+        },
+        {
+          "mapId": 104000001,
+          "streetName": "維多利亞",
+          "mapName": "維多利亞防具店"
+        },
+        {
+          "mapId": 104000002,
+          "streetName": "維多利亞",
+          "mapName": "維多利亞港雜貨店"
+        },
+        {
+          "mapId": 104000003,
+          "streetName": "維多利亞",
+          "mapName": "維多利亞港武器店"
+        },
+        {
+          "mapId": 104000004,
+          "streetName": "維多利亞",
+          "mapName": "維多利亞港資料商店"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 5,
+      "id": "wm010-5",
+      "name": "維多利亞中央地城",
+      "region": "奇幻村",
+      "type": 2,
+      "typeLabel": "副本/地城",
+      "spot": {
+        "x": -47,
+        "y": 26
+      },
+      "pixel": {
+        "x": 273,
+        "y": 261,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 42.66,
+        "y": 55.53
+      },
+      "title": "維多利亞中央地城",
+      "desc": "",
+      "primaryMapId": 105030000,
+      "primaryStreetName": "迷霧森林",
+      "primaryMapName": "黑森林",
+      "mapIds": [
+        105030000,
+        105040000,
+        105040100,
+        105040200,
+        105040300,
+        105040301,
+        105040302,
+        105040303,
+        105040304,
+        105040305,
+        105040306,
+        105040400,
+        105040401,
+        105040402,
+        105050500,
+        105050100,
+        105050200,
+        105050300,
+        105050400,
+        105050000,
+        105060000,
+        105060100,
+        105070000,
+        105070001,
+        105070002,
+        105070100,
+        105070200,
+        105070300,
+        105070400,
+        105080000,
+        105090000,
+        105090100,
+        105090200,
+        105090300,
+        105090301,
+        105090310,
+        105090311,
+        105090312,
+        105090400,
+        105090500,
+        105090600,
+        105090700,
+        105090800,
+        105090900
+      ],
+      "maps": [
+        {
+          "mapId": 105030000,
+          "streetName": "迷霧森林",
+          "mapName": "黑森林"
+        },
+        {
+          "mapId": 105040000,
+          "streetName": "迷霧森林",
+          "mapName": "黑森林通道"
+        },
+        {
+          "mapId": 105040100,
+          "streetName": "迷霧森林",
+          "mapName": "黑森林狩獵場I"
+        },
+        {
+          "mapId": 105040200,
+          "streetName": "迷霧森林",
+          "mapName": "黑森林狩獵場II"
+        },
+        {
+          "mapId": 105040300,
+          "streetName": "迷霧森林",
+          "mapName": "奇幻村"
+        },
+        {
+          "mapId": 105040301,
+          "streetName": "迷霧森林",
+          "mapName": "森林迷宮I"
+        },
+        {
+          "mapId": 105040302,
+          "streetName": "迷霧森林",
+          "mapName": "森林迷宮II"
+        },
+        {
+          "mapId": 105040303,
+          "streetName": "迷霧森林",
+          "mapName": "森林迷宮III"
+        },
+        {
+          "mapId": 105040304,
+          "streetName": "迷霧森林",
+          "mapName": "森林迷宮IV"
+        },
+        {
+          "mapId": 105040305,
+          "streetName": "迷霧森林",
+          "mapName": "森林迷宮V"
+        },
+        {
+          "mapId": 105040306,
+          "streetName": "地城",
+          "mapName": "巨人之林"
+        },
+        {
+          "mapId": 105040400,
+          "streetName": "迷霧森林",
+          "mapName": "奇幻村旅館"
+        },
+        {
+          "mapId": 105040401,
+          "streetName": "迷霧森林",
+          "mapName": "桑那房"
+        },
+        {
+          "mapId": 105040402,
+          "streetName": "迷霧森林",
+          "mapName": "高級桑那房"
+        },
+        {
+          "mapId": 105050500,
+          "streetName": "",
+          "mapName": ""
+        },
+        {
+          "mapId": 105050100,
+          "streetName": "迷霧森林",
+          "mapName": "螞蟻洞Ⅱ"
+        },
+        {
+          "mapId": 105050200,
+          "streetName": "迷霧森林",
+          "mapName": "螞蟻洞Ⅲ"
+        },
+        {
+          "mapId": 105050300,
+          "streetName": "迷霧森林",
+          "mapName": "螞蟻洞Ⅳ"
+        },
+        {
+          "mapId": 105050400,
+          "streetName": "迷霧森林",
+          "mapName": "黑暗通道"
+        },
+        {
+          "mapId": 105050000,
+          "streetName": "迷霧森林",
+          "mapName": "螞蟻洞Ⅰ"
+        },
+        {
+          "mapId": 105060000,
+          "streetName": "迷霧森林",
+          "mapName": "蝙蝠洞"
+        },
+        {
+          "mapId": 105060100,
+          "streetName": "迷霧森林",
+          "mapName": "幽深螞蟻洞Ⅰ"
+        },
+        {
+          "mapId": 105070000,
+          "streetName": "迷霧森林",
+          "mapName": "幽深螞蟻洞Ⅱ"
+        },
+        {
+          "mapId": 105070001,
+          "streetName": "迷霧森林",
+          "mapName": "螞蟻礦坑"
+        },
+        {
+          "mapId": 105070002,
+          "streetName": "地城",
+          "mapName": "蘑菇王之墓"
+        },
+        {
+          "mapId": 105070100,
+          "streetName": "迷霧森林",
+          "mapName": "火獨眼獸洞穴I"
+        },
+        {
+          "mapId": 105070200,
+          "streetName": "迷霧森林",
+          "mapName": "火獨眼獸洞穴II"
+        },
+        {
+          "mapId": 105070300,
+          "streetName": "迷霧森林",
+          "mapName": "火獨眼獸洞穴III"
+        },
+        {
+          "mapId": 105070400,
+          "streetName": "迷霧森林",
+          "mapName": "火獨眼獸洞穴IV"
+        },
+        {
+          "mapId": 105080000,
+          "streetName": "迷霧森林",
+          "mapName": "龍族狩獵場"
+        },
+        {
+          "mapId": 105090000,
+          "streetName": "迷霧森林",
+          "mapName": "冰獨眼獸洞穴Ⅰ"
+        },
+        {
+          "mapId": 105090100,
+          "streetName": "迷霧森林",
+          "mapName": "冰獨眼獸洞穴Ⅱ"
+        },
+        {
+          "mapId": 105090200,
+          "streetName": "迷霧森林",
+          "mapName": "另外的入口"
+        },
+        {
+          "mapId": 105090300,
+          "streetName": "迷霧森林",
+          "mapName": "龍穴"
+        },
+        {
+          "mapId": 105090301,
+          "streetName": "迷霧森林",
+          "mapName": "魔龍領土"
+        },
+        {
+          "mapId": 105090310,
+          "streetName": "地城",
+          "mapName": "龍族之地"
+        },
+        {
+          "mapId": 105090311,
+          "streetName": "地城",
+          "mapName": "冰冷的搖籃"
+        },
+        {
+          "mapId": 105090312,
+          "streetName": "地城",
+          "mapName": "龍族之巢"
+        },
+        {
+          "mapId": 105090400,
+          "streetName": "迷霧森林",
+          "mapName": "寺院入口"
+        },
+        {
+          "mapId": 105090500,
+          "streetName": "迷霧森林",
+          "mapName": "寺院通道Ⅰ"
+        },
+        {
+          "mapId": 105090600,
+          "streetName": "迷霧森林",
+          "mapName": "寺院通道Ⅱ"
+        },
+        {
+          "mapId": 105090700,
+          "streetName": "迷霧森林",
+          "mapName": "寺院通道Ⅲ"
+        },
+        {
+          "mapId": 105090800,
+          "streetName": "迷霧森林",
+          "mapName": "寺院通道Ⅳ"
+        },
+        {
+          "mapId": 105090900,
+          "streetName": "迷霧森林",
+          "mapName": "被詛咒的寺院"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 6,
+      "id": "wm010-6",
+      "name": "弓箭手村東部小山",
+      "region": "弓箭手村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 22,
+        "y": 141
+      },
+      "pixel": {
+        "x": 342,
+        "y": 376,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 53.44,
+        "y": 80.0
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 100010000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "弓箭手村東部小山",
+      "mapIds": [
+        100010000
+      ],
+      "maps": [
+        {
+          "mapId": 100010000,
+          "streetName": "維多利亞",
+          "mapName": "弓箭手村東部小山"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 7,
+      "id": "wm010-7",
+      "name": "弓箭手村東側草叢",
+      "region": "弓箭手村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 34,
+        "y": 119
+      },
+      "pixel": {
+        "x": 354,
+        "y": 354,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 55.31,
+        "y": 75.32
+      },
+      "title": "弓箭手村東側草叢",
+      "desc": "可自行或與隊伍暢快打怪的迷你地城！內有可前往#c弓箭手村肥肥農場#的傳點。",
+      "primaryMapId": 100020000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "弓箭手村東部草叢",
+      "mapIds": [
+        100020000
+      ],
+      "maps": [
+        {
+          "mapId": 100020000,
+          "streetName": "維多利亞",
+          "mapName": "弓箭手村東部草叢"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 8,
+      "id": "wm010-8",
+      "name": "弓箭手村東部森林",
+      "region": "弓箭手村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 40,
+        "y": 95
+      },
+      "pixel": {
+        "x": 360,
+        "y": 330,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 56.25,
+        "y": 70.21
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 100030000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "弓箭手村東部森林",
+      "mapIds": [
+        100030000
+      ],
+      "maps": [
+        {
+          "mapId": 100030000,
+          "streetName": "維多利亞",
+          "mapName": "弓箭手村東部森林"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 9,
+      "id": "wm010-9",
+      "name": "魔法森林南部",
+      "region": "弓箭手村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 55,
+        "y": 76
+      },
+      "pixel": {
+        "x": 375,
+        "y": 311,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 58.59,
+        "y": 66.17
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 100040000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "魔法森林南部",
+      "mapIds": [
+        100040000,
+        100040001,
+        100040002,
+        100040003,
+        100040004
+      ],
+      "maps": [
+        {
+          "mapId": 100040000,
+          "streetName": "維多利亞",
+          "mapName": "魔法森林南部"
+        },
+        {
+          "mapId": 100040001,
+          "streetName": "維多利亞",
+          "mapName": "南部森林訓練場Ⅰ"
+        },
+        {
+          "mapId": 100040002,
+          "streetName": "維多利亞",
+          "mapName": "南部森林訓練場Ⅱ"
+        },
+        {
+          "mapId": 100040003,
+          "streetName": "維多利亞",
+          "mapName": "南部森林訓練場Ⅲ"
+        },
+        {
+          "mapId": 100040004,
+          "streetName": "維多利亞",
+          "mapName": "南部森林訓練場Ⅳ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 10,
+      "id": "wm010-10",
+      "name": "智慧森林",
+      "region": "弓箭手村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 78,
+        "y": 66
+      },
+      "pixel": {
+        "x": 398,
+        "y": 301,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 62.19,
+        "y": 64.04
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 100040100,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "智慧森林",
+      "mapIds": [
+        100040100
+      ],
+      "maps": [
+        {
+          "mapId": 100040100,
+          "streetName": "維多利亞",
+          "mapName": "智慧森林"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 11,
+      "id": "wm010-11",
+      "name": "魔法森林南郊",
+      "region": "弓箭手村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 98,
+        "y": 54
+      },
+      "pixel": {
+        "x": 418,
+        "y": 289,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 65.31,
+        "y": 61.49
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 100050000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "魔法森林南郊",
+      "mapIds": [
+        100050000
+      ],
+      "maps": [
+        {
+          "mapId": 100050000,
+          "streetName": "維多利亞",
+          "mapName": "魔法森林南郊"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 12,
+      "id": "wm010-12",
+      "name": "魔法森林北郊",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 73,
+        "y": 26
+      },
+      "pixel": {
+        "x": 393,
+        "y": 261,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 61.41,
+        "y": 55.53
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101010000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "魔法森林北郊",
+      "mapIds": [
+        101010000
+      ],
+      "maps": [
+        {
+          "mapId": 101010000,
+          "streetName": "維多利亞",
+          "mapName": "魔法森林北郊"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 13,
+      "id": "wm010-13",
+      "name": "大木林Ⅰ",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 54,
+        "y": 18
+      },
+      "pixel": {
+        "x": 374,
+        "y": 253,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 58.44,
+        "y": 53.83
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101010100,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "大木林Ⅰ",
+      "mapIds": [
+        101010100
+      ],
+      "maps": [
+        {
+          "mapId": 101010100,
+          "streetName": "維多利亞",
+          "mapName": "大木林Ⅰ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 14,
+      "id": "wm010-14",
+      "name": "魔法森林北部",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 43,
+        "y": -6
+      },
+      "pixel": {
+        "x": 363,
+        "y": 229,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 56.72,
+        "y": 48.72
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101020000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "魔法森林北部",
+      "mapIds": [
+        101020000,
+        101020001,
+        101020002,
+        101020003,
+        101020004,
+        101020005,
+        101020006,
+        101020007,
+        101020008,
+        101020009,
+        101020010
+      ],
+      "maps": [
+        {
+          "mapId": 101020000,
+          "streetName": "維多利亞",
+          "mapName": "魔法森林北部"
+        },
+        {
+          "mapId": 101020001,
+          "streetName": "維多利亞",
+          "mapName": "北部森林通道"
+        },
+        {
+          "mapId": 101020002,
+          "streetName": "維多利亞",
+          "mapName": "北部森林訓練場Ⅰ"
+        },
+        {
+          "mapId": 101020003,
+          "streetName": "維多利亞",
+          "mapName": "北部森林訓練場Ⅱ"
+        },
+        {
+          "mapId": 101020004,
+          "streetName": "維多利亞",
+          "mapName": "北部森林訓練場Ⅲ"
+        },
+        {
+          "mapId": 101020005,
+          "streetName": "維多利亞",
+          "mapName": "北部森林訓練場Ⅳ"
+        },
+        {
+          "mapId": 101020006,
+          "streetName": "維多利亞",
+          "mapName": "北部森林訓練場Ⅴ"
+        },
+        {
+          "mapId": 101020007,
+          "streetName": "維多利亞",
+          "mapName": "北部森林訓練場Ⅵ"
+        },
+        {
+          "mapId": 101020008,
+          "streetName": "維多利亞",
+          "mapName": "北部森林訓練場Ⅶ"
+        },
+        {
+          "mapId": 101020009,
+          "streetName": "維多利亞",
+          "mapName": "北部森林訓練場Ⅷ"
+        },
+        {
+          "mapId": 101020010,
+          "streetName": "維多利亞",
+          "mapName": "北部森林訓練場Ⅸ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 15,
+      "id": "wm010-15",
+      "name": "勇士之村東部",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 46,
+        "y": -35
+      },
+      "pixel": {
+        "x": 366,
+        "y": 200,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 57.19,
+        "y": 42.55
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101030000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "勇士之村東部",
+      "mapIds": [
+        101030000
+      ],
+      "maps": [
+        {
+          "mapId": 101030000,
+          "streetName": "維多利亞",
+          "mapName": "勇士之村東部"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 16,
+      "id": "wm010-16",
+      "name": "岩石路Ⅲ",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 43,
+        "y": -62
+      },
+      "pixel": {
+        "x": 363,
+        "y": 173,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 56.72,
+        "y": 36.81
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101030100,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "岩石路Ⅲ",
+      "mapIds": [
+        101030100
+      ],
+      "maps": [
+        {
+          "mapId": 101030100,
+          "streetName": "維多利亞",
+          "mapName": "岩石路Ⅲ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 17,
+      "id": "wm010-17",
+      "name": "岩石路Ⅱ",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 26,
+        "y": -80
+      },
+      "pixel": {
+        "x": 346,
+        "y": 155,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 54.06,
+        "y": 32.98
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101030200,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "岩石路Ⅱ",
+      "mapIds": [
+        101030200
+      ],
+      "maps": [
+        {
+          "mapId": 101030200,
+          "streetName": "維多利亞",
+          "mapName": "岩石路Ⅱ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 18,
+      "id": "wm010-18",
+      "name": "岩石路Ⅰ",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 11,
+        "y": -104
+      },
+      "pixel": {
+        "x": 331,
+        "y": 131,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 51.72,
+        "y": 27.87
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101030300,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "岩石路Ⅰ",
+      "mapIds": [
+        101030300
+      ],
+      "maps": [
+        {
+          "mapId": 101030300,
+          "streetName": "維多利亞",
+          "mapName": "岩石路Ⅰ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 19,
+      "id": "wm010-19",
+      "name": "東方岩石山Ⅰ",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -15,
+        "y": -113
+      },
+      "pixel": {
+        "x": 305,
+        "y": 122,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 47.66,
+        "y": 25.96
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101030400,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "東方岩石山Ⅰ",
+      "mapIds": [
+        101030400
+      ],
+      "maps": [
+        {
+          "mapId": 101030400,
+          "streetName": "維多利亞",
+          "mapName": "東方岩石山Ⅰ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 20,
+      "id": "wm010-20",
+      "name": "勇士之村東入口",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -35,
+        "y": -123
+      },
+      "pixel": {
+        "x": 285,
+        "y": 112,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 44.53,
+        "y": 23.83
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101040000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "勇士之村東入口",
+      "mapIds": [
+        101040000
+      ],
+      "maps": [
+        {
+          "mapId": 101040000,
+          "streetName": "維多利亞",
+          "mapName": "勇士之村東入口"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 21,
+      "id": "wm010-21",
+      "name": "勇士村西入口",
+      "region": "勇士之村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -117,
+        "y": -119
+      },
+      "pixel": {
+        "x": 203,
+        "y": 116,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 31.72,
+        "y": 24.68
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 102010000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "勇士村西入口",
+      "mapIds": [
+        102010000
+      ],
+      "maps": [
+        {
+          "mapId": 102010000,
+          "streetName": "維多利亞",
+          "mapName": "勇士村西入口"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 22,
+      "id": "wm010-22",
+      "name": "西部岩山Ⅰ",
+      "region": "勇士之村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -119,
+        "y": -96
+      },
+      "pixel": {
+        "x": 201,
+        "y": 139,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 31.41,
+        "y": 29.57
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 102020000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "西部岩山Ⅰ",
+      "mapIds": [
+        102020000
+      ],
+      "maps": [
+        {
+          "mapId": 102020000,
+          "streetName": "維多利亞",
+          "mapName": "西部岩山Ⅰ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 23,
+      "id": "wm010-23",
+      "name": "勇士之村西部",
+      "region": "勇士之村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -135,
+        "y": -80
+      },
+      "pixel": {
+        "x": 185,
+        "y": 155,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 28.91,
+        "y": 32.98
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 102030000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "勇士之村西部",
+      "mapIds": [
+        102030000
+      ],
+      "maps": [
+        {
+          "mapId": 102030000,
+          "streetName": "維多利亞",
+          "mapName": "勇士之村西部"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 24,
+      "id": "wm010-24",
+      "name": "墮落城市北方工地",
+      "region": "勇士之村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -159,
+        "y": -80
+      },
+      "pixel": {
+        "x": 161,
+        "y": 155,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 25.16,
+        "y": 32.98
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 102040000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "墮落城市北方工地",
+      "mapIds": [
+        102040000
+      ],
+      "maps": [
+        {
+          "mapId": 102040000,
+          "streetName": "維多利亞",
+          "mapName": "墮落城市北方工地"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 25,
+      "id": "wm010-25",
+      "name": "墮落城市北入口",
+      "region": "勇士之村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -185,
+        "y": -80
+      },
+      "pixel": {
+        "x": 135,
+        "y": 155,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 21.09,
+        "y": 32.98
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 102050000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "墮落城市北入口",
+      "mapIds": [
+        102050000
+      ],
+      "maps": [
+        {
+          "mapId": 102050000,
+          "streetName": "維多利亞",
+          "mapName": "墮落城市北入口"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 26,
+      "id": "wm010-26",
+      "name": "墮落城市南方工地",
+      "region": "墮落城市",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -201,
+        "y": -14
+      },
+      "pixel": {
+        "x": 119,
+        "y": 221,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 18.59,
+        "y": 47.02
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 103010000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "墮落城市南方工地",
+      "mapIds": [
+        103010000
+      ],
+      "maps": [
+        {
+          "mapId": 103010000,
+          "streetName": "維多利亞",
+          "mapName": "墮落城市南方工地"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 27,
+      "id": "wm010-27",
+      "name": "歷恩森林Ⅰ",
+      "region": "墮落城市",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -204,
+        "y": 11
+      },
+      "pixel": {
+        "x": 116,
+        "y": 246,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 18.12,
+        "y": 52.34
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 103020000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "歷恩森林Ⅰ",
+      "mapIds": [
+        103020000
+      ],
+      "maps": [
+        {
+          "mapId": 103020000,
+          "streetName": "維多利亞",
+          "mapName": "歷恩森林Ⅰ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 28,
+      "id": "wm010-28",
+      "name": "歷恩森林Ⅱ",
+      "region": "墮落城市",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -206,
+        "y": 33
+      },
+      "pixel": {
+        "x": 114,
+        "y": 268,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 17.81,
+        "y": 57.02
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 103020100,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "歷恩森林Ⅱ",
+      "mapIds": [
+        103020100
+      ],
+      "maps": [
+        {
+          "mapId": 103020100,
+          "streetName": "維多利亞",
+          "mapName": "歷恩森林Ⅱ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 29,
+      "id": "wm010-29",
+      "name": "歷恩森林Ⅲ",
+      "region": "墮落城市",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -189,
+        "y": 52
+      },
+      "pixel": {
+        "x": 131,
+        "y": 287,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 20.47,
+        "y": 61.06
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 103020200,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "歷恩森林Ⅲ",
+      "mapIds": [
+        103020200
+      ],
+      "maps": [
+        {
+          "mapId": 103020200,
+          "streetName": "維多利亞",
+          "mapName": "歷恩森林Ⅲ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 30,
+      "id": "wm010-30",
+      "name": "墮落城市森林I",
+      "region": "墮落城市",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -163,
+        "y": 47
+      },
+      "pixel": {
+        "x": 157,
+        "y": 282,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 24.53,
+        "y": 60.0
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 103030000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "墮落城市森林I",
+      "mapIds": [
+        103030000
+      ],
+      "maps": [
+        {
+          "mapId": 103030000,
+          "streetName": "維多利亞",
+          "mapName": "墮落城市森林I"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 31,
+      "id": "wm010-31",
+      "name": "三叉路",
+      "region": "維多利亞港",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -134,
+        "y": 59
+      },
+      "pixel": {
+        "x": 186,
+        "y": 294,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 29.06,
+        "y": 62.55
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 104010000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "三叉路",
+      "mapIds": [
+        104010000
+      ],
+      "maps": [
+        {
+          "mapId": 104010000,
+          "streetName": "維多利亞",
+          "mapName": "三叉路"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 32,
+      "id": "wm010-32",
+      "name": "弓箭手村西部森林",
+      "region": "維多利亞港",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -125,
+        "y": 85
+      },
+      "pixel": {
+        "x": 195,
+        "y": 320,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 30.47,
+        "y": 68.09
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 104020000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "弓箭手村西部森林",
+      "mapIds": [
+        104020000
+      ],
+      "maps": [
+        {
+          "mapId": 104020000,
+          "streetName": "維多利亞",
+          "mapName": "弓箭手村西部森林"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 33,
+      "id": "wm010-33",
+      "name": "弓箭手村西部小山",
+      "region": "維多利亞港",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -114,
+        "y": 115
+      },
+      "pixel": {
+        "x": 206,
+        "y": 350,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 32.19,
+        "y": 74.47
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 104030000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "弓箭手村西部小山",
+      "mapIds": [
+        104030000
+      ],
+      "maps": [
+        {
+          "mapId": 104030000,
+          "streetName": "維多利亞",
+          "mapName": "弓箭手村西部小山"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 34,
+      "id": "wm010-34",
+      "name": "弓箭手訓練場Ⅰ",
+      "region": "維多利亞港",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -80,
+        "y": 139
+      },
+      "pixel": {
+        "x": 240,
+        "y": 374,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 37.5,
+        "y": 79.57
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 104040000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "弓箭手訓練場Ⅰ",
+      "mapIds": [
+        104040000
+      ],
+      "maps": [
+        {
+          "mapId": 104040000,
+          "streetName": "維多利亞",
+          "mapName": "弓箭手訓練場Ⅰ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 35,
+      "id": "wm010-35",
+      "name": "維多利亞港郊外",
+      "region": "維多利亞港",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -215,
+        "y": 101
+      },
+      "pixel": {
+        "x": 105,
+        "y": 336,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 16.41,
+        "y": 71.49
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 104000100,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "維多利亞港郊外",
+      "mapIds": [
+        104000100
+      ],
+      "maps": [
+        {
+          "mapId": 104000100,
+          "streetName": "維多利亞",
+          "mapName": "維多利亞港郊外"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 36,
+      "id": "wm010-36",
+      "name": "海岸草叢Ⅰ",
+      "region": "維多利亞港",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -192,
+        "y": 86
+      },
+      "pixel": {
+        "x": 128,
+        "y": 321,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 20.0,
+        "y": 68.3
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 104000200,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "海岸草叢Ⅰ",
+      "mapIds": [
+        104000200
+      ],
+      "maps": [
+        {
+          "mapId": 104000200,
+          "streetName": "維多利亞",
+          "mapName": "海岸草叢Ⅰ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 37,
+      "id": "wm010-37",
+      "name": "海岸草叢Ⅱ",
+      "region": "維多利亞港",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -170,
+        "y": 87
+      },
+      "pixel": {
+        "x": 150,
+        "y": 322,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 23.44,
+        "y": 68.51
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 104000300,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "海岸草叢Ⅱ",
+      "mapIds": [
+        104000300
+      ],
+      "maps": [
+        {
+          "mapId": 104000300,
+          "streetName": "維多利亞",
+          "mapName": "海岸草叢Ⅱ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 38,
+      "id": "wm010-38",
+      "name": "海岸草叢Ⅲ",
+      "region": "維多利亞港",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -145,
+        "y": 77
+      },
+      "pixel": {
+        "x": 175,
+        "y": 312,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 27.34,
+        "y": 66.38
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 104000400,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "海岸草叢Ⅲ",
+      "mapIds": [
+        104000400
+      ],
+      "maps": [
+        {
+          "mapId": 104000400,
+          "streetName": "維多利亞",
+          "mapName": "海岸草叢Ⅲ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 39,
+      "id": "wm010-39",
+      "name": "幽深的峽谷Ⅰ",
+      "region": "奇幻村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -78,
+        "y": -99
+      },
+      "pixel": {
+        "x": 242,
+        "y": 136,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 37.81,
+        "y": 28.94
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 106000000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "幽深的峽谷Ⅰ",
+      "mapIds": [
+        106000000
+      ],
+      "maps": [
+        {
+          "mapId": 106000000,
+          "streetName": "維多利亞",
+          "mapName": "幽深的峽谷Ⅰ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 40,
+      "id": "wm010-40",
+      "name": "幽深的峽谷Ⅱ",
+      "region": "奇幻村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -91,
+        "y": -76
+      },
+      "pixel": {
+        "x": 229,
+        "y": 159,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 35.78,
+        "y": 33.83
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 106000100,
+      "primaryStreetName": "戰火之地",
+      "primaryMapName": "幽深的峽谷Ⅱ",
+      "mapIds": [
+        106000100
+      ],
+      "maps": [
+        {
+          "mapId": 106000100,
+          "streetName": "戰火之地",
+          "mapName": "幽深的峽谷Ⅱ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 41,
+      "id": "wm010-41",
+      "name": "幽深峽谷Ⅲ",
+      "region": "奇幻村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -101,
+        "y": -49
+      },
+      "pixel": {
+        "x": 219,
+        "y": 186,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 34.22,
+        "y": 39.57
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 106000200,
+      "primaryStreetName": "戰火之地",
+      "primaryMapName": "幽深峽谷Ⅲ",
+      "mapIds": [
+        106000200
+      ],
+      "maps": [
+        {
+          "mapId": 106000200,
+          "streetName": "戰火之地",
+          "mapName": "幽深峽谷Ⅲ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 42,
+      "id": "wm010-42",
+      "name": "勇士之村迷宮入口",
+      "region": "奇幻村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -84,
+        "y": -27
+      },
+      "pixel": {
+        "x": 236,
+        "y": 208,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 36.88,
+        "y": 44.26
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 106000300,
+      "primaryStreetName": "戰火之地",
+      "primaryMapName": "勇士之村迷宮入口",
+      "mapIds": [
+        106000300
+      ],
+      "maps": [
+        {
+          "mapId": 106000300,
+          "streetName": "戰火之地",
+          "mapName": "勇士之村迷宮入口"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 43,
+      "id": "wm010-43",
+      "name": "迷宮通道",
+      "region": "奇幻村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -32,
+        "y": 107
+      },
+      "pixel": {
+        "x": 288,
+        "y": 342,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 45.0,
+        "y": 72.77
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 106010000,
+      "primaryStreetName": "戰火之地",
+      "primaryMapName": "迷宮通道",
+      "mapIds": [
+        106010000
+      ],
+      "maps": [
+        {
+          "mapId": 106010000,
+          "streetName": "戰火之地",
+          "mapName": "迷宮通道"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 44,
+      "id": "wm010-44",
+      "name": "弓箭手村迷宮入口",
+      "region": "奇幻村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -41,
+        "y": 85
+      },
+      "pixel": {
+        "x": 279,
+        "y": 320,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 43.59,
+        "y": 68.09
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 106010100,
+      "primaryStreetName": "戰火之地",
+      "primaryMapName": "弓箭手村迷宮入口",
+      "mapIds": [
+        106010100
+      ],
+      "maps": [
+        {
+          "mapId": 106010100,
+          "streetName": "戰火之地",
+          "mapName": "弓箭手村迷宮入口"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 45,
+      "id": "wm010-45",
+      "name": "沼澤地Ⅰ",
+      "region": "遺跡發掘地",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -177,
+        "y": -48
+      },
+      "pixel": {
+        "x": 143,
+        "y": 187,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 22.34,
+        "y": 39.79
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 107000000,
+      "primaryStreetName": "戰火之地",
+      "primaryMapName": "沼澤地Ⅰ",
+      "mapIds": [
+        107000000
+      ],
+      "maps": [
+        {
+          "mapId": 107000000,
+          "streetName": "戰火之地",
+          "mapName": "沼澤地Ⅰ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 46,
+      "id": "wm010-46",
+      "name": "沼澤地Ⅱ",
+      "region": "遺跡發掘地",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -151,
+        "y": -43
+      },
+      "pixel": {
+        "x": 169,
+        "y": 192,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 26.41,
+        "y": 40.85
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 107000100,
+      "primaryStreetName": "戰火之地",
+      "primaryMapName": "沼澤地Ⅱ",
+      "mapIds": [
+        107000100
+      ],
+      "maps": [
+        {
+          "mapId": 107000100,
+          "streetName": "戰火之地",
+          "mapName": "沼澤地Ⅱ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 47,
+      "id": "wm010-47",
+      "name": "沼澤地Ⅲ",
+      "region": "遺跡發掘地",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -131,
+        "y": -16
+      },
+      "pixel": {
+        "x": 189,
+        "y": 219,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 29.53,
+        "y": 46.6
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 107000200,
+      "primaryStreetName": "戰火之地",
+      "primaryMapName": "沼澤地Ⅲ",
+      "mapIds": [
+        107000200
+      ],
+      "maps": [
+        {
+          "mapId": 107000200,
+          "streetName": "戰火之地",
+          "mapName": "沼澤地Ⅲ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 48,
+      "id": "wm010-48",
+      "name": "鱷魚潭Ⅰ",
+      "region": "遺跡發掘地",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -123,
+        "y": 9
+      },
+      "pixel": {
+        "x": 197,
+        "y": 244,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 30.78,
+        "y": 51.91
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 107000300,
+      "primaryStreetName": "戰火之地",
+      "primaryMapName": "鱷魚潭Ⅰ",
+      "mapIds": [
+        107000300
+      ],
+      "maps": [
+        {
+          "mapId": 107000300,
+          "streetName": "戰火之地",
+          "mapName": "鱷魚潭Ⅰ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 49,
+      "id": "wm010-49",
+      "name": "鱷魚潭Ⅱ",
+      "region": "遺跡發掘地",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -103,
+        "y": 24
+      },
+      "pixel": {
+        "x": 217,
+        "y": 259,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 33.91,
+        "y": 55.11
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 107000400,
+      "primaryStreetName": "戰火之地",
+      "primaryMapName": "鱷魚潭Ⅱ",
+      "mapIds": [
+        107000400
+      ],
+      "maps": [
+        {
+          "mapId": 107000400,
+          "streetName": "戰火之地",
+          "mapName": "鱷魚潭Ⅱ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 50,
+      "id": "wm010-50",
+      "name": "黃金海灘",
+      "region": "黃金海岸",
+      "type": 0,
+      "typeLabel": "村莊/主要地點",
+      "spot": {
+        "x": 238,
+        "y": 96
+      },
+      "pixel": {
+        "x": 558,
+        "y": 331,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 87.19,
+        "y": 70.43
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 110000000,
+      "primaryStreetName": "黃金海岸",
+      "primaryMapName": "黃金海灘",
+      "mapIds": [
+        110000000
+      ],
+      "maps": [
+        {
+          "mapId": 110000000,
+          "streetName": "黃金海岸",
+          "mapName": "黃金海灘"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 51,
+      "id": "wm010-51",
+      "name": "熱帶沙灘",
+      "region": "黃金海岸",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 266,
+        "y": 86
+      },
+      "pixel": {
+        "x": 586,
+        "y": 321,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 91.56,
+        "y": 68.3
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 110010000,
+      "primaryStreetName": "黃金海岸",
+      "primaryMapName": "熱帶沙灘",
+      "mapIds": [
+        110010000
+      ],
+      "maps": [
+        {
+          "mapId": 110010000,
+          "streetName": "黃金海岸",
+          "mapName": "熱帶沙灘"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 52,
+      "id": "wm010-52",
+      "name": "紅螃蟹海灘Ⅰ",
+      "region": "黃金海岸",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 279,
+        "y": 70
+      },
+      "pixel": {
+        "x": 599,
+        "y": 305,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 93.59,
+        "y": 64.89
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 110020000,
+      "primaryStreetName": "黃金海岸",
+      "primaryMapName": "紅螃蟹海灘Ⅰ",
+      "mapIds": [
+        110020000
+      ],
+      "maps": [
+        {
+          "mapId": 110020000,
+          "streetName": "黃金海岸",
+          "mapName": "紅螃蟹海灘Ⅰ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 53,
+      "id": "wm010-53",
+      "name": "青螃蟹海灘I",
+      "region": "黃金海岸",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 272,
+        "y": 46
+      },
+      "pixel": {
+        "x": 592,
+        "y": 281,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 92.5,
+        "y": 59.79
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 110030000,
+      "primaryStreetName": "黃金海岸",
+      "primaryMapName": "青螃蟹海灘I",
+      "mapIds": [
+        110030000
+      ],
+      "maps": [
+        {
+          "mapId": 110030000,
+          "streetName": "黃金海岸",
+          "mapName": "青螃蟹海灘I"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 54,
+      "id": "wm010-54",
+      "name": "海龜沙灘",
+      "region": "黃金海岸",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 247,
+        "y": 42
+      },
+      "pixel": {
+        "x": 567,
+        "y": 277,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 88.59,
+        "y": 58.94
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 110040000,
+      "primaryStreetName": "黃金海岸",
+      "primaryMapName": "海龜沙灘",
+      "mapIds": [
+        110040000
+      ],
+      "maps": [
+        {
+          "mapId": 110040000,
+          "streetName": "黃金海岸",
+          "mapName": "海龜沙灘"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 55,
+      "id": "wm010-55",
+      "name": "遺跡發掘地Ⅰ",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 62,
+        "y": -72
+      },
+      "pixel": {
+        "x": 382,
+        "y": 163,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 59.69,
+        "y": 34.68
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101030101,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "遺跡發掘地Ⅰ",
+      "mapIds": [
+        101030101
+      ],
+      "maps": [
+        {
+          "mapId": 101030101,
+          "streetName": "維多利亞",
+          "mapName": "遺跡發掘地Ⅰ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 56,
+      "id": "wm010-56",
+      "name": "遺跡發掘地Ⅱ",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 89,
+        "y": -83
+      },
+      "pixel": {
+        "x": 409,
+        "y": 152,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 63.91,
+        "y": 32.34
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101030102,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "遺跡發掘地Ⅱ",
+      "mapIds": [
+        101030102
+      ],
+      "maps": [
+        {
+          "mapId": 101030102,
+          "streetName": "維多利亞",
+          "mapName": "遺跡發掘地Ⅱ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 57,
+      "id": "wm010-57",
+      "name": "遺跡發掘地Ⅲ",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 92,
+        "y": -60
+      },
+      "pixel": {
+        "x": 412,
+        "y": 175,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 64.38,
+        "y": 37.23
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101030103,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "遺跡發掘地Ⅲ",
+      "mapIds": [
+        101030103
+      ],
+      "maps": [
+        {
+          "mapId": 101030103,
+          "streetName": "維多利亞",
+          "mapName": "遺跡發掘地Ⅲ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 58,
+      "id": "wm010-58",
+      "name": "遺跡發掘隊營地",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 84,
+        "y": -36
+      },
+      "pixel": {
+        "x": 404,
+        "y": 199,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 63.12,
+        "y": 42.34
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101030104,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "遺跡發掘隊營地",
+      "mapIds": [
+        101030104
+      ],
+      "maps": [
+        {
+          "mapId": 101030104,
+          "streetName": "維多利亞",
+          "mapName": "遺跡發掘隊營地"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 59,
+      "id": "wm010-59",
+      "name": "遺跡之墓Ⅰ",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 96,
+        "y": -18
+      },
+      "pixel": {
+        "x": 416,
+        "y": 217,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 65.0,
+        "y": 46.17
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101030105,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "遺跡之墓Ⅰ",
+      "mapIds": [
+        101030105
+      ],
+      "maps": [
+        {
+          "mapId": 101030105,
+          "streetName": "維多利亞",
+          "mapName": "遺跡之墓Ⅰ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 60,
+      "id": "wm010-60",
+      "name": "遺跡之墓Ⅱ",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 120,
+        "y": -29
+      },
+      "pixel": {
+        "x": 440,
+        "y": 206,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 68.75,
+        "y": 43.83
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101030106,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "遺跡之墓Ⅱ",
+      "mapIds": [
+        101030106
+      ],
+      "maps": [
+        {
+          "mapId": 101030106,
+          "streetName": "維多利亞",
+          "mapName": "遺跡之墓Ⅱ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 61,
+      "id": "wm010-61",
+      "name": "遺跡之墓Ⅲ",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 131,
+        "y": -48
+      },
+      "pixel": {
+        "x": 451,
+        "y": 187,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 70.47,
+        "y": 39.79
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101030107,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "遺跡之墓Ⅲ",
+      "mapIds": [
+        101030107
+      ],
+      "maps": [
+        {
+          "mapId": 101030107,
+          "streetName": "維多利亞",
+          "mapName": "遺跡之墓Ⅲ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 62,
+      "id": "wm010-62",
+      "name": "遺跡之墓Ⅳ",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 131,
+        "y": -72
+      },
+      "pixel": {
+        "x": 451,
+        "y": 163,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 70.47,
+        "y": 34.68
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101030108,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "遺跡之墓Ⅳ",
+      "mapIds": [
+        101030108
+      ],
+      "maps": [
+        {
+          "mapId": 101030108,
+          "streetName": "維多利亞",
+          "mapName": "遺跡之墓Ⅳ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 63,
+      "id": "wm010-63",
+      "name": "遺跡之峭壁",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 123,
+        "y": -99
+      },
+      "pixel": {
+        "x": 443,
+        "y": 136,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 69.22,
+        "y": 28.94
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101030109,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "遺跡之峭壁",
+      "mapIds": [
+        101030109
+      ],
+      "maps": [
+        {
+          "mapId": 101030109,
+          "streetName": "維多利亞",
+          "mapName": "遺跡之峭壁"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 64,
+      "id": "wm010-64",
+      "name": "大木林Ⅱ",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 46,
+        "y": 32
+      },
+      "pixel": {
+        "x": 366,
+        "y": 267,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 57.19,
+        "y": 56.81
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101010101,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "大木林Ⅱ",
+      "mapIds": [
+        101010101
+      ],
+      "maps": [
+        {
+          "mapId": 101010101,
+          "streetName": "維多利亞",
+          "mapName": "大木林Ⅱ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 65,
+      "id": "wm010-65",
+      "name": "大木林Ⅲ",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 31,
+        "y": 39
+      },
+      "pixel": {
+        "x": 351,
+        "y": 274,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 54.84,
+        "y": 58.3
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101010102,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "大木林Ⅲ",
+      "mapIds": [
+        101010102
+      ],
+      "maps": [
+        {
+          "mapId": 101010102,
+          "streetName": "維多利亞",
+          "mapName": "大木林Ⅲ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 66,
+      "id": "wm010-66",
+      "name": "大木林之巔",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 12,
+        "y": 31
+      },
+      "pixel": {
+        "x": 332,
+        "y": 266,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 51.88,
+        "y": 56.6
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101010103,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "大木林之巔",
+      "mapIds": [
+        101010103
+      ],
+      "maps": [
+        {
+          "mapId": 101010103,
+          "streetName": "維多利亞",
+          "mapName": "大木林之巔"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 67,
+      "id": "wm010-67",
+      "name": "西部岩山Ⅱ",
+      "region": "勇士之村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -139,
+        "y": -111
+      },
+      "pixel": {
+        "x": 181,
+        "y": 124,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 28.28,
+        "y": 26.38
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 102020100,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "西部岩山Ⅱ",
+      "mapIds": [
+        102020100
+      ],
+      "maps": [
+        {
+          "mapId": 102020100,
+          "streetName": "維多利亞",
+          "mapName": "西部岩山Ⅱ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 68,
+      "id": "wm010-68",
+      "name": "西部岩山Ⅲ",
+      "region": "勇士之村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -168,
+        "y": -117
+      },
+      "pixel": {
+        "x": 152,
+        "y": 118,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 23.75,
+        "y": 25.11
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 102020200,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "西部岩山Ⅲ",
+      "mapIds": [
+        102020200
+      ],
+      "maps": [
+        {
+          "mapId": 102020200,
+          "streetName": "維多利亞",
+          "mapName": "西部岩山Ⅲ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 69,
+      "id": "wm010-69",
+      "name": "西部岩山Ⅳ",
+      "region": "勇士之村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -197,
+        "y": -128
+      },
+      "pixel": {
+        "x": 123,
+        "y": 107,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 19.22,
+        "y": 22.77
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 102020300,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "西部岩山Ⅳ",
+      "mapIds": [
+        102020300
+      ],
+      "maps": [
+        {
+          "mapId": 102020300,
+          "streetName": "維多利亞",
+          "mapName": "西部岩山Ⅳ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 70,
+      "id": "wm010-70",
+      "name": "墮落城市森林II",
+      "region": "墮落城市",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -173,
+        "y": 26
+      },
+      "pixel": {
+        "x": 147,
+        "y": 261,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 22.97,
+        "y": 55.53
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 103030100,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "墮落城市森林II",
+      "mapIds": [
+        103030100
+      ],
+      "maps": [
+        {
+          "mapId": 103030100,
+          "streetName": "維多利亞",
+          "mapName": "墮落城市森林II"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 71,
+      "id": "wm010-71",
+      "name": "墮落城市森林III",
+      "region": "墮落城市",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -171,
+        "y": 6
+      },
+      "pixel": {
+        "x": 149,
+        "y": 241,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 23.28,
+        "y": 51.28
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 103030200,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "墮落城市森林III",
+      "mapIds": [
+        103030200
+      ],
+      "maps": [
+        {
+          "mapId": 103030200,
+          "streetName": "維多利亞",
+          "mapName": "墮落城市森林III"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 72,
+      "id": "wm010-72",
+      "name": "弓箭手訓練場Ⅱ",
+      "region": "維多利亞港",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -76,
+        "y": 115
+      },
+      "pixel": {
+        "x": 244,
+        "y": 350,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 38.12,
+        "y": 74.47
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 104040001,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "弓箭手訓練場Ⅱ",
+      "mapIds": [
+        104040001
+      ],
+      "maps": [
+        {
+          "mapId": 104040001,
+          "streetName": "維多利亞",
+          "mapName": "弓箭手訓練場Ⅱ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 73,
+      "id": "wm010-73",
+      "name": "弓箭手訓練場Ⅲ",
+      "region": "維多利亞港",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -84,
+        "y": 91
+      },
+      "pixel": {
+        "x": 236,
+        "y": 326,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 36.88,
+        "y": 69.36
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 104040002,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "弓箭手訓練場Ⅲ",
+      "mapIds": [
+        104040002
+      ],
+      "maps": [
+        {
+          "mapId": 104040002,
+          "streetName": "維多利亞",
+          "mapName": "弓箭手訓練場Ⅲ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 74,
+      "id": "wm010-74",
+      "name": "火焰之地Ⅰ",
+      "region": "奇幻村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -70,
+        "y": -69
+      },
+      "pixel": {
+        "x": 250,
+        "y": 166,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 39.06,
+        "y": 35.32
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 106000101,
+      "primaryStreetName": "戰火之地",
+      "primaryMapName": "火焰之地Ⅰ",
+      "mapIds": [
+        106000101
+      ],
+      "maps": [
+        {
+          "mapId": 106000101,
+          "streetName": "戰火之地",
+          "mapName": "火焰之地Ⅰ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 75,
+      "id": "wm010-75",
+      "name": "火焰之地Ⅱ",
+      "region": "奇幻村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -42,
+        "y": -71
+      },
+      "pixel": {
+        "x": 278,
+        "y": 164,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 43.44,
+        "y": 34.89
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 106000110,
+      "primaryStreetName": "戰火之地",
+      "primaryMapName": "火焰之地Ⅱ",
+      "mapIds": [
+        106000110
+      ],
+      "maps": [
+        {
+          "mapId": 106000110,
+          "streetName": "戰火之地",
+          "mapName": "火焰之地Ⅱ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 76,
+      "id": "wm010-76",
+      "name": "火焰之地Ⅲ",
+      "region": "奇幻村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -15,
+        "y": -68
+      },
+      "pixel": {
+        "x": 305,
+        "y": 167,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 47.66,
+        "y": 35.53
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 106000120,
+      "primaryStreetName": "戰火之地",
+      "primaryMapName": "火焰之地Ⅲ",
+      "mapIds": [
+        106000120
+      ],
+      "maps": [
+        {
+          "mapId": 106000120,
+          "streetName": "戰火之地",
+          "mapName": "火焰之地Ⅲ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 77,
+      "id": "wm010-77",
+      "name": "火焰之地Ⅳ",
+      "region": "奇幻村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 2,
+        "y": -55
+      },
+      "pixel": {
+        "x": 322,
+        "y": 180,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 50.31,
+        "y": 38.3
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 106000130,
+      "primaryStreetName": "戰火之地",
+      "primaryMapName": "火焰之地Ⅳ",
+      "mapIds": [
+        106000130
+      ],
+      "maps": [
+        {
+          "mapId": 106000130,
+          "streetName": "戰火之地",
+          "mapName": "火焰之地Ⅳ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 78,
+      "id": "wm010-78",
+      "name": "火焰之地Ⅴ",
+      "region": "奇幻村",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 3,
+        "y": -32
+      },
+      "pixel": {
+        "x": 323,
+        "y": 203,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 50.47,
+        "y": 43.19
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 106000140,
+      "primaryStreetName": "戰火之地",
+      "primaryMapName": "火焰之地Ⅴ",
+      "mapIds": [
+        106000140
+      ],
+      "maps": [
+        {
+          "mapId": 106000140,
+          "streetName": "戰火之地",
+          "mapName": "火焰之地Ⅴ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 79,
+      "id": "wm010-79",
+      "name": "東方岩石山Ⅱ",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": -5,
+        "y": -133
+      },
+      "pixel": {
+        "x": 315,
+        "y": 102,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 49.22,
+        "y": 21.7
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101030401,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "東方岩石山Ⅱ",
+      "mapIds": [
+        101030401
+      ],
+      "maps": [
+        {
+          "mapId": 101030401,
+          "streetName": "維多利亞",
+          "mapName": "東方岩石山Ⅱ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 80,
+      "id": "wm010-80",
+      "name": "東方岩石山Ⅲ",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 13,
+        "y": -137
+      },
+      "pixel": {
+        "x": 333,
+        "y": 98,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 52.03,
+        "y": 20.85
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101030402,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "東方岩石山Ⅲ",
+      "mapIds": [
+        101030402
+      ],
+      "maps": [
+        {
+          "mapId": 101030402,
+          "streetName": "維多利亞",
+          "mapName": "東方岩石山Ⅲ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 81,
+      "id": "wm010-81",
+      "name": "東方岩石山Ⅳ",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 33,
+        "y": -134
+      },
+      "pixel": {
+        "x": 353,
+        "y": 101,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 55.16,
+        "y": 21.49
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101030403,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "東方岩石山Ⅳ",
+      "mapIds": [
+        101030403
+      ],
+      "maps": [
+        {
+          "mapId": 101030403,
+          "streetName": "維多利亞",
+          "mapName": "東方岩石山Ⅳ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 82,
+      "id": "wm010-82",
+      "name": "東方岩石山Ⅴ",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 52,
+        "y": -131
+      },
+      "pixel": {
+        "x": 372,
+        "y": 104,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 58.13,
+        "y": 22.13
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101030404,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "東方岩石山Ⅴ",
+      "mapIds": [
+        101030404
+      ],
+      "maps": [
+        {
+          "mapId": 101030404,
+          "streetName": "維多利亞",
+          "mapName": "東方岩石山Ⅴ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 83,
+      "id": "wm010-83",
+      "name": "東方岩石山Ⅵ",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 68,
+        "y": -137
+      },
+      "pixel": {
+        "x": 388,
+        "y": 98,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 60.62,
+        "y": 20.85
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101030405,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "東方岩石山Ⅵ",
+      "mapIds": [
+        101030405
+      ],
+      "maps": [
+        {
+          "mapId": 101030405,
+          "streetName": "維多利亞",
+          "mapName": "東方岩石山Ⅵ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 84,
+      "id": "wm010-84",
+      "name": "東方岩石山Ⅶ",
+      "region": "魔法森林",
+      "type": 1,
+      "typeLabel": "野區地段",
+      "spot": {
+        "x": 59,
+        "y": -155
+      },
+      "pixel": {
+        "x": 379,
+        "y": 80,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 59.22,
+        "y": 17.02
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101030406,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "東方岩石山Ⅶ",
+      "mapIds": [
+        101030406
+      ],
+      "maps": [
+        {
+          "mapId": 101030406,
+          "streetName": "維多利亞",
+          "mapName": "東方岩石山Ⅶ"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 85,
+      "id": "wm010-85",
+      "name": "魔法森林碼頭",
+      "region": "魔法森林",
+      "type": 3,
+      "typeLabel": "特殊地點",
+      "spot": {
+        "x": 186,
+        "y": -11
+      },
+      "pixel": {
+        "x": 506,
+        "y": 224,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 79.06,
+        "y": 47.66
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101000300,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "魔法森林碼頭",
+      "mapIds": [
+        101000300,
+        101000301
+      ],
+      "maps": [
+        {
+          "mapId": 101000300,
+          "streetName": "維多利亞",
+          "mapName": "魔法森林碼頭"
+        },
+        {
+          "mapId": 101000301,
+          "streetName": "維多利亞",
+          "mapName": "候船室<開往天空之城>"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 86,
+      "id": "wm010-86",
+      "name": "弓箭手村市集",
+      "region": "弓箭手村",
+      "type": 3,
+      "typeLabel": "特殊地點",
+      "spot": {
+        "x": -41,
+        "y": 159
+      },
+      "pixel": {
+        "x": 279,
+        "y": 394,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 43.59,
+        "y": 83.83
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 100000100,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "弓箭手村市集",
+      "mapIds": [
+        100000100,
+        100000101,
+        100000102,
+        100000103,
+        100000104,
+        100000105
+      ],
+      "maps": [
+        {
+          "mapId": 100000100,
+          "streetName": "維多利亞",
+          "mapName": "弓箭手村市集"
+        },
+        {
+          "mapId": 100000101,
+          "streetName": "維多利亞",
+          "mapName": "弓箭手村武器店"
+        },
+        {
+          "mapId": 100000102,
+          "streetName": "維多利亞",
+          "mapName": "弓箭手村雜貨店"
+        },
+        {
+          "mapId": 100000103,
+          "streetName": "維多利亞",
+          "mapName": "弓箭手村整容院"
+        },
+        {
+          "mapId": 100000104,
+          "streetName": "維多利亞",
+          "mapName": "弓箭手村美髮店"
+        },
+        {
+          "mapId": 100000105,
+          "streetName": "維多利亞",
+          "mapName": "弓箭手村護膚中心"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 87,
+      "id": "wm010-87",
+      "name": "邱比特公園",
+      "region": "弓箭手村",
+      "type": 3,
+      "typeLabel": "特殊地點",
+      "spot": {
+        "x": -10,
+        "y": 159
+      },
+      "pixel": {
+        "x": 310,
+        "y": 394,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 48.44,
+        "y": 83.83
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 100000200,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "邱比特公園",
+      "mapIds": [
+        100000200,
+        100000201,
+        100000202,
+        100000203
+      ],
+      "maps": [
+        {
+          "mapId": 100000200,
+          "streetName": "維多利亞",
+          "mapName": "邱比特公園"
+        },
+        {
+          "mapId": 100000201,
+          "streetName": "維多利亞",
+          "mapName": "弓箭手培訓中心"
+        },
+        {
+          "mapId": 100000202,
+          "streetName": "維多利亞",
+          "mapName": "寵物公園"
+        },
+        {
+          "mapId": 100000203,
+          "streetName": "維多利亞",
+          "mapName": "弓箭手村遊戲中心"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 88,
+      "id": "wm010-88",
+      "name": "前往碼頭的路",
+      "region": "鯨魚號",
+      "type": 3,
+      "typeLabel": "特殊地點",
+      "spot": {
+        "x": 71,
+        "y": 107
+      },
+      "pixel": {
+        "x": 391,
+        "y": 342,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 61.09,
+        "y": 72.77
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 120010000,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "前往碼頭的路",
+      "mapIds": [
+        120010000
+      ],
+      "maps": [
+        {
+          "mapId": 120010000,
+          "streetName": "維多利亞",
+          "mapName": "前往碼頭的路"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 89,
+      "id": "wm010-89",
+      "name": "鯨魚號碼頭",
+      "region": "鯨魚號",
+      "type": 0,
+      "typeLabel": "村莊/主要地點",
+      "spot": {
+        "x": 161,
+        "y": 158
+      },
+      "pixel": {
+        "x": 481,
+        "y": 393,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 75.16,
+        "y": 83.62
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 120000000,
+      "primaryStreetName": "鯨魚號",
+      "primaryMapName": "鯨魚號碼頭",
+      "mapIds": [
+        120000000,
+        120000100,
+        120000101,
+        120000102,
+        120000103,
+        120000104,
+        120000200,
+        120000201,
+        120000202,
+        120000300,
+        120000301
+      ],
+      "maps": [
+        {
+          "mapId": 120000000,
+          "streetName": "鯨魚號",
+          "mapName": "鯨魚號碼頭"
+        },
+        {
+          "mapId": 120000100,
+          "streetName": "鯨魚號",
+          "mapName": "上層走廊"
+        },
+        {
+          "mapId": 120000101,
+          "streetName": "鯨魚號",
+          "mapName": "航海室　"
+        },
+        {
+          "mapId": 120000102,
+          "streetName": "鯨魚號",
+          "mapName": "喬納森的房間"
+        },
+        {
+          "mapId": 120000103,
+          "streetName": "鯨魚號",
+          "mapName": "餐廳"
+        },
+        {
+          "mapId": 120000104,
+          "streetName": "鯨魚號",
+          "mapName": "訓練場"
+        },
+        {
+          "mapId": 120000200,
+          "streetName": "鯨魚號",
+          "mapName": "中央走廊 "
+        },
+        {
+          "mapId": 120000201,
+          "streetName": "鯨魚號",
+          "mapName": "會議室"
+        },
+        {
+          "mapId": 120000202,
+          "streetName": "鯨魚號",
+          "mapName": "寢室"
+        },
+        {
+          "mapId": 120000300,
+          "streetName": "鯨魚號",
+          "mapName": "下層走廊 "
+        },
+        {
+          "mapId": 120000301,
+          "streetName": "鯨魚號",
+          "mapName": "動力機房"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    },
+    {
+      "worldMap": "WorldMap010",
+      "pointIndex": 90,
+      "id": "wm010-90",
+      "name": "天空渡口<前往耶雷弗>",
+      "region": "魔法森林",
+      "type": 3,
+      "typeLabel": "特殊地點",
+      "spot": {
+        "x": 145,
+        "y": 73
+      },
+      "pixel": {
+        "x": 465,
+        "y": 308,
+        "width": 640,
+        "height": 470
+      },
+      "percent": {
+        "x": 72.66,
+        "y": 65.53
+      },
+      "title": "",
+      "desc": "",
+      "primaryMapId": 101000400,
+      "primaryStreetName": "維多利亞",
+      "primaryMapName": "天空渡口<前往耶雷弗>",
+      "mapIds": [
+        101000400
+      ],
+      "maps": [
+        {
+          "mapId": 101000400,
+          "streetName": "維多利亞",
+          "mapName": "天空渡口<前往耶雷弗>"
+        }
+      ],
+      "owner": "",
+      "level": 0,
+      "status": "未開放"
+    }
+  ]
+}

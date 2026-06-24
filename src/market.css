@@ -1,0 +1,481 @@
+/* 股市行情 — 專業 K 線看板 */
+
+.market-page-title {
+  margin-bottom: 16px;
+}
+
+.market-page-title h1 {
+  margin: 0 0 6px;
+  font-size: clamp(28px, 4vw, 36px);
+}
+
+.market-page-title .market-meta {
+  margin: 0;
+}
+
+.market-rank-panel {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.rank-block {
+  border: 1px solid #2a3139;
+  border-radius: 10px;
+  background: #131920;
+  overflow: hidden;
+}
+
+.rank-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 12px 14px;
+  border-bottom: 1px solid #21262d;
+  background: #161b22;
+}
+
+.rank-head h2 {
+  margin: 0;
+  color: #f0f6fc;
+  font-size: 14px;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+}
+
+.rank-head span {
+  color: #6e7681;
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.rank-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.rank-table th,
+.rank-table td {
+  padding: 9px 12px;
+  border-bottom: 1px solid #21262d;
+  text-align: left;
+}
+
+.rank-table th {
+  color: #6e7681;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  background: #0f1419;
+}
+
+.rank-table td {
+  color: #e6edf3;
+}
+
+.rank-table tr:last-child td {
+  border-bottom: 0;
+}
+
+.rank-table .num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.rank-table .rnk {
+  width: 36px;
+  color: #8b949e;
+  font-weight: 800;
+}
+
+.rank-table tr.top1 .rnk { color: #ffb020; }
+.rank-table tr.top2 .rnk { color: #c0c8d4; }
+.rank-table tr.top3 .rnk { color: #c97830; }
+
+.rank-table .player {
+  font-weight: 700;
+}
+
+.rank-empty td {
+  color: #6e7681 !important;
+  text-align: center;
+  padding: 18px 12px;
+}
+
+.market-table-title {
+  margin: 0 0 12px;
+  font-size: 15px;
+  font-weight: 800;
+  color: var(--text);
+}
+
+.market-board {
+  display: grid;
+  grid-template-columns: 240px minmax(0, 1fr);
+  gap: 0;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  overflow: hidden;
+  background: #0f1419;
+  box-shadow: 0 16px 48px rgba(15, 20, 25, 0.18);
+}
+
+.market-sidebar {
+  background: #161b22;
+  border-right: 1px solid #2a3139;
+  max-height: 620px;
+  overflow-y: auto;
+}
+
+.market-sidebar-head {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  padding: 14px 12px 10px;
+  background: #161b22;
+  border-bottom: 1px solid #2a3139;
+  color: #8b949e;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+
+.stock-pick {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-template-rows: auto auto;
+  gap: 2px 8px;
+  align-items: center;
+  padding: 12px 14px;
+  border: 0;
+  border-bottom: 1px solid #21262d;
+  background: transparent;
+  color: #e6edf3;
+  text-align: left;
+  cursor: pointer;
+  font: inherit;
+  transition: background 0.12s ease;
+}
+
+.stock-pick:hover {
+  background: #1c2128;
+}
+
+.stock-pick.active {
+  background: linear-gradient(90deg, rgba(217, 119, 6, 0.22) 0%, transparent 100%);
+  box-shadow: inset 3px 0 0 #d97706;
+}
+
+.stock-pick-name {
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.stock-pick-price {
+  grid-row: 1 / span 2;
+  grid-column: 2;
+  align-self: center;
+  font-size: 13px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.stock-pick-change {
+  grid-column: 1;
+  grid-row: 2;
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.market-main {
+  min-width: 0;
+  background: #0f1419;
+}
+
+.market-quote {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 12px 20px;
+  padding: 18px 20px 12px;
+  border-bottom: 1px solid #2a3139;
+}
+
+.market-quote-title strong {
+  display: block;
+  color: #f0f6fc;
+  font-size: 22px;
+  font-weight: 800;
+  line-height: 1.2;
+}
+
+.market-quote-title span {
+  color: #8b949e;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.market-quote-price {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+}
+
+.market-quote-price .price {
+  color: #f0f6fc;
+  font-size: clamp(28px, 4vw, 38px);
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+}
+
+.market-quote-price .delta {
+  font-size: 15px;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+}
+
+.market-quote-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 18px;
+  width: 100%;
+  padding-top: 4px;
+}
+
+.market-quote-stats div {
+  color: #8b949e;
+  font-size: 12px;
+}
+
+.market-quote-stats b {
+  margin-left: 6px;
+  color: #e6edf3;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.market-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 8px 16px;
+  border-bottom: 1px solid #21262d;
+  background: #131920;
+}
+
+.market-toolbar .tab {
+  height: 28px;
+  padding: 0 12px;
+  border: 1px solid #3d444d;
+  border-radius: 6px;
+  background: #21262d;
+  color: #f0f6fc;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.chart-legend {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 14px;
+  color: #8b949e;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.chart-legend i {
+  font-style: normal;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.chart-legend i::before {
+  content: "";
+  display: inline-block;
+  flex-shrink: 0;
+}
+
+.chart-legend .leg-up::before {
+  width: 10px;
+  height: 10px;
+  border-radius: 2px;
+  background: #ef5350;
+}
+
+.chart-legend .leg-down::before {
+  width: 10px;
+  height: 10px;
+  border-radius: 2px;
+  background: #43a047;
+}
+
+.chart-empty {
+  margin: 0;
+  padding: 48px 20px;
+  text-align: center;
+  color: #8b949e;
+  font-size: 14px;
+  line-height: 1.7;
+  background: #121820;
+  border-top: 1px solid #21262d;
+}
+
+#stockChartHost {
+  width: 100%;
+  height: 400px;
+}
+
+.market-section-light {
+  margin-top: 18px;
+}
+
+.market-section-light .stock-table-wrap {
+  border-radius: 12px;
+  border: 1px solid var(--line);
+  background: var(--white);
+}
+
+.market-up { color: #ff5252 !important; }
+.market-down { color: #26c281 !important; }
+.market-flat { color: #8b949e !important; }
+
+.stock-table .market-up { color: #c45c4c; font-weight: 700; }
+.stock-table .market-down { color: #26a65a; font-weight: 700; }
+.stock-table .market-flat { color: var(--muted); font-weight: 700; }
+
+@media (max-width: 900px) {
+  .market-rank-panel {
+    grid-template-columns: 1fr;
+  }
+
+  .market-board {
+    grid-template-columns: 1fr;
+  }
+
+  .market-sidebar {
+    max-height: none;
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    border-right: 0;
+    border-bottom: 1px solid #2a3139;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .market-sidebar-head {
+    display: none;
+  }
+
+  .stock-pick {
+    width: auto;
+    min-width: 148px;
+    flex-shrink: 0;
+    border-bottom: 0;
+    border-right: 1px solid #21262d;
+    grid-template-columns: 1fr;
+  }
+
+  .stock-pick-price,
+  .stock-pick-change {
+    grid-column: 1;
+    grid-row: auto;
+    text-align: left;
+  }
+
+  #stockChartHost {
+    height: 320px;
+  }
+
+  .rank-block {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+@media (max-width: 480px) {
+  .market-page-title h1 {
+    font-size: clamp(24px, 7vw, 30px);
+  }
+
+  .rank-table {
+    min-width: 300px;
+    font-size: 12px;
+  }
+
+  .rank-table th,
+  .rank-table td {
+    padding: 8px 10px;
+  }
+
+  .rank-head {
+    flex-wrap: wrap;
+    padding: 10px 12px;
+  }
+
+  .market-quote {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 14px 14px 10px;
+  }
+
+  .market-quote-title strong {
+    font-size: 18px;
+  }
+
+  .market-quote-price {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .market-quote-price .price {
+    font-size: 26px;
+  }
+
+  .market-quote-stats {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px 12px;
+  }
+
+  .market-toolbar {
+    flex-wrap: wrap;
+    padding: 8px 12px;
+    gap: 6px;
+  }
+
+  .chart-legend {
+    flex: 1 1 100%;
+    gap: 6px 10px;
+    font-size: 11px;
+  }
+
+  #stockChartHost {
+    height: 260px;
+  }
+
+  .market-section-light.card {
+    padding: 14px;
+  }
+
+  .market-board {
+    border-radius: 10px;
+  }
+
+  .stock-pick {
+    min-width: 132px;
+    padding: 10px 12px;
+  }
+}
