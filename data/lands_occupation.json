@@ -1,186 +1,1097 @@
 {
-  "updatedAt": "2026-06-16 21:36:35",
+  "updatedAt": "2026-06-25 22:35:24",
   "lands": [
-    {"landId":0,"mapId":100000000,"name":"弓箭手村","city":"弓箭手村","x":45.62,"y":80.21,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":1,"mapId":101000000,"name":"魔法森林","city":"魔法森林","x":69.38,"y":54.26,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":2,"mapId":102000000,"name":"勇士之村","city":"勇士之村","x":38.44,"y":18.3,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":3,"mapId":103000000,"name":"墮落城市","city":"墮落城市","x":15,"y":39.15,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":4,"mapId":104000000,"name":"維多利亞港","city":"維多利亞港","x":15.78,"y":79.79,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":5,"mapId":105030000,"name":"維多利亞中央地城","city":"奇幻村","x":42.66,"y":55.53,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":6,"mapId":100010000,"name":"弓箭手村東部小山","city":"弓箭手村","x":53.44,"y":80,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":7,"mapId":100020000,"name":"弓箭手村東側草叢","city":"弓箭手村","x":55.31,"y":75.32,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":8,"mapId":100030000,"name":"弓箭手村東部森林","city":"弓箭手村","x":56.25,"y":70.21,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":9,"mapId":100040000,"name":"魔法森林南部","city":"魔法森林","x":58.59,"y":66.17,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":10,"mapId":100040100,"name":"智慧森林","city":"魔法森林","x":62.19,"y":64.04,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":11,"mapId":100050000,"name":"魔法森林南郊","city":"魔法森林","x":65.31,"y":61.49,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":12,"mapId":101010000,"name":"魔法森林北郊","city":"魔法森林","x":61.41,"y":55.53,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":13,"mapId":101010100,"name":"大木林Ⅰ","city":"魔法森林","x":58.44,"y":53.83,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":14,"mapId":101020000,"name":"魔法森林北部","city":"魔法森林","x":56.72,"y":48.72,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":15,"mapId":101030000,"name":"勇士之村東部","city":"勇士之村","x":57.19,"y":42.55,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":16,"mapId":101030100,"name":"岩石路Ⅲ","city":"勇士之村","x":56.72,"y":36.81,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":17,"mapId":101030200,"name":"岩石路Ⅱ","city":"勇士之村","x":54.06,"y":32.98,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":18,"mapId":101030300,"name":"岩石路Ⅰ","city":"勇士之村","x":51.72,"y":27.87,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":19,"mapId":101030400,"name":"東方岩石山Ⅰ","city":"勇士之村","x":47.66,"y":25.96,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":20,"mapId":101040000,"name":"勇士之村東入口","city":"勇士之村","x":44.53,"y":23.83,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":21,"mapId":102010000,"name":"勇士村西入口","city":"勇士之村","x":32.75,"y":22.85,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":22,"mapId":102020000,"name":"西部岩山Ⅰ","city":"勇士之村","x":31.41,"y":29.57,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":23,"mapId":102030000,"name":"勇士之村西部","city":"勇士之村","x":28.91,"y":32.98,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":24,"mapId":102040000,"name":"墮落城市北方工地","city":"墮落城市","x":25.16,"y":32.98,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":25,"mapId":102050000,"name":"墮落城市北入口","city":"墮落城市","x":21.09,"y":32.98,"ownerId":2,"owner":"落葉帥哥","level":1,"status":0}
-,
-    {"landId":26,"mapId":103010000,"name":"墮落城市南方工地","city":"墮落城市","x":18.59,"y":47.02,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":27,"mapId":103020000,"name":"歷恩森林Ⅰ","city":"墮落城市","x":18.12,"y":52.34,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":28,"mapId":103020100,"name":"歷恩森林Ⅱ","city":"墮落城市","x":17.9,"y":59.65,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":29,"mapId":103020200,"name":"歷恩森林Ⅲ","city":"墮落城市","x":20.47,"y":61.06,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":30,"mapId":103030000,"name":"墮落城市森林I","city":"墮落城市","x":24.53,"y":60,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":31,"mapId":104010000,"name":"三叉路","city":"維多利亞港","x":29.06,"y":62.55,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":32,"mapId":104020000,"name":"弓箭手村西部森林","city":"弓箭手村","x":30.75,"y":70.15,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":33,"mapId":104030000,"name":"弓箭手村西部小山","city":"弓箭手村","x":33,"y":76.6,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":34,"mapId":104040000,"name":"弓箭手訓練場Ⅰ","city":"弓箭手村","x":37.5,"y":79.57,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":35,"mapId":104000100,"name":"維多利亞港郊外","city":"維多利亞港","x":16.41,"y":71.49,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":36,"mapId":104000200,"name":"海岸草叢Ⅰ","city":"維多利亞港","x":20,"y":68.3,"ownerId":2,"owner":"落葉帥哥","level":1,"status":0}
-,
-    {"landId":37,"mapId":104000300,"name":"海岸草叢Ⅱ","city":"維多利亞港","x":23.44,"y":68.51,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":38,"mapId":104000400,"name":"海岸草叢Ⅲ","city":"維多利亞港","x":27.34,"y":66.38,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":39,"mapId":106000000,"name":"幽深的峽谷Ⅰ","city":"奇幻村","x":37.81,"y":28.94,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":40,"mapId":106000100,"name":"幽深的峽谷Ⅱ","city":"奇幻村","x":35.78,"y":33.83,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":41,"mapId":106000200,"name":"幽深峽谷Ⅲ","city":"奇幻村","x":34.22,"y":39.57,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":42,"mapId":106000300,"name":"勇士之村迷宮入口","city":"奇幻村","x":36.88,"y":44.26,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":43,"mapId":106010000,"name":"迷宮通道","city":"奇幻村","x":45,"y":72.77,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":44,"mapId":106010100,"name":"弓箭手村迷宮入口","city":"奇幻村","x":43.59,"y":68.09,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":45,"mapId":107000000,"name":"沼澤地Ⅰ","city":"墮落城市","x":23.44,"y":39.79,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":46,"mapId":107000100,"name":"沼澤地Ⅱ","city":"墮落城市","x":27.51,"y":40.85,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":47,"mapId":107000200,"name":"沼澤地Ⅲ","city":"墮落城市","x":29.53,"y":46.6,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":48,"mapId":107000300,"name":"鱷魚潭Ⅰ","city":"奇幻村","x":30.78,"y":51.91,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":49,"mapId":107000400,"name":"鱷魚潭Ⅱ","city":"奇幻村","x":33.91,"y":55.11,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":50,"mapId":110000000,"name":"黃金海灘","city":"黃金海岸","x":84.55,"y":63.92,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":51,"mapId":110010000,"name":"熱帶沙灘","city":"黃金海岸","x":85.82,"y":53.53,"ownerId":2,"owner":"落葉帥哥","level":1,"status":0}
-,
-    {"landId":52,"mapId":110020000,"name":"紅螃蟹海灘Ⅰ","city":"黃金海岸","x":90.06,"y":54.18,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":53,"mapId":110030000,"name":"青螃蟹海灘I","city":"黃金海岸","x":91.92,"y":59.8,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":54,"mapId":110040000,"name":"海龜沙灘","city":"黃金海岸","x":88.66,"y":63.08,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":55,"mapId":101030101,"name":"遺跡發掘地Ⅰ","city":"勇士之村","x":59.69,"y":34.68,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":56,"mapId":101030102,"name":"遺跡發掘地Ⅱ","city":"勇士之村","x":63.91,"y":32.34,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":57,"mapId":101030103,"name":"遺跡發掘地Ⅲ","city":"勇士之村","x":64.38,"y":37.23,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":58,"mapId":101030104,"name":"遺跡發掘隊營地","city":"勇士之村","x":63.12,"y":42.34,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":59,"mapId":101030105,"name":"遺跡之墓Ⅰ","city":"勇士之村","x":65,"y":46.17,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":60,"mapId":101030106,"name":"遺跡之墓Ⅱ","city":"勇士之村","x":68.75,"y":43.83,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":61,"mapId":101030107,"name":"遺跡之墓Ⅲ","city":"勇士之村","x":70.47,"y":39.79,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":62,"mapId":101030108,"name":"遺跡之墓Ⅳ","city":"勇士之村","x":70.47,"y":34.68,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":63,"mapId":101030109,"name":"遺跡之峭壁","city":"勇士之村","x":69.22,"y":28.94,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":64,"mapId":101010101,"name":"大木林Ⅱ","city":"魔法森林","x":57.19,"y":56.81,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":65,"mapId":101010102,"name":"大木林Ⅲ","city":"魔法森林","x":54.84,"y":58.3,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":66,"mapId":101010103,"name":"大木林之巔","city":"魔法森林","x":51.88,"y":56.6,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":67,"mapId":102020100,"name":"西部岩山Ⅱ","city":"勇士之村","x":28.28,"y":26.38,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":68,"mapId":102020200,"name":"西部岩山Ⅲ","city":"勇士之村","x":23.75,"y":25.11,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":69,"mapId":102020300,"name":"西部岩山Ⅳ","city":"勇士之村","x":19.22,"y":22.77,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":70,"mapId":103030100,"name":"墮落城市森林II","city":"墮落城市","x":22.97,"y":55.53,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":71,"mapId":103030200,"name":"墮落城市森林III","city":"墮落城市","x":23.28,"y":51.28,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":72,"mapId":104040001,"name":"弓箭手訓練場Ⅱ","city":"弓箭手村","x":38.12,"y":74.47,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":73,"mapId":104040002,"name":"弓箭手訓練場Ⅲ","city":"弓箭手村","x":36.88,"y":69.36,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":74,"mapId":106000101,"name":"火焰之地Ⅰ","city":"奇幻村","x":39.06,"y":35.32,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":75,"mapId":106000110,"name":"火焰之地Ⅱ","city":"奇幻村","x":43.44,"y":34.89,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":76,"mapId":106000120,"name":"火焰之地Ⅲ","city":"奇幻村","x":47.66,"y":35.53,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":77,"mapId":106000130,"name":"火焰之地Ⅳ","city":"奇幻村","x":50.31,"y":38.3,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":78,"mapId":106000140,"name":"火焰之地Ⅴ","city":"奇幻村","x":50.47,"y":43.19,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":79,"mapId":101030401,"name":"東方岩石山Ⅱ","city":"勇士之村","x":49.22,"y":21.7,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":80,"mapId":101030402,"name":"東方岩石山Ⅲ","city":"勇士之村","x":52.03,"y":20.85,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":81,"mapId":101030403,"name":"東方岩石山Ⅳ","city":"勇士之村","x":55.16,"y":21.49,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":82,"mapId":101030404,"name":"東方岩石山Ⅴ","city":"勇士之村","x":59.2,"y":22.2,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":83,"mapId":101030405,"name":"東方岩石山Ⅵ","city":"勇士之村","x":60.65,"y":18.4,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":84,"mapId":101030406,"name":"東方岩石山Ⅶ","city":"勇士之村","x":59.22,"y":17.02,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":85,"mapId":101000300,"name":"魔法森林碼頭","city":"魔法森林","x":79.06,"y":47.66,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":86,"mapId":100000100,"name":"弓箭手村市集","city":"弓箭手村","x":43.59,"y":83.83,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":87,"mapId":100000200,"name":"邱比特公園","city":"弓箭手村","x":48.44,"y":83.83,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":88,"mapId":120010000,"name":"前往碼頭的路","city":"魔法森林","x":61.09,"y":72.77,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":89,"mapId":120000000,"name":"鯨魚號碼頭","city":"魔法森林","x":75.16,"y":83.62,"ownerId":0,"owner":"","level":0,"status":0}
-,
-    {"landId":90,"mapId":101000400,"name":"天空渡口<前往耶雷弗>","city":"魔法森林","x":72.66,"y":65.53,"ownerId":0,"owner":"","level":0,"status":0}
+    {
+      "landId": 0,
+      "mapId": 100000000,
+      "name": "弓箭手村",
+      "city": "弓箭手村",
+      "x": 45.62,
+      "y": 80.21,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 1,
+      "mapId": 101000000,
+      "name": "魔法森林",
+      "city": "魔法森林",
+      "x": 69.38,
+      "y": 54.26,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 2,
+      "mapId": 102000000,
+      "name": "勇士之村",
+      "city": "勇士之村",
+      "x": 38.44,
+      "y": 18.3,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 3,
+      "mapId": 103000000,
+      "name": "墮落城市",
+      "city": "墮落城市",
+      "x": 15.0,
+      "y": 39.15,
+      "ownerId": 2,
+      "owner": "落葉帥哥",
+      "level": 5,
+      "status": 0
+    },
+    {
+      "landId": 4,
+      "mapId": 104000000,
+      "name": "維多利亞港",
+      "city": "維多利亞港",
+      "x": 15.78,
+      "y": 79.79,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 5,
+      "mapId": 105030000,
+      "name": "維多利亞中央地城",
+      "city": "維多利亞港",
+      "x": 42.66,
+      "y": 55.53,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 6,
+      "mapId": 100010000,
+      "name": "弓箭手村東部小山",
+      "city": "弓箭手村",
+      "x": 53.44,
+      "y": 80.0,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 7,
+      "mapId": 100020000,
+      "name": "弓箭手村東側草叢",
+      "city": "弓箭手村",
+      "x": 55.31,
+      "y": 75.32,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 8,
+      "mapId": 100030000,
+      "name": "弓箭手村東部森林",
+      "city": "弓箭手村",
+      "x": 56.25,
+      "y": 70.21,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 9,
+      "mapId": 100040000,
+      "name": "魔法森林南部",
+      "city": "魔法森林",
+      "x": 58.59,
+      "y": 66.17,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 10,
+      "mapId": 100040100,
+      "name": "智慧森林",
+      "city": "魔法森林",
+      "x": 62.19,
+      "y": 64.04,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 11,
+      "mapId": 100050000,
+      "name": "魔法森林南郊",
+      "city": "魔法森林",
+      "x": 65.31,
+      "y": 61.49,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 12,
+      "mapId": 101010000,
+      "name": "魔法森林北郊",
+      "city": "魔法森林",
+      "x": 61.41,
+      "y": 55.53,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 13,
+      "mapId": 101010100,
+      "name": "大木林Ⅰ",
+      "city": "魔法森林",
+      "x": 58.44,
+      "y": 53.83,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 14,
+      "mapId": 101020000,
+      "name": "魔法森林北部",
+      "city": "魔法森林",
+      "x": 56.72,
+      "y": 48.72,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 15,
+      "mapId": 101030000,
+      "name": "勇士之村東部",
+      "city": "勇士之村",
+      "x": 57.19,
+      "y": 42.55,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 16,
+      "mapId": 101030100,
+      "name": "岩石路Ⅲ",
+      "city": "勇士之村",
+      "x": 56.72,
+      "y": 36.81,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 17,
+      "mapId": 101030200,
+      "name": "岩石路Ⅱ",
+      "city": "勇士之村",
+      "x": 54.06,
+      "y": 32.98,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 18,
+      "mapId": 101030300,
+      "name": "岩石路Ⅰ",
+      "city": "勇士之村",
+      "x": 51.72,
+      "y": 27.87,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 19,
+      "mapId": 101030400,
+      "name": "東方岩石山Ⅰ",
+      "city": "勇士之村",
+      "x": 47.66,
+      "y": 25.96,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 20,
+      "mapId": 101040000,
+      "name": "勇士之村東入口",
+      "city": "勇士之村",
+      "x": 44.53,
+      "y": 23.83,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 21,
+      "mapId": 102010000,
+      "name": "勇士村西入口",
+      "city": "勇士之村",
+      "x": 32.75,
+      "y": 22.85,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 22,
+      "mapId": 102020000,
+      "name": "西部岩山Ⅰ",
+      "city": "勇士之村",
+      "x": 31.41,
+      "y": 29.57,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 23,
+      "mapId": 102030000,
+      "name": "勇士之村西部",
+      "city": "勇士之村",
+      "x": 28.91,
+      "y": 32.98,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 24,
+      "mapId": 102040000,
+      "name": "墮落城市北方工地",
+      "city": "墮落城市",
+      "x": 25.16,
+      "y": 32.98,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 25,
+      "mapId": 102050000,
+      "name": "墮落城市北入口",
+      "city": "墮落城市",
+      "x": 21.09,
+      "y": 32.98,
+      "ownerId": 2,
+      "owner": "落葉帥哥",
+      "level": 1,
+      "status": 0
+    },
+    {
+      "landId": 26,
+      "mapId": 103010000,
+      "name": "墮落城市南方工地",
+      "city": "墮落城市",
+      "x": 18.59,
+      "y": 47.02,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 27,
+      "mapId": 103020000,
+      "name": "歷恩森林Ⅰ",
+      "city": "墮落城市",
+      "x": 18.12,
+      "y": 52.34,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 28,
+      "mapId": 103020100,
+      "name": "歷恩森林Ⅱ",
+      "city": "墮落城市",
+      "x": 17.9,
+      "y": 59.65,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 29,
+      "mapId": 103020200,
+      "name": "歷恩森林Ⅲ",
+      "city": "墮落城市",
+      "x": 20.47,
+      "y": 61.06,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 30,
+      "mapId": 103030000,
+      "name": "墮落城市森林I",
+      "city": "墮落城市",
+      "x": 24.53,
+      "y": 60.0,
+      "ownerId": 2,
+      "owner": "落葉帥哥",
+      "level": 1,
+      "status": 0
+    },
+    {
+      "landId": 31,
+      "mapId": 104010000,
+      "name": "三叉路",
+      "city": "維多利亞港",
+      "x": 29.06,
+      "y": 62.55,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 32,
+      "mapId": 104020000,
+      "name": "弓箭手村西部森林",
+      "city": "弓箭手村",
+      "x": 30.75,
+      "y": 70.15,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 33,
+      "mapId": 104030000,
+      "name": "弓箭手村西部小山",
+      "city": "弓箭手村",
+      "x": 33.0,
+      "y": 76.6,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 34,
+      "mapId": 104040000,
+      "name": "弓箭手訓練場Ⅰ",
+      "city": "弓箭手村",
+      "x": 37.5,
+      "y": 79.57,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 35,
+      "mapId": 104000100,
+      "name": "維多利亞港郊外",
+      "city": "維多利亞港",
+      "x": 16.41,
+      "y": 71.49,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 36,
+      "mapId": 104000200,
+      "name": "海岸草叢Ⅰ",
+      "city": "維多利亞港",
+      "x": 20.0,
+      "y": 68.3,
+      "ownerId": 2,
+      "owner": "落葉帥哥",
+      "level": 1,
+      "status": 0
+    },
+    {
+      "landId": 37,
+      "mapId": 104000300,
+      "name": "海岸草叢Ⅱ",
+      "city": "維多利亞港",
+      "x": 23.44,
+      "y": 68.51,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 38,
+      "mapId": 104000400,
+      "name": "海岸草叢Ⅲ",
+      "city": "維多利亞港",
+      "x": 27.34,
+      "y": 66.38,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 39,
+      "mapId": 106000000,
+      "name": "幽深的峽谷Ⅰ",
+      "city": "奇幻村",
+      "x": 37.81,
+      "y": 28.94,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 40,
+      "mapId": 106000100,
+      "name": "幽深的峽谷Ⅱ",
+      "city": "奇幻村",
+      "x": 35.78,
+      "y": 33.83,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 41,
+      "mapId": 106000200,
+      "name": "幽深峽谷Ⅲ",
+      "city": "奇幻村",
+      "x": 34.22,
+      "y": 39.57,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 42,
+      "mapId": 106000300,
+      "name": "勇士之村迷宮入口",
+      "city": "奇幻村",
+      "x": 36.88,
+      "y": 44.26,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 43,
+      "mapId": 106010000,
+      "name": "迷宮通道",
+      "city": "奇幻村",
+      "x": 45.0,
+      "y": 72.77,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 44,
+      "mapId": 106010100,
+      "name": "弓箭手村迷宮入口",
+      "city": "奇幻村",
+      "x": 43.59,
+      "y": 68.09,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 45,
+      "mapId": 107000000,
+      "name": "沼澤地Ⅰ",
+      "city": "墮落城市",
+      "x": 23.44,
+      "y": 39.79,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 46,
+      "mapId": 107000100,
+      "name": "沼澤地Ⅱ",
+      "city": "墮落城市",
+      "x": 27.51,
+      "y": 40.85,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 47,
+      "mapId": 107000200,
+      "name": "沼澤地Ⅲ",
+      "city": "墮落城市",
+      "x": 29.53,
+      "y": 46.6,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 48,
+      "mapId": 107000300,
+      "name": "鱷魚潭Ⅰ",
+      "city": "奇幻村",
+      "x": 30.78,
+      "y": 51.91,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 49,
+      "mapId": 107000400,
+      "name": "鱷魚潭Ⅱ",
+      "city": "奇幻村",
+      "x": 33.91,
+      "y": 55.11,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 50,
+      "mapId": 110000000,
+      "name": "黃金海灘",
+      "city": "黃金海岸",
+      "x": 84.55,
+      "y": 63.92,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 51,
+      "mapId": 110010000,
+      "name": "熱帶沙灘",
+      "city": "黃金海岸",
+      "x": 85.82,
+      "y": 53.53,
+      "ownerId": 2,
+      "owner": "落葉帥哥",
+      "level": 1,
+      "status": 0
+    },
+    {
+      "landId": 52,
+      "mapId": 110020000,
+      "name": "紅螃蟹海灘Ⅰ",
+      "city": "黃金海岸",
+      "x": 90.06,
+      "y": 54.18,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 53,
+      "mapId": 110030000,
+      "name": "青螃蟹海灘I",
+      "city": "黃金海岸",
+      "x": 91.92,
+      "y": 59.8,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 54,
+      "mapId": 110040000,
+      "name": "海龜沙灘",
+      "city": "黃金海岸",
+      "x": 88.66,
+      "y": 63.08,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 55,
+      "mapId": 101030101,
+      "name": "遺跡發掘地Ⅰ",
+      "city": "勇士之村",
+      "x": 59.69,
+      "y": 34.68,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 56,
+      "mapId": 101030102,
+      "name": "遺跡發掘地Ⅱ",
+      "city": "勇士之村",
+      "x": 63.91,
+      "y": 32.34,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 57,
+      "mapId": 101030103,
+      "name": "遺跡發掘地Ⅲ",
+      "city": "勇士之村",
+      "x": 64.38,
+      "y": 37.23,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 58,
+      "mapId": 101030104,
+      "name": "遺跡發掘隊營地",
+      "city": "勇士之村",
+      "x": 63.12,
+      "y": 42.34,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 59,
+      "mapId": 101030105,
+      "name": "遺跡之墓Ⅰ",
+      "city": "勇士之村",
+      "x": 65.0,
+      "y": 46.17,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 60,
+      "mapId": 101030106,
+      "name": "遺跡之墓Ⅱ",
+      "city": "勇士之村",
+      "x": 68.75,
+      "y": 43.83,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 61,
+      "mapId": 101030107,
+      "name": "遺跡之墓Ⅲ",
+      "city": "勇士之村",
+      "x": 70.47,
+      "y": 39.79,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 62,
+      "mapId": 101030108,
+      "name": "遺跡之墓Ⅳ",
+      "city": "勇士之村",
+      "x": 70.47,
+      "y": 34.68,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 63,
+      "mapId": 101030109,
+      "name": "遺跡之峭壁",
+      "city": "勇士之村",
+      "x": 69.22,
+      "y": 28.94,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 64,
+      "mapId": 101010101,
+      "name": "大木林Ⅱ",
+      "city": "魔法森林",
+      "x": 57.19,
+      "y": 56.81,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 65,
+      "mapId": 101010102,
+      "name": "大木林Ⅲ",
+      "city": "魔法森林",
+      "x": 54.84,
+      "y": 58.3,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 66,
+      "mapId": 101010103,
+      "name": "大木林之巔",
+      "city": "魔法森林",
+      "x": 51.88,
+      "y": 56.6,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 67,
+      "mapId": 102020100,
+      "name": "西部岩山Ⅱ",
+      "city": "勇士之村",
+      "x": 28.28,
+      "y": 26.38,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 68,
+      "mapId": 102020200,
+      "name": "西部岩山Ⅲ",
+      "city": "勇士之村",
+      "x": 23.75,
+      "y": 25.11,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 69,
+      "mapId": 102020300,
+      "name": "西部岩山Ⅳ",
+      "city": "勇士之村",
+      "x": 19.22,
+      "y": 22.77,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 70,
+      "mapId": 103030100,
+      "name": "墮落城市森林II",
+      "city": "墮落城市",
+      "x": 22.97,
+      "y": 55.53,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 71,
+      "mapId": 103030200,
+      "name": "墮落城市森林III",
+      "city": "墮落城市",
+      "x": 23.28,
+      "y": 51.28,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 72,
+      "mapId": 104040001,
+      "name": "弓箭手訓練場Ⅱ",
+      "city": "弓箭手村",
+      "x": 38.12,
+      "y": 74.47,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 73,
+      "mapId": 104040002,
+      "name": "弓箭手訓練場Ⅲ",
+      "city": "弓箭手村",
+      "x": 36.88,
+      "y": 69.36,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 74,
+      "mapId": 106000101,
+      "name": "火焰之地Ⅰ",
+      "city": "奇幻村",
+      "x": 39.06,
+      "y": 35.32,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 75,
+      "mapId": 106000110,
+      "name": "火焰之地Ⅱ",
+      "city": "奇幻村",
+      "x": 43.44,
+      "y": 34.89,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 76,
+      "mapId": 106000120,
+      "name": "火焰之地Ⅲ",
+      "city": "奇幻村",
+      "x": 47.66,
+      "y": 35.53,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 77,
+      "mapId": 106000130,
+      "name": "火焰之地Ⅳ",
+      "city": "奇幻村",
+      "x": 50.31,
+      "y": 38.3,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 78,
+      "mapId": 106000140,
+      "name": "火焰之地Ⅴ",
+      "city": "奇幻村",
+      "x": 50.47,
+      "y": 43.19,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 79,
+      "mapId": 101030401,
+      "name": "東方岩石山Ⅱ",
+      "city": "勇士之村",
+      "x": 49.22,
+      "y": 21.7,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 80,
+      "mapId": 101030402,
+      "name": "東方岩石山Ⅲ",
+      "city": "勇士之村",
+      "x": 52.03,
+      "y": 20.85,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 81,
+      "mapId": 101030403,
+      "name": "東方岩石山Ⅳ",
+      "city": "勇士之村",
+      "x": 55.16,
+      "y": 21.49,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 82,
+      "mapId": 101030404,
+      "name": "東方岩石山Ⅴ",
+      "city": "勇士之村",
+      "x": 59.2,
+      "y": 22.2,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 83,
+      "mapId": 101030405,
+      "name": "東方岩石山Ⅵ",
+      "city": "勇士之村",
+      "x": 60.65,
+      "y": 18.4,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 84,
+      "mapId": 101030406,
+      "name": "東方岩石山Ⅶ",
+      "city": "勇士之村",
+      "x": 59.22,
+      "y": 17.02,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 85,
+      "mapId": 101000300,
+      "name": "魔法森林碼頭",
+      "city": "魔法森林",
+      "x": 79.06,
+      "y": 47.66,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 86,
+      "mapId": 100000100,
+      "name": "弓箭手村市集",
+      "city": "弓箭手村",
+      "x": 43.59,
+      "y": 83.83,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 87,
+      "mapId": 100000200,
+      "name": "邱比特公園",
+      "city": "弓箭手村",
+      "x": 48.44,
+      "y": 83.83,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 88,
+      "mapId": 120010000,
+      "name": "前往碼頭的路",
+      "city": "魔法森林",
+      "x": 61.09,
+      "y": 72.77,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 89,
+      "mapId": 120000000,
+      "name": "鯨魚號碼頭",
+      "city": "魔法森林",
+      "x": 75.16,
+      "y": 83.62,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    },
+    {
+      "landId": 90,
+      "mapId": 101000400,
+      "name": "天空渡口<前往耶雷弗>",
+      "city": "魔法森林",
+      "x": 72.66,
+      "y": 65.53,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
+    }
   ]
 }
