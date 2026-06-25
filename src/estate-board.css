@@ -912,6 +912,27 @@ body {
       0 2px 6px rgba(0, 0, 0, 0.55),
       inset 0 1px 0 rgba(255, 255, 255, 0.9);
   }
+
+  /* 手機板：地產勢力高亮光圈擴散幅度降低 */
+  .pin.owned::before {
+    animation: estate-owned-halo-mobile 1.8s ease-in-out infinite;
+  }
+
+  .pin.owned.focus::before {
+    width: calc(36px + var(--lvl-ring, 0px));
+    height: calc(36px + var(--lvl-ring, 0px));
+  }
+
+  @keyframes estate-owned-halo-mobile {
+    0%, 100% {
+      transform: translate(-50%, -50%) scale(1);
+      opacity: 0.68;
+    }
+    50% {
+      transform: translate(-50%, -50%) scale(1.06);
+      opacity: 0.85;
+    }
+  }
 }
 
 @media (max-width: 390px) {
