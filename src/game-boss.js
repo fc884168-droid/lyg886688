@@ -5,7 +5,7 @@
     194: true, 195: true, 196: true, 197: true, 198: true, 199: true, 200: true,
     206: true, 210: true, 221: true
   };
-  var IMG_DIR = "./BOSS地圖傳送用圖/";
+  var IMG_DIR = "./assets/sys-icons/boss/";
 
   var BOSS_MAP = {
     194: "拉圖斯", 195: "夢幻公園", 196: "殘暴炎魔", 197: "暗黑龍王",
