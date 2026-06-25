@@ -263,10 +263,11 @@ main.wrap {
 
 .video-frame video {
   width: 100%;
+  max-width: 100%;
   border-radius: 12px;
   background: #1a1410;
   aspect-ratio: 16 / 9;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .video-hint {
@@ -1607,5 +1608,4 @@ a.card:hover {
     grid-template-columns: 1fr;
   }
 
-  .reincarnation-gallery {
-    grid
+  .reincarnati

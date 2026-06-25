@@ -234,24 +234,47 @@ body {
   border: 3px solid #8b6914;
   border-radius: 10px;
   overflow: hidden;
-  background: #1a2418;
+  background: #ccecf9;
   box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.08);
 }
 
-.map img {
+.map-stage {
+  position: relative;
+  width: 100%;
+  line-height: 0;
+}
+
+.map img,
+.map picture {
   display: block;
   width: 100%;
+  max-width: 100%;
   height: auto;
+  vertical-align: top;
+}
+
+.map img {
   user-select: none;
   -webkit-user-drag: none;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
 }
 
 .pins {
   position: absolute;
-  inset: 0;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
 }
 
 .pin {
+  pointer-events: auto;
   position: absolute;
   left: var(--x);
   top: var(--y);
@@ -880,27 +903,3 @@ body {
     overflow: hidden;
     text-overflow: ellipsis;
     box-shadow:
-      0 0 0 1px rgba(255, 255, 255, 0.95),
-      0 0 12px color-mix(in srgb, var(--owner) 70%, #ffb300),
-      0 2px 6px rgba(0, 0, 0, 0.55),
-      inset 0 1px 0 rgba(255, 255, 255, 0.9);
-  }
-}
-
-@media (max-width: 390px) {
-  .page {
-    width: calc(100% - 12px);
-  }
-
-  .rankBtn {
-    grid-template-columns: 28px minmax(0, 1fr) auto;
-  }
-
-  .rankBtn .avatar {
-    display: none;
-  }
-
-  .rmeta {
-    white-space: normal;
-  }
-}
