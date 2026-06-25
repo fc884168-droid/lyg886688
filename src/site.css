@@ -1608,4 +1608,58 @@ a.card:hover {
     grid-template-columns: 1fr;
   }
 
-  .reincarnati
+  .reincarnation-gallery {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+  }
+
+  .vfx-video-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .boss-roster {
+    gap: 10px;
+  }
+
+  .boss-card,
+  .boss-card img {
+    width: min(300px, 100%);
+  }
+
+  .reincarnation-gallery img {
+    padding: 6px;
+  }
+
+  .info-list li {
+    padding: 10px 12px;
+    font-size: 13px;
+  }
+
+  .footer {
+    padding: 20px 0 28px;
+    font-size: 12px;
+  }
+
+  .site-footer-inner {
+    padding: 24px 0 32px;
+  }
+
+  .footer-keywords span {
+    font-size: 10px;
+    padding: 4px 8px;
+  }
+
+  #stockChart {
+    height: 220px;
+  }
+
+  .stock-table {
+    font-size: 12px;
+    min-width: 520px;
+  }
+
+  .stock-table th,
+  .stock-table td {
+    padding: 10px 8px;
+  }
+}

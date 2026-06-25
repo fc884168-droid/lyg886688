@@ -43,4 +43,5 @@
       '<img src="' + imgPath(id, name) + '" alt="' + name + '" width="300" height="60" loading="lazy">' +
       (open ? "" : '<span class="boss-lock-tag">未開放</span>');
     host.appendChild(fig);
-  }
+  });
+})();
