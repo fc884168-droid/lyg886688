@@ -5,7 +5,6 @@ body {
   background-image:
     radial-gradient(circle at 20% 10%, rgba(255, 255, 255, 0.7) 0%, transparent 26%),
     linear-gradient(180deg, #8fd3f0 0%, #ccecf9 42%, #e8f6e0 100%);
-  background-attachment: fixed;
   color: #4a3422;
 }
 
@@ -326,6 +325,7 @@ body {
   width: calc(30px + var(--lvl-ring, 0px));
   height: calc(30px + var(--lvl-ring, 0px));
   opacity: 0.78;
+  background: var(--lvl);
   background: radial-gradient(
     circle,
     rgba(255, 255, 255, 0.92) 0%,
@@ -447,7 +447,9 @@ body {
   white-space: nowrap;
   padding: 4px 11px;
   border-radius: 999px;
+  border: 2px solid var(--owner);
   border: 2px solid color-mix(in srgb, var(--owner) 55%, #ffd54f);
+  background: var(--owner);
   background:
     linear-gradient(180deg,
       color-mix(in srgb, var(--owner) 22%, #ffffff) 0%,
@@ -587,6 +589,7 @@ body {
 .rankBtn:hover,
 .rankBtn.active {
   border-color: var(--owner);
+  background: #fffdf8;
   background: color-mix(in srgb, var(--owner) 10%, #fffdf8);
 }
 
@@ -744,6 +747,7 @@ body {
 }
 
 .status.owned {
+  background: #fff9ed;
   background: color-mix(in srgb, var(--owner) 25%, #fff9ed);
   color: #3d5c32;
   border-color: var(--owner);
