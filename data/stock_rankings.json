@@ -1,12 +1,5 @@
 {
-  "updatedAt": "2026-06-26 15:23:01",
+  "updatedAt": "2026-06-26 21:58:02",
   "profit": [],
-  "holdings": [
-    {
-      "rank": 1,
-      "player": "落葉帥哥",
-      "market_value": 998514,
-      "total_shares": 246
-    }
-  ]
+  "holdings": []
 }
