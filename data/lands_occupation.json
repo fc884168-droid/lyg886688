@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26 15:23:01",
+  "updatedAt": "2026-06-27 12:58:02",
   "lands": [
     {
       "landId": 0,
@@ -44,9 +44,9 @@
       "city": "墮落城市",
       "x": 15.0,
       "y": 39.15,
-      "ownerId": 2,
-      "owner": "落葉帥哥",
-      "level": 5,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -65,7 +65,7 @@
       "landId": 5,
       "mapId": 105030000,
       "name": "維多利亞中央地城",
-      "city": "維多利亞港",
+      "city": "奇幻村",
       "x": 42.66,
       "y": 55.53,
       "ownerId": 0,
@@ -308,9 +308,9 @@
       "city": "墮落城市",
       "x": 21.09,
       "y": 32.98,
-      "ownerId": 2,
-      "owner": "落葉帥哥",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -368,9 +368,9 @@
       "city": "墮落城市",
       "x": 24.53,
       "y": 60.0,
-      "ownerId": 2,
-      "owner": "落葉帥哥",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -440,9 +440,9 @@
       "city": "維多利亞港",
       "x": 20.0,
       "y": 68.3,
-      "ownerId": 2,
-      "owner": "落葉帥哥",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -620,9 +620,9 @@
       "city": "黃金海岸",
       "x": 85.82,
       "y": 53.53,
-      "ownerId": 2,
-      "owner": "落葉帥哥",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
