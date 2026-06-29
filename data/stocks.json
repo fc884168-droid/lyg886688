@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29 19:18:04",
+  "updatedAt": "2026-06-29 19:23:08",
   "stocks": [
     {
       "id": 10001,
@@ -7,13 +7,13 @@
       "description": "晶圓代工龍頭，科技股指標",
       "base_price": 7230,
       "current_price": 7126,
-      "today_open": 7069,
-      "today_high": 7173,
-      "today_low": 6978,
-      "volume_24h": 781,
-      "change_amount": 57,
-      "change_percent": 0.8063,
-      "last_update": "2026-06-29 18:49:00"
+      "today_open": 7126,
+      "today_high": 7126,
+      "today_low": 7126,
+      "volume_24h": 0,
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-06-29 19:18:28"
     },
     {
       "id": 10002,
@@ -21,13 +21,13 @@
       "description": "獨立遊戲開發商，創意爆發",
       "base_price": 3750,
       "current_price": 3317,
-      "today_open": 3394,
-      "today_high": 3399,
+      "today_open": 3317,
+      "today_high": 3317,
       "today_low": 3317,
-      "volume_24h": 690,
-      "change_amount": -77,
-      "change_percent": -2.2687,
-      "last_update": "2026-06-29 18:49:00"
+      "volume_24h": 0,
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-06-29 19:18:28"
     },
     {
       "id": 10003,
@@ -35,13 +35,13 @@
       "description": "健康風潮引爆，全楓之谷展店最快品牌",
       "base_price": 4107,
       "current_price": 3939,
-      "today_open": 3974,
-      "today_high": 3988,
+      "today_open": 3939,
+      "today_high": 3939,
       "today_low": 3939,
-      "volume_24h": 672,
-      "change_amount": -35,
-      "change_percent": -0.8807,
-      "last_update": "2026-06-29 18:49:00"
+      "volume_24h": 0,
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-06-29 19:18:28"
     },
     {
       "id": 10004,
@@ -49,13 +49,13 @@
       "description": "精品手搖飲品牌，主打高端市場",
       "base_price": 9203,
       "current_price": 8637,
-      "today_open": 8665,
-      "today_high": 8736,
-      "today_low": 8579,
-      "volume_24h": 718,
-      "change_amount": -28,
-      "change_percent": -0.3231,
-      "last_update": "2026-06-29 18:49:00"
+      "today_open": 8637,
+      "today_high": 8637,
+      "today_low": 8637,
+      "volume_24h": 0,
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-06-29 19:18:28"
     },
     {
       "id": 10005,
@@ -63,13 +63,13 @@
       "description": "連鎖茶飲集團，年輕族群最愛",
       "base_price": 3000,
       "current_price": 2848,
-      "today_open": 2887,
-      "today_high": 2898,
+      "today_open": 2848,
+      "today_high": 2848,
       "today_low": 2848,
-      "volume_24h": 573,
-      "change_amount": -39,
-      "change_percent": -1.3509,
-      "last_update": "2026-06-29 18:49:00"
+      "volume_24h": 0,
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-06-29 19:18:28"
     },
     {
       "id": 10006,
@@ -77,13 +77,13 @@
       "description": "電商平台新秀，物流速度傲視同業",
       "base_price": 4344,
       "current_price": 4132,
-      "today_open": 4186,
-      "today_high": 4210,
-      "today_low": 4125,
-      "volume_24h": 641,
-      "change_amount": -54,
-      "change_percent": -1.29,
-      "last_update": "2026-06-29 18:49:00"
+      "today_open": 4132,
+      "today_high": 4132,
+      "today_low": 4132,
+      "volume_24h": 0,
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-06-29 19:18:28"
     },
     {
       "id": 10007,
@@ -91,13 +91,13 @@
       "description": "綠能運輸革命，訂單爆滿",
       "base_price": 8431,
       "current_price": 8528,
-      "today_open": 8572,
-      "today_high": 8572,
-      "today_low": 8416,
-      "volume_24h": 745,
-      "change_amount": -44,
-      "change_percent": -0.5133,
-      "last_update": "2026-06-29 18:49:00"
+      "today_open": 8528,
+      "today_high": 8528,
+      "today_low": 8528,
+      "volume_24h": 0,
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-06-29 19:18:28"
     },
     {
       "id": 10008,
@@ -105,13 +105,13 @@
       "description": "奢侈品龍頭，限量聯名",
       "base_price": 3984,
       "current_price": 3875,
-      "today_open": 3917,
-      "today_high": 3934,
-      "today_low": 3867,
-      "volume_24h": 751,
-      "change_amount": -42,
-      "change_percent": -1.0722,
-      "last_update": "2026-06-29 18:49:00"
+      "today_open": 3875,
+      "today_high": 3875,
+      "today_low": 3875,
+      "volume_24h": 0,
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-06-29 19:18:28"
     },
     {
       "id": 10009,
@@ -119,13 +119,13 @@
       "description": "高風險高波動微商概念股",
       "base_price": 5200,
       "current_price": 5160,
-      "today_open": 5189,
-      "today_high": 5223,
-      "today_low": 5127,
-      "volume_24h": 723,
-      "change_amount": -29,
-      "change_percent": -0.5589,
-      "last_update": "2026-06-29 18:49:00"
+      "today_open": 5160,
+      "today_high": 5160,
+      "today_low": 5160,
+      "volume_24h": 0,
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-06-29 19:18:28"
     },
     {
       "id": 10010,
@@ -134,12 +134,12 @@
       "base_price": 6100,
       "current_price": 6269,
       "today_open": 6269,
-      "today_high": 6356,
-      "today_low": 6253,
-      "volume_24h": 724,
+      "today_high": 6269,
+      "today_low": 6269,
+      "volume_24h": 0,
       "change_amount": 0,
       "change_percent": 0.0,
-      "last_update": "2026-06-29 18:49:00"
+      "last_update": "2026-06-29 19:18:28"
     },
     {
       "id": 10011,
@@ -147,13 +147,13 @@
       "description": "長期投資型 ETF，低波動、低回報但相對穩定",
       "base_price": 6500,
       "current_price": 6429,
-      "today_open": 6462,
-      "today_high": 6467,
-      "today_low": 6426,
-      "volume_24h": 663,
-      "change_amount": -33,
-      "change_percent": -0.5107,
-      "last_update": "2026-06-29 18:49:00"
+      "today_open": 6429,
+      "today_high": 6429,
+      "today_low": 6429,
+      "volume_24h": 0,
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-06-29 19:18:28"
     }
   ]
 }
