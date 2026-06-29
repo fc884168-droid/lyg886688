@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29 19:33:06",
+  "updatedAt": "2026-06-29 19:38:09",
   "lands": [
     {
       "landId": 0,
@@ -404,9 +404,9 @@
       "city": "弓箭手村",
       "x": 33.0,
       "y": 76.6,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 3,
+      "owner": "趙藤雄",
+      "level": 1,
       "status": 0
     },
     {
@@ -416,9 +416,9 @@
       "city": "弓箭手村",
       "x": 37.5,
       "y": 79.57,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 3,
+      "owner": "趙藤雄",
+      "level": 1,
       "status": 0
     },
     {
@@ -872,9 +872,9 @@
       "city": "弓箭手村",
       "x": 38.12,
       "y": 74.47,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 3,
+      "owner": "趙藤雄",
+      "level": 1,
       "status": 0
     },
     {
@@ -884,9 +884,9 @@
       "city": "弓箭手村",
       "x": 36.88,
       "y": 69.36,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 3,
+      "owner": "趙藤雄",
+      "level": 1,
       "status": 0
     },
     {
@@ -1040,9 +1040,9 @@
       "city": "弓箭手村",
       "x": 43.59,
       "y": 83.83,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 3,
+      "owner": "趙藤雄",
+      "level": 3,
       "status": 0
     },
     {
@@ -1052,9 +1052,9 @@
       "city": "弓箭手村",
       "x": 48.44,
       "y": 83.83,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 3,
+      "owner": "趙藤雄",
+      "level": 3,
       "status": 0
     },
     {
