@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29 20:18:11",
+  "updatedAt": "2026-06-29 20:23:05",
   "lands": [
     {
       "landId": 0,
@@ -8,8 +8,8 @@
       "city": "弓箭手村",
       "x": 45.62,
       "y": 80.21,
-      "ownerId": 3,
-      "owner": "趙藤雄",
+      "ownerId": 1,
+      "owner": "落葉谷_花花",
       "level": 5,
       "status": 0
     },
@@ -32,9 +32,9 @@
       "city": "勇士之村",
       "x": 38.44,
       "y": 18.3,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 1,
+      "owner": "落葉谷_花花",
+      "level": 5,
       "status": 0
     },
     {
@@ -56,9 +56,9 @@
       "city": "維多利亞港",
       "x": 15.78,
       "y": 79.79,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 1,
+      "owner": "落葉谷_花花",
+      "level": 5,
       "status": 0
     },
     {
@@ -428,8 +428,8 @@
       "city": "維多利亞港",
       "x": 16.41,
       "y": 71.49,
-      "ownerId": 2,
-      "owner": "流氓a",
+      "ownerId": 1,
+      "owner": "落葉谷_花花",
       "level": 2,
       "status": 0
     },
@@ -476,9 +476,9 @@
       "city": "奇幻村",
       "x": 37.81,
       "y": 28.94,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 1,
+      "owner": "落葉谷_花花",
+      "level": 1,
       "status": 0
     },
     {
