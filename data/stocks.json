@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29 21:58:04",
+  "updatedAt": "2026-06-29 22:03:06",
   "stocks": [
     {
       "id": 10001,
@@ -76,14 +76,14 @@
       "name": "豬皮購物",
       "description": "電商平台新秀，物流速度傲視同業",
       "base_price": 4344,
-      "current_price": 4203,
+      "current_price": 4085,
       "today_open": 4206,
       "today_high": 4276,
-      "today_low": 4155,
+      "today_low": 4085,
       "volume_24h": 2348,
-      "change_amount": -3,
-      "change_percent": -0.0713,
-      "last_update": "2026-06-29 21:57:00"
+      "change_amount": -121,
+      "change_percent": -2.8768,
+      "last_update": "2026-06-29 22:00:24"
     },
     {
       "id": 10007,
@@ -132,28 +132,28 @@
       "name": "泉願格鬥",
       "description": "格鬥娛樂與競技活動品牌",
       "base_price": 6100,
-      "current_price": 6198,
+      "current_price": 6024,
       "today_open": 6210,
       "today_high": 6290,
-      "today_low": 6124,
+      "today_low": 6024,
       "volume_24h": 2524,
-      "change_amount": -12,
-      "change_percent": -0.1932,
-      "last_update": "2026-06-29 21:57:00"
+      "change_amount": -186,
+      "change_percent": -2.9952,
+      "last_update": "2026-06-29 22:00:24"
     },
     {
       "id": 10011,
       "name": "ETF穩健指數",
       "description": "長期投資型 ETF，低波動、低回報但相對穩定",
       "base_price": 6500,
-      "current_price": 6499,
+      "current_price": 6317,
       "today_open": 6415,
       "today_high": 6499,
-      "today_low": 6397,
+      "today_low": 6317,
       "volume_24h": 2125,
-      "change_amount": 84,
-      "change_percent": 1.3094,
-      "last_update": "2026-06-29 21:57:00"
+      "change_amount": -98,
+      "change_percent": -1.5277,
+      "last_update": "2026-06-29 22:00:24"
     }
   ]
 }
