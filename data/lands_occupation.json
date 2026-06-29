@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29 22:03:06",
+  "updatedAt": "2026-06-29 22:08:03",
   "lands": [
     {
       "landId": 0,
@@ -94,7 +94,7 @@
       "y": 75.32,
       "ownerId": 3,
       "owner": "趙藤雄",
-      "level": 1,
+      "level": 0,
       "status": 0
     },
     {
@@ -106,7 +106,7 @@
       "y": 70.21,
       "ownerId": 3,
       "owner": "趙藤雄",
-      "level": 1,
+      "level": 0,
       "status": 0
     },
     {
@@ -394,7 +394,7 @@
       "y": 70.15,
       "ownerId": 3,
       "owner": "趙藤雄",
-      "level": 1,
+      "level": 0,
       "status": 0
     },
     {
@@ -406,7 +406,7 @@
       "y": 76.6,
       "ownerId": 3,
       "owner": "趙藤雄",
-      "level": 1,
+      "level": 0,
       "status": 0
     },
     {
@@ -418,7 +418,7 @@
       "y": 79.57,
       "ownerId": 3,
       "owner": "趙藤雄",
-      "level": 1,
+      "level": 0,
       "status": 0
     },
     {
@@ -874,7 +874,7 @@
       "y": 74.47,
       "ownerId": 3,
       "owner": "趙藤雄",
-      "level": 1,
+      "level": 0,
       "status": 0
     },
     {
