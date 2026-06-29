@@ -283,6 +283,27 @@
   font-weight: 700;
 }
 
+.chart-mode-toggle {
+  display: flex;
+  gap: 6px;
+}
+
+.chart-mode-toggle .tab {
+  cursor: pointer;
+  font-family: inherit;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+}
+
+.chart-mode-toggle .tab:hover {
+  border-color: #58a6ff;
+}
+
+.chart-mode-toggle .tab.active {
+  background: #d97706;
+  border-color: #d97706;
+  color: #1b1f24;
+}
+
 .chart-legend {
   display: flex;
   flex-wrap: wrap;

@@ -6,6 +6,9 @@
   var activeId = null;
   var chart = null;
   var candleSeries = null;
+  var areaSeries = null;
+  var chartMode = localStorage.getItem("lygl_chart_mode") || "area"; // "area"=簡易走勢, "candle"=K棒
+  var modeToggle = document.getElementById("chartModeToggle");
 
   var sidebar = document.getElementById("stockSidebar");
   var tableBody = document.getElementById("stockTableBody");
@@ -66,6 +69,34 @@
     });
   }
 
+  function toAreaData(bars) {
+    return bars.map(function (b) {
+      return { time: b.time, value: b.close };
+    });
+  }
+
+  function setChartMode(mode) {
+    chartMode = mode;
+    localStorage.setItem("lygl_chart_mode", mode);
+    if (modeToggle) {
+      modeToggle.querySelectorAll(".tab").forEach(function (btn) {
+        btn.classList.toggle("active", btn.dataset.mode === mode);
+      });
+    }
+    if (candleSeries) candleSeries.applyOptions({ visible: mode === "candle" });
+    if (areaSeries) areaSeries.applyOptions({ visible: mode === "area" });
+  }
+
+  if (modeToggle) {
+    modeToggle.querySelectorAll(".tab").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        setChartMode(btn.dataset.mode);
+        var stock = stocks.find(function (s) { return s.id === activeId; });
+        if (stock) renderChart(stock);
+      });
+    });
+  }
+
   function ensureChart() {
     if (chart || typeof LightweightCharts === "undefined") return;
     chart = LightweightCharts.createChart(host, {
@@ -113,7 +144,17 @@
       borderUpColor: "#ef5350",
       borderDownColor: "#43a047",
       wickUpColor: "#ef5350",
-      wickDownColor: "#43a047"
+      wickDownColor: "#43a047",
+      visible: chartMode === "candle"
+    });
+
+    areaSeries = chart.addAreaSeries({
+      lineColor: "#d97706",
+      lineWidth: 2,
+      topColor: "rgba(217, 119, 6, 0.35)",
+      bottomColor: "rgba(217, 119, 6, 0.02)",
+      priceLineVisible: false,
+      visible: chartMode === "area"
     });
 
     window.addEventListener("resize", function () {
@@ -181,6 +222,7 @@
         chart.remove();
         chart = null;
         candleSeries = null;
+        areaSeries = null;
       }
       host.hidden = true;
       if (chartEmpty) {
@@ -193,8 +235,9 @@
     host.hidden = false;
     if (chartEmpty) chartEmpty.hidden = true;
     ensureChart();
-    if (!chart || !candleSeries) return;
+    if (!chart || !candleSeries || !areaSeries) return;
     candleSeries.setData(toChartData(bars));
+    areaSeries.setData(toAreaData(bars));
     chart.timeScale().fitContent();
   }
 
@@ -287,6 +330,7 @@
     }
   }
 
+  setChartMode(chartMode); // 同步切換按鈕的active樣式到使用者上次選的模式（series此時還沒建立，setChartMode裡有null檢查不會出錯）
   refresh();
   setInterval(refresh, 60000);
 })();

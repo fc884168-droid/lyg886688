@@ -76,7 +76,10 @@
             </div>
           </div>
           <div class="market-toolbar">
-            <span class="tab active">價格走勢</span>
+            <div class="chart-mode-toggle" id="chartModeToggle">
+              <button type="button" class="tab active" data-mode="area">簡易走勢</button>
+              <button type="button" class="tab" data-mode="candle">K棒</button>
+            </div>
             <span class="chart-legend">
               <i class="leg-up">紅＝上漲</i>
               <i class="leg-down">綠＝下跌</i>
