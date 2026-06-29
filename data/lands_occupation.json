@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29 19:38:09",
+  "updatedAt": "2026-06-29 19:43:06",
   "lands": [
     {
       "landId": 0,
@@ -622,7 +622,7 @@
       "y": 53.53,
       "ownerId": 2,
       "owner": "流氓a",
-      "level": 4,
+      "level": 3,
       "status": 0
     },
     {
@@ -658,7 +658,7 @@
       "y": 63.08,
       "ownerId": 2,
       "owner": "流氓a",
-      "level": 3,
+      "level": 2,
       "status": 1
     },
     {
