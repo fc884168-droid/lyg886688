@@ -474,9 +474,20 @@ body {
 }
 
 .pin.owned .ownerTag {
-  /* 預設不常駐顯示名字標籤，地段一多會疊在一起糊成一片；
-     滑過/選取/該地主被高亮時才彈出（見下面 :hover / .active / .focus 規則） */
+  /* 桌面版空間夠，名字標籤常駐顯示；手機版會在下面 680px 斷點關掉常駐、改成點擊才顯示 */
+  display: block;
   animation: estate-owned-tag 1.8s ease-in-out infinite;
+}
+
+.pin.owned.crowded .ownerTag {
+  /* 地段太密集會疊字，這種地方改成跟手機版一樣，點/滑過去才顯示（見下面 hover/active/focus 規則） */
+  display: none;
+}
+
+.pin.owned.crowded:hover .ownerTag,
+.pin.owned.crowded.active .ownerTag,
+.pin.owned.crowded.focus .ownerTag {
+  display: block;
 }
 
 @keyframes estate-owned-tag {
@@ -580,9 +591,9 @@ body {
   align-items: center;
   min-height: 48px;
   text-align: left;
-  border: 2px solid #e8d4aa;
-  border-radius: 8px;
-  background: #fffdf8;
+  border: 2px dashed #c9a56a;
+  border-radius: 6px;
+  background: linear-gradient(180deg, #fffdf8 0%, #faf0d8 100%);
   color: #4a3422;
   padding: 8px 10px;
   cursor: pointer;
@@ -590,51 +601,57 @@ body {
 
 .rankBtn:hover,
 .rankBtn.active {
+  border-style: solid;
   border-color: var(--owner);
-  background: #fffdf8;
   background: color-mix(in srgb, var(--owner) 10%, #fffdf8);
 }
 
-.rnkNum {
-  width: 28px;
-  height: 28px;
+/* 排名徽章改成領地旗幟/盾牌剪影，取代制式的圓角數字徽章 */
+.rnkBanner {
+  width: 30px;
+  height: 34px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  border-radius: 8px;
   background: #efe0c0;
   color: #7a5235;
   font-size: 13px;
   font-weight: 800;
   line-height: 1;
   flex-shrink: 0;
+  clip-path: polygon(0 0, 100% 0, 100% 68%, 50% 100%, 0 68%);
+  border: 1px solid #c9a56a;
+  padding-bottom: 4px;
 }
 
-.rnkNum.top1 {
+.rnkBanner.top1 {
   background: linear-gradient(180deg, #ffe566 0%, #ffb020 100%);
   color: #5c3d00;
-  border: 1px solid #a66f08;
+  border-color: #a66f08;
   box-shadow: 0 0 8px rgba(255, 176, 32, 0.55);
 }
 
-.rnkNum.top2 {
+.rnkBanner.top2 {
   background: linear-gradient(180deg, #f0f0f5 0%, #b8bcc8 100%);
   color: #3a3f4d;
-  border: 1px solid #8a909e;
+  border-color: #8a909e;
 }
 
-.rnkNum.top3 {
+.rnkBanner.top3 {
   background: linear-gradient(180deg, #ffd0a0 0%, #c97830 100%);
   color: #4a2208;
-  border: 1px solid #9a5520;
+  border-color: #9a5520;
 }
 
-.avatar {
-  width: 26px;
-  height: 26px;
-  border-radius: 50%;
+/* 玩家標示改成小旗幟（領地旗），取代純色圓點頭像 */
+.rflag {
+  width: 22px;
+  height: 28px;
+  flex-shrink: 0;
   background: var(--owner);
   border: 2px solid #fff;
+  clip-path: polygon(0 0, 100% 0, 100% 72%, 50% 100%, 0 72%);
+  box-shadow: 0 1px 3px rgba(74, 52, 34, 0.35);
 }
 
 .rname {
@@ -879,15 +896,15 @@ body {
     min-height: 44px;
   }
 
-  .rnkNum {
+  .rnkBanner {
     width: 26px;
-    height: 26px;
+    height: 30px;
     font-size: 12px;
   }
 
-  .avatar {
-    width: 22px;
-    height: 22px;
+  .rflag {
+    width: 18px;
+    height: 24px;
   }
 
   .rname {
@@ -903,6 +920,8 @@ body {
   }
 
   .pin.owned .ownerTag {
+    /* 手機畫面小，地段一密集名字會疊在一起，預設關掉常駐，點一下該地段再顯示 */
+    display: none;
     font-size: 10px;
     padding: 3px 8px;
     max-width: 80px;
@@ -913,6 +932,12 @@ body {
       0 0 12px color-mix(in srgb, var(--owner) 70%, #ffb300),
       0 2px 6px rgba(0, 0, 0, 0.55),
       inset 0 1px 0 rgba(255, 255, 255, 0.9);
+  }
+
+  .pin.owned:hover .ownerTag,
+  .pin.owned.active .ownerTag,
+  .pin.owned.focus .ownerTag {
+    display: block;
   }
 
   /* 手機板：地產勢力高亮光圈擴散幅度降低 */
@@ -946,7 +971,7 @@ body {
     grid-template-columns: 28px minmax(0, 1fr) auto;
   }
 
-  .rankBtn .avatar {
+  .rankBtn .rflag {
     display: none;
   }
 
