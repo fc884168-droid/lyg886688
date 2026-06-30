@@ -474,7 +474,8 @@ body {
 }
 
 .pin.owned .ownerTag {
-  display: block;
+  /* 預設不常駐顯示名字標籤，地段一多會疊在一起糊成一片；
+     滑過/選取/該地主被高亮時才彈出（見下面 :hover / .active / .focus 規則） */
   animation: estate-owned-tag 1.8s ease-in-out infinite;
 }
 
@@ -508,6 +509,7 @@ body {
 }
 
 .pin.owned.focus .ownerTag {
+  display: block;
   transform: translateX(-50%) scale(1.14);
   font-size: 13px;
   color: #120800;
