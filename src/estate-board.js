@@ -30,7 +30,6 @@
   async function boot() {
     try {
       LANDS = await loadLands();
-      computeCrowding();
       var meta = document.getElementById("estateUpdated");
       if (meta) meta.textContent = "共 " + LANDS.length + " 塊地段 · 資料來源：遊戲端 estate_lands";
       buildLegend();
@@ -169,31 +168,11 @@
     });
   }
 
-  // 密度判斷：地段分散的地方名字常駐顯示比較好用；密集擠在一起的地方常駐反而會疊字看不清楚，
-  // 這種地方改成跟手機版一樣，要點/滑過去才顯示名字。
-  var CROWD_DIST_PCT = 9; // 座標是地圖百分比(0~100)；實測標籤實際重疊的pin間距最大到約8.5%，抓9留一點餘量
-  var CROWD_NEIGHBORS = 1; // 半徑內只要有1個以上其他有主地段，標籤就會疊到，達到這個數量就算密集
-
-  function computeCrowding() {
-    var owned = LANDS.filter(function (l) { return l.ownerKey; });
-    owned.forEach(function (a) {
-      var count = 0;
-      for (var i = 0; i < owned.length; i++) {
-        var b = owned[i];
-        if (b === a) continue;
-        var dx = a.x - b.x;
-        var dy = a.y - b.y;
-        if (Math.sqrt(dx * dx + dy * dy) <= CROWD_DIST_PCT) count++;
-      }
-      a.crowded = count >= CROWD_NEIGHBORS;
-    });
-  }
-
   function applyPinState(pinEl, l) {
     if (!pinEl) return;
     var owned = !!l.ownerKey;
     var lvl = pinLevel(l);
-    pinEl.className = "pin " + (owned ? "owned" : "unowned") + (l.crowded ? " crowded" : "");
+    pinEl.className = "pin " + (owned ? "owned" : "unowned");
     pinEl.dataset.owner = l.ownerKey || "";
     pinEl.dataset.level = String(lvl);
     pinEl.style.setProperty("--lvl", levelColor(lvl));
@@ -404,7 +383,6 @@
         }
       });
 
-      computeCrowding();
       var meta = document.getElementById("estateUpdated");
       if (meta && data.updatedAt) meta.textContent = "戰況更新：" + data.updatedAt;
       if (pins && pins.children.length === LANDS.length) {

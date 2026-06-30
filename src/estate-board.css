@@ -439,21 +439,21 @@ body {
   height: 26px;
 }
 
-/* 名牌改成扁平羊皮紙小旗，取代原本漸層發光圓角藥丸 + 呼吸燈動畫，跟排行榜旗幟風格呼應 */
+/* 名牌：扁平羊皮紙小旗，全部地段一律常駐顯示，字刻意壓小避免太搶眼 */
 .ownerTag {
   position: absolute;
   left: 50%;
-  bottom: 13px;
+  bottom: 12px;
   transform: translateX(-50%);
   white-space: nowrap;
-  padding: 2px 8px;
+  padding: 1px 6px;
   border-radius: 4px;
-  border: 1.5px solid var(--owner);
+  border: 1px solid var(--owner);
   background: #fff8ea;
   color: #3a2a1a;
-  font-size: 11px;
+  font-size: 9px;
   font-weight: 700;
-  box-shadow: 0 2px 4px rgba(74, 52, 34, 0.4);
+  box-shadow: 0 1px 3px rgba(74, 52, 34, 0.4);
   pointer-events: none;
   display: none;
   z-index: 3;
@@ -464,38 +464,21 @@ body {
   content: "";
   position: absolute;
   left: 50%;
-  bottom: -5px;
+  bottom: -4px;
   transform: translateX(-50%);
-  border: 5px solid transparent;
+  border: 4px solid transparent;
   border-top-color: var(--owner);
 }
 
 .pin.owned .ownerTag {
-  /* 桌面版空間夠，名字標籤常駐顯示；手機版會在下面 680px 斷點關掉常駐、改成點擊才顯示 */
-  display: block;
-}
-
-.pin.owned.crowded .ownerTag {
-  /* 地段太密集會疊字，這種地方改成跟手機版一樣，點/滑過去才顯示（見下面 hover/active/focus 規則） */
-  display: none;
-}
-
-.pin.owned.crowded:hover .ownerTag,
-.pin.owned.crowded.active .ownerTag,
-.pin.owned.crowded.focus .ownerTag {
   display: block;
 }
 
 .pin.owned:hover .ownerTag,
 .pin.owned.active .ownerTag,
 .pin.owned.focus .ownerTag {
-  border-width: 2px;
-  font-size: 12px;
-}
-
-.pin:hover .ownerTag,
-.pin.active .ownerTag {
-  display: block;
+  border-width: 1.5px;
+  font-size: 10px;
 }
 
 .side {
@@ -880,20 +863,13 @@ body {
   }
 
   .pin.owned .ownerTag {
-    /* 手機畫面小，地段一密集名字會疊在一起，預設關掉常駐，點一下該地段再顯示 */
-    display: none;
-    font-size: 10px;
-    padding: 2px 6px;
-    max-width: 80px;
+    display: block;
+    font-size: 8px;
+    padding: 1px 5px;
+    max-width: 70px;
     overflow: hidden;
     text-overflow: ellipsis;
-    box-shadow: 0 2px 3px rgba(74, 52, 34, 0.4);
-  }
-
-  .pin.owned:hover .ownerTag,
-  .pin.owned.active .ownerTag,
-  .pin.owned.focus .ownerTag {
-    display: block;
+    box-shadow: 0 1px 2px rgba(74, 52, 34, 0.4);
   }
 
   /* 手機板：地圖渲染尺寸比桌面小很多，光暈再縮一輪、模糊半徑壓到最低，避免地段密集時整片糊成一坨 */
