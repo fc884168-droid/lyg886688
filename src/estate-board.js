@@ -315,13 +315,21 @@
   function renderLandDetail(l) {
     if (!detail) return;
     detail.style.setProperty("--owner", ownerColor(l.ownerKey));
+    var rewards = LYGL_ESTATE.calcFragmentRewards(LANDS, l);
+    var rewardHtml = rewards
+      .filter(function (r) { return r.qty > 0; })
+      .map(function (r) {
+        return '<div class="row fragRow"><span><img class="fragIcon" src="' + r.icon + '" alt="' + esc(r.name) + '">' + esc(r.name) + "</span><b>× " + r.qty + " / 日</b></div>";
+      })
+      .join("");
     detail.innerHTML =
       "<small>地段詳情</small><h4>" + esc(l.name) + "</h4>" +
       '<div class="row"><span>持有者</span><b><span class="status ' + (l.ownerKey ? "owned" : "") + '">' + esc(ownerName(l)) + "</span></b></div>" +
       '<div class="row"><span>土地等級</span><b>' + (l.level ? "LV" + l.level : "未收購") + "</b></div>" +
       '<div class="row"><span>隸屬城市</span><b>' + esc(l.district) + "</b></div>" +
       '<div class="row"><span>地圖代碼</span><b>' + l.mapId + "</b></div>" +
-      '<div class="row"><span>地段類型</span><b>' + esc(l.type) + "</b></div>";
+      '<div class="row"><span>地段類型</span><b>' + esc(l.type) + "</b></div>" +
+      '<div class="fragSection"><small>每日產出</small>' + rewardHtml + "</div>";
   }
 
   function topDistrict(list) {
