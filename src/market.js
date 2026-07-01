@@ -332,5 +332,5 @@
 
   setChartMode(chartMode); // 同步切換按鈕的active樣式到使用者上次選的模式（series此時還沒建立，setChartMode裡有null檢查不會出錯）
   refresh();
-  setInterval(refresh, 60000);
+  setInterval(refresh, 20000);
 })();

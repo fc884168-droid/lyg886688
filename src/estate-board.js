@@ -38,7 +38,7 @@
       buildRank();
       applyFilter();
       await syncOccupation();
-      setInterval(syncOccupation, 60000);
+      setInterval(syncOccupation, 20000);
     } catch (err) {
       console.error(err);
       if (detail) {
