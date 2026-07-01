@@ -3,7 +3,7 @@
 
   var OPEN_IDS = {
     194: true, 195: true, 196: true, 197: true, 198: true, 199: true, 200: true,
-    206: true, 210: true, 221: true
+    210: true, 221: true
   };
   var IMG_DIR = "./assets/sys-icons/boss/";
 
