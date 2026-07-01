@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-01 16:28:02",
+  "updatedAt": "2026-07-01 16:33:01",
   "stocks": [
     {
       "id": 10001,
       "name": "台G電",
       "description": "晶圓代工龍頭，科技股指標",
       "base_price": 7230,
-      "current_price": 6538,
+      "current_price": 6547,
       "today_open": 6581,
       "today_high": 6685,
       "today_low": 6448,
-      "volume_24h": 2805,
-      "change_amount": -43,
-      "change_percent": -0.6534,
-      "last_update": "2026-07-01 16:23:00"
+      "volume_24h": 3017,
+      "change_amount": -34,
+      "change_percent": -0.5166,
+      "last_update": "2026-07-01 16:33:00"
     },
     {
       "id": 10002,
       "name": "落葉谷工作室",
       "description": "獨立遊戲開發商，創意爆發",
       "base_price": 3750,
-      "current_price": 3209,
+      "current_price": 3211,
       "today_open": 3247,
       "today_high": 3297,
       "today_low": 3195,
-      "volume_24h": 2744,
-      "change_amount": -38,
-      "change_percent": -1.1703,
-      "last_update": "2026-07-01 16:23:00"
+      "volume_24h": 2976,
+      "change_amount": -36,
+      "change_percent": -1.1087,
+      "last_update": "2026-07-01 16:33:00"
     },
     {
       "id": 10003,
       "name": "陳菊溼汗健身房",
       "description": "健康風潮引爆，全楓之谷展店最快品牌",
       "base_price": 4107,
-      "current_price": 3663,
+      "current_price": 3670,
       "today_open": 3752,
       "today_high": 3766,
       "today_low": 3587,
-      "volume_24h": 2878,
-      "change_amount": -89,
-      "change_percent": -2.3721,
-      "last_update": "2026-07-01 16:23:00"
+      "volume_24h": 3137,
+      "change_amount": -82,
+      "change_percent": -2.1855,
+      "last_update": "2026-07-01 16:33:00"
     },
     {
       "id": 10004,
       "name": "19茶屋",
       "description": "精品手搖飲品牌，主打高端市場",
       "base_price": 9203,
-      "current_price": 8551,
+      "current_price": 8534,
       "today_open": 8528,
       "today_high": 8558,
       "today_low": 8287,
-      "volume_24h": 2782,
-      "change_amount": 23,
-      "change_percent": 0.2697,
-      "last_update": "2026-07-01 16:23:00"
+      "volume_24h": 2958,
+      "change_amount": 6,
+      "change_percent": 0.0704,
+      "last_update": "2026-07-01 16:33:00"
     },
     {
       "id": 10005,
       "name": "廖老二手搖飲",
       "description": "連鎖茶飲集團，年輕族群最愛",
       "base_price": 3000,
-      "current_price": 2838,
+      "current_price": 2850,
       "today_open": 2780,
-      "today_high": 2838,
+      "today_high": 2850,
       "today_low": 2741,
-      "volume_24h": 2705,
-      "change_amount": 58,
-      "change_percent": 2.0863,
-      "last_update": "2026-07-01 16:23:00"
+      "volume_24h": 2991,
+      "change_amount": 70,
+      "change_percent": 2.518,
+      "last_update": "2026-07-01 16:33:00"
     },
     {
       "id": 10006,
       "name": "豬皮購物",
       "description": "電商平台新秀，物流速度傲視同業",
       "base_price": 4344,
-      "current_price": 3952,
+      "current_price": 3955,
       "today_open": 3918,
-      "today_high": 3997,
+      "today_high": 3999,
       "today_low": 3862,
-      "volume_24h": 2932,
-      "change_amount": 34,
-      "change_percent": 0.8678,
-      "last_update": "2026-07-01 16:23:00"
+      "volume_24h": 3193,
+      "change_amount": 37,
+      "change_percent": 0.9444,
+      "last_update": "2026-07-01 16:33:00"
     },
     {
       "id": 10007,
       "name": "特會拉電動車",
       "description": "綠能運輸革命，訂單爆滿",
       "base_price": 8431,
-      "current_price": 8113,
+      "current_price": 8083,
       "today_open": 8098,
       "today_high": 8260,
       "today_low": 7978,
-      "volume_24h": 2874,
-      "change_amount": 15,
-      "change_percent": 0.1852,
-      "last_update": "2026-07-01 16:23:00"
+      "volume_24h": 3122,
+      "change_amount": -15,
+      "change_percent": -0.1852,
+      "last_update": "2026-07-01 16:33:00"
     },
     {
       "id": 10008,
       "name": "Eagle精品",
       "description": "奢侈品龍頭，限量聯名",
       "base_price": 3984,
-      "current_price": 3621,
+      "current_price": 3629,
       "today_open": 3597,
       "today_high": 3672,
       "today_low": 3533,
-      "volume_24h": 3149,
-      "change_amount": 24,
-      "change_percent": 0.6672,
-      "last_update": "2026-07-01 16:23:00"
+      "volume_24h": 3327,
+      "change_amount": 32,
+      "change_percent": 0.8896,
+      "last_update": "2026-07-01 16:33:00"
     },
     {
       "id": 10009,
@@ -122,10 +122,10 @@
       "today_open": 4856,
       "today_high": 4953,
       "today_low": 4809,
-      "volume_24h": 2919,
+      "volume_24h": 3133,
       "change_amount": -22,
       "change_percent": -0.453,
-      "last_update": "2026-07-01 16:23:00"
+      "last_update": "2026-07-01 16:33:00"
     },
     {
       "id": 10010,
@@ -136,10 +136,10 @@
       "today_open": 5759,
       "today_high": 5824,
       "today_low": 5647,
-      "volume_24h": 2833,
+      "volume_24h": 3022,
       "change_amount": -80,
       "change_percent": -1.3891,
-      "last_update": "2026-07-01 16:23:00"
+      "last_update": "2026-07-01 16:33:00"
     },
     {
       "id": 10011,
@@ -150,10 +150,10 @@
       "today_open": 6017,
       "today_high": 6050,
       "today_low": 5958,
-      "volume_24h": 2494,
+      "volume_24h": 2703,
       "change_amount": -59,
       "change_percent": -0.9806,
-      "last_update": "2026-07-01 16:23:00"
+      "last_update": "2026-07-01 16:33:00"
     }
   ]
 }
