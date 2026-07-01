@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01 10:23:01",
+  "updatedAt": "2026-07-02 01:13:58",
   "lands": [
     {
       "landId": 0,
@@ -10,7 +10,7 @@
       "y": 80.21,
       "ownerId": 1,
       "owner": "落葉谷_花花",
-      "level": 6,
+      "level": 7,
       "status": 0
     },
     {
@@ -46,7 +46,7 @@
       "y": 39.15,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 7,
+      "level": 2,
       "status": 0
     },
     {
@@ -82,7 +82,7 @@
       "y": 80.0,
       "ownerId": 1,
       "owner": "落葉谷_花花",
-      "level": 4,
+      "level": 5,
       "status": 0
     },
     {
@@ -94,7 +94,7 @@
       "y": 75.32,
       "ownerId": 3,
       "owner": "趙藤雄",
-      "level": 1,
+      "level": 2,
       "status": 0
     },
     {
@@ -106,7 +106,7 @@
       "y": 70.21,
       "ownerId": 3,
       "owner": "趙藤雄",
-      "level": 1,
+      "level": 2,
       "status": 0
     },
     {
@@ -152,9 +152,9 @@
       "city": "魔法森林",
       "x": 61.41,
       "y": 55.53,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 1,
+      "owner": "落葉谷_花花",
+      "level": 2,
       "status": 0
     },
     {
@@ -298,7 +298,7 @@
       "y": 32.98,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 7,
+      "level": 1,
       "status": 0
     },
     {
@@ -310,7 +310,7 @@
       "y": 32.98,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 7,
+      "level": 2,
       "status": 0
     },
     {
@@ -322,8 +322,8 @@
       "y": 47.02,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 7,
-      "status": 0
+      "level": 2,
+      "status": 1
     },
     {
       "landId": 27,
@@ -334,7 +334,7 @@
       "y": 52.34,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 7,
+      "level": 1,
       "status": 0
     },
     {
@@ -346,7 +346,7 @@
       "y": 59.65,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 7,
+      "level": 2,
       "status": 0
     },
     {
@@ -358,7 +358,7 @@
       "y": 61.06,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 7,
+      "level": 2,
       "status": 0
     },
     {
@@ -370,7 +370,7 @@
       "y": 60.0,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 7,
+      "level": 1,
       "status": 0
     },
     {
@@ -394,7 +394,7 @@
       "y": 70.15,
       "ownerId": 3,
       "owner": "趙藤雄",
-      "level": 1,
+      "level": 2,
       "status": 0
     },
     {
@@ -406,7 +406,7 @@
       "y": 76.6,
       "ownerId": 3,
       "owner": "趙藤雄",
-      "level": 1,
+      "level": 2,
       "status": 0
     },
     {
@@ -418,7 +418,7 @@
       "y": 79.57,
       "ownerId": 3,
       "owner": "趙藤雄",
-      "level": 1,
+      "level": 2,
       "status": 0
     },
     {
@@ -488,9 +488,9 @@
       "city": "奇幻村",
       "x": 35.78,
       "y": 33.83,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 1,
+      "owner": "落葉谷花花",
+      "level": 1,
       "status": 0
     },
     {
@@ -550,7 +550,7 @@
       "y": 39.79,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 7,
+      "level": 3,
       "status": 0
     },
     {
@@ -562,7 +562,7 @@
       "y": 40.85,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 7,
+      "level": 3,
       "status": 0
     },
     {
@@ -574,7 +574,7 @@
       "y": 46.6,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 7,
+      "level": 3,
       "status": 0
     },
     {
@@ -584,9 +584,9 @@
       "city": "奇幻村",
       "x": 30.78,
       "y": 51.91,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 1,
+      "owner": "落葉谷花花",
+      "level": 1,
       "status": 0
     },
     {
@@ -668,9 +668,9 @@
       "city": "勇士之村",
       "x": 59.69,
       "y": 34.68,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 1,
+      "owner": "落葉谷花花",
+      "level": 2,
       "status": 0
     },
     {
@@ -850,7 +850,7 @@
       "y": 55.53,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 7,
+      "level": 3,
       "status": 0
     },
     {
@@ -874,7 +874,7 @@
       "y": 74.47,
       "ownerId": 3,
       "owner": "趙藤雄",
-      "level": 1,
+      "level": 2,
       "status": 0
     },
     {
@@ -886,7 +886,7 @@
       "y": 69.36,
       "ownerId": 3,
       "owner": "趙藤雄",
-      "level": 1,
+      "level": 2,
       "status": 0
     },
     {
@@ -932,9 +932,9 @@
       "city": "奇幻村",
       "x": 50.31,
       "y": 38.3,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 1,
+      "owner": "落葉谷花花",
+      "level": 1,
       "status": 0
     },
     {
@@ -1042,7 +1042,7 @@
       "y": 83.83,
       "ownerId": 3,
       "owner": "趙藤雄",
-      "level": 3,
+      "level": 4,
       "status": 0
     },
     {
@@ -1054,7 +1054,7 @@
       "y": 83.83,
       "ownerId": 3,
       "owner": "趙藤雄",
-      "level": 3,
+      "level": 4,
       "status": 0
     },
     {

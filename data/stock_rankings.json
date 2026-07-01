@@ -1,5 +1,12 @@
 {
-  "updatedAt": "2026-07-01 10:23:01",
+  "updatedAt": "2026-07-02 01:13:58",
   "profit": [],
-  "holdings": []
+  "holdings": [
+    {
+      "rank": 1,
+      "player": "落葉谷花花",
+      "market_value": 98928726,
+      "total_shares": 12363
+    }
+  ]
 }
