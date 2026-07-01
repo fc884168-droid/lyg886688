@@ -232,6 +232,7 @@
       b.onclick = function () { selectOwner(r.name); };
       rank.appendChild(b);
     });
+    buildResDistr();
   }
 
   function getRankList() {
@@ -341,15 +342,56 @@
     return entries[0] ? entries[0][0] : "-";
   }
 
+  function buildResDistr() {
+    var resDistrEl = document.getElementById("resDistr");
+    if (!resDistrEl) return;
+    var totals = {};
+    LANDS.filter(function (l) { return l.ownerKey && Number(l.level) > 0; }).forEach(function (l) {
+      LYGL_ESTATE.calcFragmentRewards(LANDS, l).forEach(function (r) {
+        if (!r.qty) return;
+        if (!totals[r.itemId]) totals[r.itemId] = { name: r.name, icon: r.icon, qty: 0 };
+        totals[r.itemId].qty += r.qty;
+      });
+    });
+    var entries = Object.keys(totals).map(function (k) { return totals[k]; })
+      .sort(function (a, b) { return b.qty - a.qty; });
+    if (!entries.length) {
+      resDistrEl.innerHTML = '<div class="resDHead">資源分布</div><p class="empty resDistrEmpty">暫無持有地段</p>';
+      return;
+    }
+    var maxQty = entries[0].qty;
+    var html = '<div class="resDHead">資源分布</div>';
+    entries.forEach(function (e) {
+      var pct = Math.round(e.qty / maxQty * 100);
+      html += '<div class="resRow">' +
+        '<img class="fragIcon" src="' + e.icon + '" alt="' + esc(e.name) + '">' +
+        '<span class="resName">' + esc(e.name) + '</span>' +
+        '<div class="resBar"><div class="resFill" style="width:' + pct + '%"></div></div>' +
+        '<span class="resQty">' + e.qty + '/日</span>' +
+        '</div>';
+    });
+    resDistrEl.innerHTML = html;
+  }
+
   function showTip(l) {
     if (!tip) return;
     tip.style.setProperty("--owner", ownerColor(l.ownerKey));
+    var fragHtml = "";
+    if (l.ownerKey && Number(l.level) > 0) {
+      var rewards = LYGL_ESTATE.calcFragmentRewards(LANDS, l);
+      fragHtml = '<div class="tipFrag">' +
+        rewards.filter(function (r) { return r.qty > 0; }).map(function (r) {
+          return '<span><img class="fragIcon" src="' + r.icon + '" alt="' + esc(r.name) + '">' +
+            esc(r.name) + " \xd7" + r.qty + "/日</span>";
+        }).join("") +
+        "</div>";
+    }
     tip.innerHTML =
       "<strong>" + esc(l.name) + "</strong>" +
       "<div><span>持有者</span><b>" + esc(ownerName(l)) + "</b></div>" +
       "<div><span>等級</span><b>" + (l.level ? "LV" + l.level : "未收購") + "</b></div>" +
       "<div><span>城市</span><b>" + esc(l.district) + "</b></div>" +
-      "<div><span>代碼</span><b>" + l.mapId + "</b></div>";
+      fragHtml;
     tip.classList.add("show");
   }
 
