@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30 21:13:04",
+  "updatedAt": "2026-07-01 10:08:01",
   "lands": [
     {
       "landId": 0,
@@ -44,9 +44,9 @@
       "city": "墮落城市",
       "x": 15.0,
       "y": 39.15,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 4,
+      "owner": "尬電天尊",
+      "level": 7,
       "status": 0
     },
     {
@@ -70,7 +70,7 @@
       "y": 55.53,
       "ownerId": 2,
       "owner": "流氓a",
-      "level": 2,
+      "level": 1,
       "status": 0
     },
     {
@@ -296,9 +296,9 @@
       "city": "墮落城市",
       "x": 25.16,
       "y": 32.98,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 4,
+      "owner": "尬電天尊",
+      "level": 7,
       "status": 0
     },
     {
@@ -308,9 +308,9 @@
       "city": "墮落城市",
       "x": 21.09,
       "y": 32.98,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 4,
+      "owner": "尬電天尊",
+      "level": 7,
       "status": 0
     },
     {
@@ -320,9 +320,9 @@
       "city": "墮落城市",
       "x": 18.59,
       "y": 47.02,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 4,
+      "owner": "尬電天尊",
+      "level": 7,
       "status": 0
     },
     {
@@ -332,9 +332,9 @@
       "city": "墮落城市",
       "x": 18.12,
       "y": 52.34,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 4,
+      "owner": "尬電天尊",
+      "level": 7,
       "status": 0
     },
     {
@@ -344,9 +344,9 @@
       "city": "墮落城市",
       "x": 17.9,
       "y": 59.65,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 4,
+      "owner": "尬電天尊",
+      "level": 7,
       "status": 0
     },
     {
@@ -356,9 +356,9 @@
       "city": "墮落城市",
       "x": 20.47,
       "y": 61.06,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 4,
+      "owner": "尬電天尊",
+      "level": 7,
       "status": 0
     },
     {
@@ -368,9 +368,9 @@
       "city": "墮落城市",
       "x": 24.53,
       "y": 60.0,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 4,
+      "owner": "尬電天尊",
+      "level": 7,
       "status": 0
     },
     {
@@ -548,9 +548,9 @@
       "city": "墮落城市",
       "x": 23.44,
       "y": 39.79,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 4,
+      "owner": "尬電天尊",
+      "level": 7,
       "status": 0
     },
     {
@@ -560,9 +560,9 @@
       "city": "墮落城市",
       "x": 27.51,
       "y": 40.85,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 4,
+      "owner": "尬電天尊",
+      "level": 7,
       "status": 0
     },
     {
@@ -572,9 +572,9 @@
       "city": "墮落城市",
       "x": 29.53,
       "y": 46.6,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 4,
+      "owner": "尬電天尊",
+      "level": 7,
       "status": 0
     },
     {
@@ -848,9 +848,9 @@
       "city": "墮落城市",
       "x": 22.97,
       "y": 55.53,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 4,
+      "owner": "尬電天尊",
+      "level": 7,
       "status": 0
     },
     {
