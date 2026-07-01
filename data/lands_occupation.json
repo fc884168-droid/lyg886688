@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01 22:23:01",
+  "updatedAt": "2026-07-01 22:28:01",
   "lands": [
     {
       "landId": 0,
@@ -668,9 +668,9 @@
       "city": "勇士之村",
       "x": 59.69,
       "y": 34.68,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 1,
+      "owner": "落葉谷花花",
+      "level": 2,
       "status": 0
     },
     {
@@ -932,9 +932,9 @@
       "city": "奇幻村",
       "x": 50.31,
       "y": 38.3,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 1,
+      "owner": "落葉谷花花",
+      "level": 1,
       "status": 0
     },
     {
