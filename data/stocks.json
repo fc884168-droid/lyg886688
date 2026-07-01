@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-01 23:03:01",
+  "updatedAt": "2026-07-01 23:08:01",
   "stocks": [
     {
       "id": 10001,
       "name": "台G電",
       "description": "晶圓代工龍頭，科技股指標",
       "base_price": 7230,
-      "current_price": 6464,
+      "current_price": 6586,
       "today_open": 6203,
-      "today_high": 6464,
+      "today_high": 6586,
       "today_low": 6136,
       "volume_24h": 3110,
-      "change_amount": 261,
-      "change_percent": 4.2076,
-      "last_update": "2026-07-01 23:02:18"
+      "change_amount": 383,
+      "change_percent": 6.1744,
+      "last_update": "2026-07-01 23:03:05"
     },
     {
       "id": 10002,
@@ -62,14 +62,14 @@
       "name": "廖老二手搖飲",
       "description": "連鎖茶飲集團，年輕族群最愛",
       "base_price": 3000,
-      "current_price": 2891,
+      "current_price": 2945,
       "today_open": 2797,
-      "today_high": 2891,
+      "today_high": 2945,
       "today_low": 2743,
       "volume_24h": 3399,
-      "change_amount": 94,
-      "change_percent": 3.3607,
-      "last_update": "2026-07-01 23:02:18"
+      "change_amount": 148,
+      "change_percent": 5.2914,
+      "last_update": "2026-07-01 23:03:05"
     },
     {
       "id": 10006,
@@ -118,14 +118,14 @@
       "name": "H逼D微商",
       "description": "高風險高波動微商概念股",
       "base_price": 5200,
-      "current_price": 5019,
+      "current_price": 5113,
       "today_open": 4829,
-      "today_high": 5019,
+      "today_high": 5113,
       "today_low": 4739,
       "volume_24h": 3057,
-      "change_amount": 190,
-      "change_percent": 3.9346,
-      "last_update": "2026-07-01 23:02:18"
+      "change_amount": 284,
+      "change_percent": 5.8811,
+      "last_update": "2026-07-01 23:03:05"
     },
     {
       "id": 10010,

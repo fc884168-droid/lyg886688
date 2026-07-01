@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01 23:03:01",
+  "updatedAt": "2026-07-01 23:08:01",
   "lands": [
     {
       "landId": 0,
@@ -46,7 +46,7 @@
       "y": 39.15,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 4,
+      "level": 2,
       "status": 0
     },
     {
@@ -298,7 +298,7 @@
       "y": 32.98,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 4,
+      "level": 1,
       "status": 0
     },
     {
@@ -310,7 +310,7 @@
       "y": 32.98,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 5,
+      "level": 2,
       "status": 0
     },
     {
@@ -322,7 +322,7 @@
       "y": 47.02,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 4,
+      "level": 2,
       "status": 1
     },
     {
@@ -334,7 +334,7 @@
       "y": 52.34,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 3,
+      "level": 1,
       "status": 0
     },
     {
@@ -346,7 +346,7 @@
       "y": 59.65,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 4,
+      "level": 2,
       "status": 0
     },
     {
@@ -358,7 +358,7 @@
       "y": 61.06,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 4,
+      "level": 2,
       "status": 0
     },
     {
@@ -370,7 +370,7 @@
       "y": 60.0,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 3,
+      "level": 1,
       "status": 0
     },
     {
@@ -550,7 +550,7 @@
       "y": 39.79,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 5,
+      "level": 3,
       "status": 0
     },
     {
@@ -562,7 +562,7 @@
       "y": 40.85,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 5,
+      "level": 3,
       "status": 0
     },
     {
@@ -574,7 +574,7 @@
       "y": 46.6,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 5,
+      "level": 3,
       "status": 0
     },
     {
@@ -850,7 +850,7 @@
       "y": 55.53,
       "ownerId": 4,
       "owner": "尬電天尊",
-      "level": 5,
+      "level": 3,
       "status": 0
     },
     {
