@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02 14:09:58",
+  "updatedAt": "2026-07-02 14:10:58",
   "stocks": [
     {
       "id": 10001,
@@ -10,10 +10,10 @@
       "today_open": 6536,
       "today_high": 6671,
       "today_low": 6458,
-      "volume_24h": 1956,
+      "volume_24h": 0,
       "change_amount": 135,
       "change_percent": 2.0655,
-      "last_update": "2026-07-02 14:06:00"
+      "last_update": "2026-07-02 14:10:38"
     },
     {
       "id": 10002,
@@ -24,10 +24,10 @@
       "today_open": 3253,
       "today_high": 3283,
       "today_low": 3108,
-      "volume_24h": 2144,
+      "volume_24h": 0,
       "change_amount": -123,
       "change_percent": -3.7811,
-      "last_update": "2026-07-02 14:06:00"
+      "last_update": "2026-07-02 14:10:38"
     },
     {
       "id": 10003,
@@ -38,10 +38,10 @@
       "today_open": 3612,
       "today_high": 3654,
       "today_low": 3547,
-      "volume_24h": 1988,
+      "volume_24h": 0,
       "change_amount": 11,
       "change_percent": 0.3045,
-      "last_update": "2026-07-02 14:06:00"
+      "last_update": "2026-07-02 14:10:38"
     },
     {
       "id": 10004,
@@ -52,10 +52,10 @@
       "today_open": 8585,
       "today_high": 8587,
       "today_low": 8415,
-      "volume_24h": 2030,
+      "volume_24h": 0,
       "change_amount": -58,
       "change_percent": -0.6756,
-      "last_update": "2026-07-02 14:06:00"
+      "last_update": "2026-07-02 14:10:38"
     },
     {
       "id": 10005,
@@ -66,10 +66,10 @@
       "today_open": 2939,
       "today_high": 3054,
       "today_low": 2907,
-      "volume_24h": 2199,
+      "volume_24h": 0,
       "change_amount": 88,
       "change_percent": 2.9942,
-      "last_update": "2026-07-02 14:06:00"
+      "last_update": "2026-07-02 14:10:38"
     },
     {
       "id": 10006,
@@ -80,10 +80,10 @@
       "today_open": 3999,
       "today_high": 4024,
       "today_low": 3929,
-      "volume_24h": 2126,
+      "volume_24h": 0,
       "change_amount": 14,
       "change_percent": 0.3501,
-      "last_update": "2026-07-02 14:06:00"
+      "last_update": "2026-07-02 14:10:38"
     },
     {
       "id": 10007,
@@ -94,10 +94,10 @@
       "today_open": 8023,
       "today_high": 8098,
       "today_low": 7886,
-      "volume_24h": 1981,
+      "volume_24h": 0,
       "change_amount": -37,
       "change_percent": -0.4612,
-      "last_update": "2026-07-02 14:06:00"
+      "last_update": "2026-07-02 14:10:38"
     },
     {
       "id": 10008,
@@ -108,10 +108,10 @@
       "today_open": 3712,
       "today_high": 3777,
       "today_low": 3673,
-      "volume_24h": 2062,
+      "volume_24h": 0,
       "change_amount": -19,
       "change_percent": -0.5119,
-      "last_update": "2026-07-02 14:06:00"
+      "last_update": "2026-07-02 14:10:38"
     },
     {
       "id": 10009,
@@ -122,10 +122,10 @@
       "today_open": 5072,
       "today_high": 5100,
       "today_low": 5003,
-      "volume_24h": 2088,
+      "volume_24h": 0,
       "change_amount": 18,
       "change_percent": 0.3549,
-      "last_update": "2026-07-02 14:06:00"
+      "last_update": "2026-07-02 14:10:38"
     },
     {
       "id": 10010,
@@ -136,10 +136,10 @@
       "today_open": 6049,
       "today_high": 6059,
       "today_low": 5881,
-      "volume_24h": 2334,
+      "volume_24h": 0,
       "change_amount": -91,
       "change_percent": -1.5044,
-      "last_update": "2026-07-02 14:06:00"
+      "last_update": "2026-07-02 14:10:38"
     },
     {
       "id": 10011,
@@ -150,10 +150,10 @@
       "today_open": 6150,
       "today_high": 6167,
       "today_low": 6078,
-      "volume_24h": 1934,
+      "volume_24h": 0,
       "change_amount": -58,
       "change_percent": -0.9431,
-      "last_update": "2026-07-02 14:06:00"
+      "last_update": "2026-07-02 14:10:38"
     },
     {
       "id": 10012,
@@ -164,10 +164,10 @@
       "today_open": 8888,
       "today_high": 9295,
       "today_low": 8888,
-      "volume_24h": 1087,
+      "volume_24h": 0,
       "change_amount": 284,
       "change_percent": 3.1953,
-      "last_update": "2026-07-02 14:06:00"
+      "last_update": "2026-07-02 14:10:38"
     }
   ]
 }
