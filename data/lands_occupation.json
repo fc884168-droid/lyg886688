@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03 17:48:58",
+  "updatedAt": "2026-07-03 17:50:59",
   "lands": [
     {
       "landId": 0,
@@ -8,9 +8,9 @@
       "city": "弓箭手村",
       "x": 45.62,
       "y": 80.21,
-      "ownerId": 1,
-      "owner": "落葉谷_花花",
-      "level": 7,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -32,9 +32,9 @@
       "city": "勇士之村",
       "x": 38.44,
       "y": 18.3,
-      "ownerId": 1,
-      "owner": "落葉谷_花花",
-      "level": 5,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -44,9 +44,9 @@
       "city": "墮落城市",
       "x": 15.0,
       "y": 39.15,
-      "ownerId": 4,
-      "owner": "尬電天尊",
-      "level": 1,
+      "ownerId": 2,
+      "owner": "落葉帥哥",
+      "level": 5,
       "status": 0
     },
     {
@@ -56,21 +56,21 @@
       "city": "維多利亞港",
       "x": 15.78,
       "y": 79.79,
-      "ownerId": 1,
-      "owner": "落葉谷_花花",
-      "level": 5,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
       "landId": 5,
       "mapId": 105030000,
       "name": "維多利亞中央地城",
-      "city": "奇幻村",
+      "city": "維多利亞港",
       "x": 42.66,
       "y": 55.53,
-      "ownerId": 2,
-      "owner": "流氓a",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -80,9 +80,9 @@
       "city": "弓箭手村",
       "x": 53.44,
       "y": 80.0,
-      "ownerId": 1,
-      "owner": "落葉谷_花花",
-      "level": 5,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -92,9 +92,9 @@
       "city": "弓箭手村",
       "x": 55.31,
       "y": 75.32,
-      "ownerId": 3,
-      "owner": "趙藤雄",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -104,9 +104,9 @@
       "city": "弓箭手村",
       "x": 56.25,
       "y": 70.21,
-      "ownerId": 3,
-      "owner": "趙藤雄",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -152,9 +152,9 @@
       "city": "魔法森林",
       "x": 61.41,
       "y": 55.53,
-      "ownerId": 1,
-      "owner": "落葉谷_花花",
-      "level": 2,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -296,9 +296,9 @@
       "city": "墮落城市",
       "x": 25.16,
       "y": 32.98,
-      "ownerId": 4,
-      "owner": "尬電天尊",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -308,8 +308,8 @@
       "city": "墮落城市",
       "x": 21.09,
       "y": 32.98,
-      "ownerId": 4,
-      "owner": "尬電天尊",
+      "ownerId": 2,
+      "owner": "落葉帥哥",
       "level": 1,
       "status": 0
     },
@@ -320,10 +320,10 @@
       "city": "墮落城市",
       "x": 18.59,
       "y": 47.02,
-      "ownerId": 4,
-      "owner": "尬電天尊",
-      "level": 1,
-      "status": 1
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
     },
     {
       "landId": 27,
@@ -332,9 +332,9 @@
       "city": "墮落城市",
       "x": 18.12,
       "y": 52.34,
-      "ownerId": 4,
-      "owner": "尬電天尊",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -344,9 +344,9 @@
       "city": "墮落城市",
       "x": 17.9,
       "y": 59.65,
-      "ownerId": 4,
-      "owner": "尬電天尊",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -356,9 +356,9 @@
       "city": "墮落城市",
       "x": 20.47,
       "y": 61.06,
-      "ownerId": 4,
-      "owner": "尬電天尊",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -368,8 +368,8 @@
       "city": "墮落城市",
       "x": 24.53,
       "y": 60.0,
-      "ownerId": 4,
-      "owner": "尬電天尊",
+      "ownerId": 2,
+      "owner": "落葉帥哥",
       "level": 1,
       "status": 0
     },
@@ -392,9 +392,9 @@
       "city": "弓箭手村",
       "x": 30.75,
       "y": 70.15,
-      "ownerId": 3,
-      "owner": "趙藤雄",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -404,9 +404,9 @@
       "city": "弓箭手村",
       "x": 33.0,
       "y": 76.6,
-      "ownerId": 3,
-      "owner": "趙藤雄",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -416,9 +416,9 @@
       "city": "弓箭手村",
       "x": 37.5,
       "y": 79.57,
-      "ownerId": 3,
-      "owner": "趙藤雄",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -428,9 +428,9 @@
       "city": "維多利亞港",
       "x": 16.41,
       "y": 71.49,
-      "ownerId": 1,
-      "owner": "落葉谷_花花",
-      "level": 2,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -441,7 +441,7 @@
       "x": 20.0,
       "y": 68.3,
       "ownerId": 2,
-      "owner": "流氓a",
+      "owner": "落葉帥哥",
       "level": 1,
       "status": 0
     },
@@ -476,9 +476,9 @@
       "city": "奇幻村",
       "x": 37.81,
       "y": 28.94,
-      "ownerId": 1,
-      "owner": "落葉谷_花花",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -488,9 +488,9 @@
       "city": "奇幻村",
       "x": 35.78,
       "y": 33.83,
-      "ownerId": 1,
-      "owner": "落葉谷花花",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -548,9 +548,9 @@
       "city": "墮落城市",
       "x": 23.44,
       "y": 39.79,
-      "ownerId": 4,
-      "owner": "尬電天尊",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -560,9 +560,9 @@
       "city": "墮落城市",
       "x": 27.51,
       "y": 40.85,
-      "ownerId": 4,
-      "owner": "尬電天尊",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -572,9 +572,9 @@
       "city": "墮落城市",
       "x": 29.53,
       "y": 46.6,
-      "ownerId": 4,
-      "owner": "尬電天尊",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -584,9 +584,9 @@
       "city": "奇幻村",
       "x": 30.78,
       "y": 51.91,
-      "ownerId": 1,
-      "owner": "落葉谷花花",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -608,9 +608,9 @@
       "city": "黃金海岸",
       "x": 84.55,
       "y": 63.92,
-      "ownerId": 1,
-      "owner": "落葉谷_花花",
-      "level": 7,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -621,9 +621,9 @@
       "x": 85.82,
       "y": 53.53,
       "ownerId": 2,
-      "owner": "流氓a",
+      "owner": "落葉帥哥",
       "level": 1,
-      "status": 1
+      "status": 0
     },
     {
       "landId": 52,
@@ -656,10 +656,10 @@
       "city": "黃金海岸",
       "x": 88.66,
       "y": 63.08,
-      "ownerId": 2,
-      "owner": "流氓a",
-      "level": 1,
-      "status": 1
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
+      "status": 0
     },
     {
       "landId": 55,
@@ -668,9 +668,9 @@
       "city": "勇士之村",
       "x": 59.69,
       "y": 34.68,
-      "ownerId": 1,
-      "owner": "落葉谷花花",
-      "level": 2,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -848,9 +848,9 @@
       "city": "墮落城市",
       "x": 22.97,
       "y": 55.53,
-      "ownerId": 4,
-      "owner": "尬電天尊",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -872,9 +872,9 @@
       "city": "弓箭手村",
       "x": 38.12,
       "y": 74.47,
-      "ownerId": 3,
-      "owner": "趙藤雄",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -884,9 +884,9 @@
       "city": "弓箭手村",
       "x": 36.88,
       "y": 69.36,
-      "ownerId": 3,
-      "owner": "趙藤雄",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -932,9 +932,9 @@
       "city": "奇幻村",
       "x": 50.31,
       "y": 38.3,
-      "ownerId": 1,
-      "owner": "落葉谷花花",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -1040,9 +1040,9 @@
       "city": "弓箭手村",
       "x": 43.59,
       "y": 83.83,
-      "ownerId": 3,
-      "owner": "趙藤雄",
-      "level": 3,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -1052,9 +1052,9 @@
       "city": "弓箭手村",
       "x": 48.44,
       "y": 83.83,
-      "ownerId": 3,
-      "owner": "趙藤雄",
-      "level": 3,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -1076,9 +1076,9 @@
       "city": "魔法森林",
       "x": 75.16,
       "y": 83.62,
-      "ownerId": 1,
-      "owner": "落葉谷_花花",
-      "level": 5,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
