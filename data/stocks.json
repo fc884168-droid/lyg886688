@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03 18:55:59",
+  "updatedAt": "2026-07-03 18:56:59",
   "stocks": [
     {
       "id": 10001,
@@ -38,10 +38,10 @@
       "today_open": 4059,
       "today_high": 4059,
       "today_low": 4059,
-      "volume_24h": 246,
+      "volume_24h": 0,
       "change_amount": 0,
       "change_percent": 0.0,
-      "last_update": "2026-06-16 20:46:30"
+      "last_update": "2026-07-03 18:56:33"
     },
     {
       "id": 10004,
@@ -154,6 +154,20 @@
       "change_amount": 0,
       "change_percent": 0.0,
       "last_update": "2026-06-08 18:22:36"
+    },
+    {
+      "id": 10012,
+      "name": "人工智障GPT",
+      "description": "號稱最強AI，回答起來一本正經卻常常胡說八道，投資人心臟要夠大顆。",
+      "base_price": 8888,
+      "current_price": 8888,
+      "today_open": 8888,
+      "today_high": 8888,
+      "today_low": 8888,
+      "volume_24h": 0,
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-07-03 18:56:33"
     }
   ]
 }
