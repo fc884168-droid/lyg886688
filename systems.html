@@ -43,7 +43,7 @@
         <button class="system-tab" type="button" data-system="reincarnation"><img src="./assets/sys-icons/reincarnation/落葉輪迴.png" alt=""><span>客製輪迴</span></button>
         <button class="system-tab" type="button" data-system="mask"><span>獨家面具</span></button>
         <button class="system-tab" type="button" data-system="dungeon"><span>自創副本</span></button>
-        <button class="system-tab" type="button" data-system="mount"><span>特色騎寵</span></button>
+        <button class="system-tab" type="button" data-system="mount"><img src="./assets/sys-icons/mount/mount-floral.png" alt=""><span>特色騎寵</span></button>
         <button class="system-tab" type="button" data-system="market"><img src="./assets/sys-icons/stock/股市投資.png" alt=""><span>股市投資</span></button>
       </aside>
 
@@ -54,18 +54,17 @@
             <div>
               <p class="eyebrow">ANCIENT GEAR</p>
               <h2>古代裝備覺醒</h2>
-              <p>古代裝備可由 LV1 逐階提升至 LV10，升級時保留既有強化，並把殘件素質刻印到新階段裝備上。覺醒後可額外獲得破攻屬性 20 萬。</p>
+              <p>古代裝備可由 LV1 逐階提升至 LV10。成功後保留既有強化差值，並將殘件浮動素質刻印至新階段。LV10 覺醒完成額外注入破攻 +30 萬。</p>
             </div>
           </div>
           <div class="system-icon-row">
             <figure><img src="./assets/sys-icons/awaken/古代武器殘件.png" alt="古代武器殘件"><figcaption>武器殘件</figcaption></figure>
-            <figure><img src="./assets/sys-icons/awaken/古代裝備殘件.png" alt="古代裝備殘件"><figcaption>防具殘件</figcaption></figure>
-            <figure><img src="./assets/sys-icons/awaken/古代飾品殘件.png" alt="古代飾品殘件"><figcaption>飾品殘件</figcaption></figure>
+            <figure><img src="./assets/sys-icons/awaken/古代裝備殘件.png" alt="古代裝備殘件"><figcaption>裝備殘件</figcaption></figure>
           </div>
           <div class="system-detail-grid">
-            <div><strong>殘件取得</strong><p>遠征 Boss、周末活動掉落。分為武器、防具、飾品殘件，掉落時隨機產生浮動素質。</p></div>
+            <div><strong>殘件取得</strong><p>遠征 Boss 等管道掉落古代武器殘件、古代裝備殘件（飾品類同用裝備殘件）。殘件為裝備型道具，掉落時隨機浮動素質。</p></div>
             <div><strong>素質繼承</strong><p>已升星過的裝備，覺醒最終素質 = 舊裝備目前素質 + LV 升級基礎成長差 + 殘件刻印。</p></div>
-            <div><strong>覺醒結果</strong><p>覺醒成功增加額外破攻；覺醒失敗僅扣除材料與楓幣，裝備本身不受影響。</p></div>
+            <div><strong>覺醒結果</strong><p>成功率自 50% 起每階遞減 5%（LV9→10 為 5%）。失敗仍消耗殘件與楓幣，主體裝備維持原階級。</p></div>
           </div>
         </article>
 
@@ -86,7 +85,7 @@
           <div class="system-detail-grid">
             <div><strong>星力強化</strong><p>使用星力卷軸為裝備升星。高階升星卷軸升星不降級、額外成功率 +20%；升星防爆卷軸可防止爆裝。</p></div>
             <div><strong>風險機制</strong><p>3★ 起可能爆裝，6★ 起失敗可能降 1 星。星數越高，成功率越低、風險越高。</p></div>
-            <div><strong>成功率概覽</strong><p>0→1★ 60%、5→6★ 10%、9→10★ 1%。完整機率表可於遊戲內查閱。</p></div>
+            <div><strong>成功率概覽</strong><p>0→1★ 60%、5→6★ 15%、9→10★ 2%。完整機率表可於遊戲內查閱。</p></div>
           </div>
           <div class="system-subhead">水晶追加</div>
           <div class="system-icon-row system-icon-row--wide">
@@ -102,7 +101,7 @@
           <div class="system-detail-grid">
             <div><strong>追加條件</strong><p>裝備達 1★ 後即可追加力量、敏捷、智慧、幸運。每件裝備僅保留一種追加屬性。</p></div>
             <div><strong>高級水晶</strong><p>100 個普通水晶可兌換 1 個高級水晶，追加上限更高（10★ 最高 +30）。</p></div>
-            <div><strong>保留機制</strong><p>洗出新數值後可自由選擇是否覆蓋，投入越多水晶高數值機率越高，但不保證頂值。</p></div>
+            <div><strong>保留機制</strong><p>洗出新數值後可選擇保留或覆蓋；水晶於抽取時即消耗，即使保留舊數值也不退還。</p></div>
           </div>
         </article>
 
@@ -112,7 +111,7 @@
             <div>
               <p class="eyebrow">COSTUME ENCHANT</p>
               <h2>時裝附魔洗鍊</h2>
-              <p>為時裝追加力量、敏捷、智力、幸運、雙攻、HP/MP 等屬性。洗出新數值後可自由選擇是否覆蓋，也可鎖定特定屬性再洗。</p>
+              <p>為點裝隨機附加力量、敏捷、智慧、幸運、物攻、魔攻、HP/MP、物防、魔防、命中、迴避、速度、跳躍等屬性。每件最多洗鍊 50 次，每次消耗附魔寶石與楓幣 30 萬。</p>
             </div>
           </div>
           <div class="system-icon-row">
@@ -122,8 +121,8 @@
           </div>
           <div class="system-detail-grid">
             <div><strong>附魔洗鍊</strong><p>消耗附魔寶石與楓幣，為時裝隨機附加屬性。每件時裝最多洗鍊 50 次。</p></div>
-            <div><strong>附魔鎖</strong><p>鎖定已滿意的屬性條目，再次洗鍊時該條目不會被覆蓋。</p></div>
-            <div><strong>保留機制</strong><p>洗出新數值後可自由選擇是否套用，不必擔心一次洗壞。</p></div>
+            <div><strong>附魔鎖</strong><p>鎖定已滿意的屬性條目，再次洗鍊時該條目不變；每鎖定 1 條額外消耗附魔鎖 x1。</p></div>
+            <div><strong>保留機制</strong><p>洗出新數值後可自由選擇是否套用；亦可使用重置卷軸清空後重洗。</p></div>
           </div>
         </article>
 
@@ -133,7 +132,7 @@
             <div>
               <p class="eyebrow">TALENT BOOK</p>
               <h2>秘笈系統</h2>
-              <p>於萬能拍賣開啟秘笈系統。主動技能秘笈學習後永久有效；被動天賦秘笈最多學習 8 項，可穿戴、卸下、疊加。</p>
+              <p>於便利選單「聚合功能 → 人物養成 → 秘笈系統」開啟。主動技能秘笈學習後永久有效；被動天賦秘笈最多同時裝備 6 本，可升星強化（最高 5 星）。</p>
             </div>
           </div>
           <div class="system-icon-row system-icon-row--wide">
@@ -147,8 +146,8 @@
             <figure><img src="./assets/sys-icons/secretbook/元素法則.png" alt="元素法則"><figcaption>元素法則</figcaption></figure>
           </div>
           <div class="system-detail-grid">
-            <div><strong>17 種天賦</strong><p>不滅怪力、神速流體、無限精神、因果宿命、泰坦生命、源泉魔力、不敗戰意、元素法則等。</p></div>
-            <div><strong>秘笈殘頁</strong><p>技能書 20、30 可分解為秘笈殘頁，殘頁可合成完整秘笈。</p></div>
+            <div><strong>17 種天賦</strong><p>不滅怪力、神速流體、無限精神、因果宿命、泰坦生命、源泉魔力、不敗戰意、元素法則、絕對守護、鷹眼視界、虛無幻步、超越極速、反重力躍遷、禁忌解封、真理啟迪、命運眷顧、弒神刻印。</p></div>
+            <div><strong>秘笈殘頁</strong><p>技能書 20、30 可分解為秘笈殘頁（約 10／25 頁），殘頁可合成完整秘笈。</p></div>
             <div><strong>自由搭配</strong><p>輸出、生存、經驗加倍、掉寶加倍、Boss 傷害等方向，依職業與裝備自由調整。</p></div>
           </div>
         </article>
@@ -194,12 +193,12 @@
             <div>
               <p class="eyebrow">FUND &amp; INVOICE</p>
               <h2>楓幣基金與發票</h2>
-              <p>全服楓幣獲取與交易皆會抽取稅金（1%～5%），累積至全服獎金池。打怪取得發票後可參與兌獎，人人都有機會一夜致富。</p>
+              <p>線上玩家楓幣增量將抽取 2% 進入全服楓幣基金池（自由市場免稅）。持有基金發票可即時抽獎，頭獎可獲基金池 80% 楓幣。</p>
             </div>
           </div>
           <div class="system-detail-grid">
-            <div><strong>全地圖掉落</strong><p>新手地圖與高等地圖掉率相同。發票為獨立道具不可堆疊，請及時兌獎。</p></div>
-            <div><strong>兌獎獎項</strong><p>頭獎可獲全服基金大獎；二獎、三獎為大量楓幣；特獎為遊戲補給道具。</p></div>
+            <div><strong>基金課稅</strong><p>楓幣增量課稅 2% 入池。發票為獨立道具，請及時兌獎。</p></div>
+            <div><strong>兌獎獎項</strong><p>頭獎 0.1%（池子 80%）、二獎 1%（10%）、三獎 5%（2%）、特獎 10%（補給道具）、未中獎約 83.9%（安慰獎 1,688 楓幣）。</p></div>
             <div><strong>全服共創</strong><p>打怪、交易都能增加頭獎金額，真正屬於全服玩家的樂透系統。</p></div>
           </div>
         </article>
@@ -210,7 +209,7 @@
             <div>
               <p class="eyebrow">ESTATE</p>
               <h2>維多利亞地產大亨</h2>
-              <p>全島 91 塊地段可競標，每塊土地最高可升級至 Lv.7，每日產出地產碎片。每週六 23:59 暗標結算，壟斷地段可提升收益。</p>
+              <p>全島 91 塊地段可競標，每塊最高 Lv.7。每日依地段產出 2 種地產碎片（主產 80%、副產 20%），壟斷可提升收益。每週六 23:59 暗標結算。</p>
             </div>
           </div>
           <div class="system-icon-row system-icon-row--wide">
@@ -238,8 +237,8 @@
             <div><strong>競標機制</strong><p>出價最高者取得土地；未得標返還 95% 楓幣。無主土地可直接收購；使用地契可強制收購。</p></div>
             <div><strong>土地開發</strong><p>捐獻素材升級土地，等級越高收益越多，最高 Lv.7。</p></div>
             <div><strong>區域壟斷</strong><p>一般壟斷：收益 x1.5。完整區域壟斷：收益 x2.0。</p></div>
-            <div><strong>地產卡牌</strong><p>飛彈卡指定土地 Lv -1；查稅卡扣除地主地產總值 5%；強拆卡停止收益 24 小時；保護卡 48 小時免疫攻擊；流氓卡掠奪地產收益；勾結卡全區土地 Lv +1；戰爭卡全區土地 Lv -1。</p></div>
-            <div><strong>地產收益</strong><p>每日產出贊助碎片、秘笈殘頁、卷軸碎片、楓票碎片、水晶碎片、補品碎片、騎寵碎片、椅子碎片，碎片兌換功能開發中，敬請期待。</p></div>
+            <div><strong>地產卡牌</strong><p>飛彈卡指定土地 Lv -1；查稅卡扣除地主地產總值 5%；強拆卡停止收益 24 小時；保護卡 48 小時免疫攻擊；流氓卡沒收對手今日收益；勾結卡全區土地 Lv +1；戰爭卡全區土地 Lv -1。</p></div>
+            <div><strong>地產收益</strong><p>碎片可至地產黑市商人兌換卷軸、補品、楓票、水晶、騎寵、椅子、贊助道具等。各地段產出碎片種類不同，請依土地詳情查閱。</p></div>
             <div><strong>提醒</strong><p>可用任意門前往世界地圖升級土地；地契與卡牌可透過登入活動與轉蛋取得；逃漏稅是要坐牢的。</p></div>
           </div>
           <p style="margin-top:18px"><a class="btn primary" href="./地產大亨_靜態版.html">查看即時地產戰況</a></p>
@@ -268,7 +267,13 @@
         </article>
 
         <article class="system-panel" id="system-reincarnation">
-          <h2 class="showcase-title">客製輪迴石碑</h2>
+          <div class="system-hero">
+            <div>
+              <p class="eyebrow">REINCARNATION</p>
+              <h2>客製輪迴石碑</h2>
+              <p>提供多種輪迴石碑：黑色（生怪 x2）、藍色（x3）、紅色（x4）、紫色（x5）、彩色（x4 並額外經驗 +5%）等，使用後於目前地圖生效。以下為部分客製造型展示。</p>
+            </div>
+          </div>
           <div class="reincarnation-gallery">
             <img src="./assets/sys-icons/reincarnation/落葉輪迴.png" alt="落葉輪迴">
             <img src="./assets/sys-icons/reincarnation/FAKER輪迴.png" alt="FAKER輪迴">
@@ -299,10 +304,30 @@
 
         <article class="system-panel" id="system-mount">
           <div class="system-hero">
+            <img src="./assets/sys-icons/mount/mount-floral.png" alt="落葉谷花花騎寵">
             <div>
+              <p class="eyebrow">CUSTOM MOUNT</p>
               <h2>特色騎寵</h2>
-              <p class="system-coming-soon">敬請期待</p>
+              <p>透過地產大亨騎寵碎片，可於地產黑市商人兌換多款搭乘型騎寵（超跑、跑車等）。以下為部分車型實機展示。</p>
             </div>
+          </div>
+          <div class="mount-gallery">
+            <figure>
+              <img src="./assets/sys-icons/mount/mount-floral.png" alt="花花塗裝超跑">
+              <figcaption>花花塗裝</figcaption>
+            </figure>
+            <figure>
+              <img src="./assets/sys-icons/mount/mount-orange.png" alt="橙黑寬體跑車">
+              <figcaption>橙黑寬體</figcaption>
+            </figure>
+            <figure>
+              <img src="./assets/sys-icons/mount/mount-blue.png" alt="藍色鋼砲">
+              <figcaption>藍色鋼砲</figcaption>
+            </figure>
+            <figure>
+              <img src="./assets/sys-icons/mount/mount-white.png" alt="白綠賽車">
+              <figcaption>白綠賽車</figcaption>
+            </figure>
           </div>
         </article>
 
@@ -312,16 +337,16 @@
             <div>
               <p class="eyebrow">STOCK MARKET</p>
               <h2>落葉股神計畫</h2>
-              <p>楓幣可兌換股市基金，透過擬真金融波動買賣股票。依成交量與交易熱度形成多頭、空頭、盤整行情，告別機械式暴漲暴跌。</p>
+              <p>楓幣存入股票帳戶後買賣股票，依成交量與交易熱度形成多頭、空頭、盤整行情。交易盈利累積為股市基金，可至基金商店兌換。</p>
             </div>
           </div>
           <div class="system-flow">
-            <span>楓幣</span><i></i><span>股市基金</span><i></i><span>股票交易</span><i></i><span>獲利增值</span><i></i><span>股市商店</span>
+            <span>楓幣</span><i></i><span>股票帳戶</span><i></i><span>股票交易</span><i></i><span>累積盈利</span><i></i><span>股市基金商店</span>
           </div>
           <div class="system-detail-grid">
-            <div><strong>股市基金</strong><p>帳號綁定，不可交易、不可轉讓。可進行長線投資與短線交易。</p></div>
+            <div><strong>股市基金</strong><p>帳號綁定，由交易盈利累積，不可直接提領為楓幣。可至股市基金商店兌換楓票（100 億基金 → 1 億楓票面額）及限購道具。</p></div>
             <div><strong>即時行情</strong><p>本網站提供 K 線圖表，開盤、收盤、最高、最低價與成交量與遊戲同步。</p></div>
-            <div><strong>股市商店</strong><p>楓幣回兌、每日限購、稀有消耗與活動限定商品，建立屬於自己的投資帝國。</p></div>
+            <div><strong>交易規則</strong><p>短線交易有稅率；漲跌停約 ±30%。休市時段依伺服器設定。</p></div>
           </div>
           <p style="margin-top:18px"><a class="btn primary" href="./market.html">查看股市行情</a></p>
         </article>
@@ -339,7 +364,7 @@
       <div class="footer-bottom">
         <span>© 落葉谷 Classic evo 經典進化</span>
         <nav class="footer-nav">
-          <a href="./game.html>遊戲資訊</a>
+          <a href="./game.html">遊戲資訊</a>
           <a href="./systems.html">特色系統</a>
           <a href="./download.html">下載福利</a>
         </nav>
