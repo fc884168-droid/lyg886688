@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11 22:02:31",
+  "updatedAt": "2026-07-11 22:07:40",
   "lands": [
     {
       "landId": 0,
@@ -824,9 +824,9 @@
       "city": "勇士之村",
       "x": 23.75,
       "y": 25.11,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -968,9 +968,9 @@
       "city": "勇士之村",
       "x": 52.03,
       "y": 20.85,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -1016,9 +1016,9 @@
       "city": "勇士之村",
       "x": 59.22,
       "y": 17.02,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
