@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10 14:35:15",
+  "updatedAt": "2026-07-11 19:51:05",
   "lands": [
     {
       "landId": 0,
@@ -8,9 +8,9 @@
       "city": "弓箭手村",
       "x": 45.62,
       "y": 80.21,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 33,
+      "owner": "紅茶嘿",
+      "level": 5,
       "status": 0
     },
     {
@@ -20,9 +20,9 @@
       "city": "魔法森林",
       "x": 69.38,
       "y": 54.26,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 22,
+      "owner": "小哥哥",
+      "level": 7,
       "status": 0
     },
     {
@@ -32,9 +32,9 @@
       "city": "勇士之村",
       "x": 38.44,
       "y": 18.3,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 18,
+      "owner": "寶來我家",
+      "level": 5,
       "status": 0
     },
     {
@@ -44,9 +44,9 @@
       "city": "墮落城市",
       "x": 15.0,
       "y": 39.15,
-      "ownerId": 2,
-      "owner": "落葉帥哥",
-      "level": 5,
+      "ownerId": 1,
+      "owner": "Reze",
+      "level": 6,
       "status": 0
     },
     {
@@ -56,16 +56,16 @@
       "city": "維多利亞港",
       "x": 15.78,
       "y": 79.79,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 20,
+      "owner": "Edencc",
+      "level": 6,
       "status": 0
     },
     {
       "landId": 5,
       "mapId": 105030000,
       "name": "維多利亞中央地城",
-      "city": "維多利亞港",
+      "city": "奇幻村",
       "x": 42.66,
       "y": 55.53,
       "ownerId": 0,
@@ -80,9 +80,9 @@
       "city": "弓箭手村",
       "x": 53.44,
       "y": 80.0,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -92,9 +92,9 @@
       "city": "弓箭手村",
       "x": 55.31,
       "y": 75.32,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -104,9 +104,9 @@
       "city": "弓箭手村",
       "x": 56.25,
       "y": 70.21,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -116,9 +116,9 @@
       "city": "魔法森林",
       "x": 58.59,
       "y": 66.17,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 3,
       "status": 0
     },
     {
@@ -128,9 +128,9 @@
       "city": "魔法森林",
       "x": 62.19,
       "y": 64.04,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 3,
       "status": 0
     },
     {
@@ -140,9 +140,9 @@
       "city": "魔法森林",
       "x": 65.31,
       "y": 61.49,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 3,
       "status": 0
     },
     {
@@ -164,9 +164,9 @@
       "city": "魔法森林",
       "x": 58.44,
       "y": 53.83,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 3,
       "status": 0
     },
     {
@@ -188,9 +188,9 @@
       "city": "勇士之村",
       "x": 57.19,
       "y": 42.55,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -212,9 +212,9 @@
       "city": "勇士之村",
       "x": 54.06,
       "y": 32.98,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -224,9 +224,9 @@
       "city": "勇士之村",
       "x": 51.72,
       "y": 27.87,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -236,9 +236,9 @@
       "city": "勇士之村",
       "x": 47.66,
       "y": 25.96,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -260,9 +260,9 @@
       "city": "勇士之村",
       "x": 32.75,
       "y": 22.85,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -284,9 +284,9 @@
       "city": "勇士之村",
       "x": 28.91,
       "y": 32.98,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -296,9 +296,9 @@
       "city": "墮落城市",
       "x": 25.16,
       "y": 32.98,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 1,
+      "owner": "Reze",
+      "level": 2,
       "status": 0
     },
     {
@@ -308,9 +308,9 @@
       "city": "墮落城市",
       "x": 21.09,
       "y": 32.98,
-      "ownerId": 2,
-      "owner": "落葉帥哥",
-      "level": 1,
+      "ownerId": 1,
+      "owner": "Reze",
+      "level": 2,
       "status": 0
     },
     {
@@ -320,9 +320,9 @@
       "city": "墮落城市",
       "x": 18.59,
       "y": 47.02,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 1,
+      "owner": "Reze",
+      "level": 2,
       "status": 0
     },
     {
@@ -332,9 +332,9 @@
       "city": "墮落城市",
       "x": 18.12,
       "y": 52.34,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 1,
+      "owner": "Reze",
+      "level": 2,
       "status": 0
     },
     {
@@ -344,9 +344,9 @@
       "city": "墮落城市",
       "x": 17.9,
       "y": 59.65,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 1,
+      "owner": "Reze",
+      "level": 2,
       "status": 0
     },
     {
@@ -356,9 +356,9 @@
       "city": "墮落城市",
       "x": 20.47,
       "y": 61.06,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 1,
+      "owner": "Reze",
+      "level": 2,
       "status": 0
     },
     {
@@ -368,9 +368,9 @@
       "city": "墮落城市",
       "x": 24.53,
       "y": 60.0,
-      "ownerId": 2,
-      "owner": "落葉帥哥",
-      "level": 1,
+      "ownerId": 0,
+      "owner": "",
+      "level": 0,
       "status": 0
     },
     {
@@ -380,9 +380,9 @@
       "city": "維多利亞港",
       "x": 29.06,
       "y": 62.55,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 2,
       "status": 0
     },
     {
@@ -392,9 +392,9 @@
       "city": "弓箭手村",
       "x": 30.75,
       "y": 70.15,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -404,9 +404,9 @@
       "city": "弓箭手村",
       "x": 33.0,
       "y": 76.6,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -416,9 +416,9 @@
       "city": "弓箭手村",
       "x": 37.5,
       "y": 79.57,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -428,9 +428,9 @@
       "city": "維多利亞港",
       "x": 16.41,
       "y": 71.49,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 2,
       "status": 0
     },
     {
@@ -440,9 +440,9 @@
       "city": "維多利亞港",
       "x": 20.0,
       "y": 68.3,
-      "ownerId": 2,
-      "owner": "落葉帥哥",
-      "level": 1,
+      "ownerId": 20,
+      "owner": "Edencc",
+      "level": 2,
       "status": 0
     },
     {
@@ -452,9 +452,9 @@
       "city": "維多利亞港",
       "x": 23.44,
       "y": 68.51,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 20,
+      "owner": "Edencc",
+      "level": 2,
       "status": 0
     },
     {
@@ -464,9 +464,9 @@
       "city": "維多利亞港",
       "x": 27.34,
       "y": 66.38,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 20,
+      "owner": "Edencc",
+      "level": 2,
       "status": 0
     },
     {
@@ -476,9 +476,9 @@
       "city": "奇幻村",
       "x": 37.81,
       "y": 28.94,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -500,9 +500,9 @@
       "city": "奇幻村",
       "x": 34.22,
       "y": 39.57,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -512,9 +512,9 @@
       "city": "奇幻村",
       "x": 36.88,
       "y": 44.26,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -524,9 +524,9 @@
       "city": "奇幻村",
       "x": 45.0,
       "y": 72.77,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -572,9 +572,9 @@
       "city": "墮落城市",
       "x": 29.53,
       "y": 46.6,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 2,
       "status": 0
     },
     {
@@ -597,7 +597,7 @@
       "x": 33.91,
       "y": 55.11,
       "ownerId": 2,
-      "owner": "落葉帥哥",
+      "owner": "膽小鬼彎彎",
       "level": 1,
       "status": 0
     },
@@ -608,9 +608,9 @@
       "city": "黃金海岸",
       "x": 84.55,
       "y": 63.92,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 18,
+      "owner": "寶來我家",
+      "level": 5,
       "status": 0
     },
     {
@@ -620,8 +620,8 @@
       "city": "黃金海岸",
       "x": 85.82,
       "y": 53.53,
-      "ownerId": 2,
-      "owner": "落葉帥哥",
+      "ownerId": 20,
+      "owner": "Edencc",
       "level": 1,
       "status": 0
     },
@@ -632,9 +632,9 @@
       "city": "黃金海岸",
       "x": 90.06,
       "y": 54.18,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -644,9 +644,9 @@
       "city": "黃金海岸",
       "x": 91.92,
       "y": 59.8,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -656,8 +656,8 @@
       "city": "黃金海岸",
       "x": 88.66,
       "y": 63.08,
-      "ownerId": 2,
-      "owner": "落葉帥哥",
+      "ownerId": 10,
+      "owner": "批居萬",
       "level": 1,
       "status": 0
     },
@@ -668,9 +668,9 @@
       "city": "勇士之村",
       "x": 59.69,
       "y": 34.68,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -692,9 +692,9 @@
       "city": "勇士之村",
       "x": 64.38,
       "y": 37.23,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -704,9 +704,9 @@
       "city": "勇士之村",
       "x": 63.12,
       "y": 42.34,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 20,
+      "owner": "Edencc",
+      "level": 1,
       "status": 0
     },
     {
@@ -716,9 +716,9 @@
       "city": "勇士之村",
       "x": 65.0,
       "y": 46.17,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 20,
+      "owner": "Edencc",
+      "level": 1,
       "status": 0
     },
     {
@@ -740,9 +740,9 @@
       "city": "勇士之村",
       "x": 70.47,
       "y": 39.79,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 20,
+      "owner": "Edencc",
+      "level": 1,
       "status": 0
     },
     {
@@ -764,9 +764,9 @@
       "city": "勇士之村",
       "x": 69.22,
       "y": 28.94,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -812,9 +812,9 @@
       "city": "勇士之村",
       "x": 28.28,
       "y": 26.38,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -836,9 +836,9 @@
       "city": "勇士之村",
       "x": 19.22,
       "y": 22.77,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -860,9 +860,9 @@
       "city": "墮落城市",
       "x": 23.28,
       "y": 51.28,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 1,
+      "owner": "Reze",
+      "level": 2,
       "status": 0
     },
     {
@@ -872,9 +872,9 @@
       "city": "弓箭手村",
       "x": 38.12,
       "y": 74.47,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -884,9 +884,9 @@
       "city": "弓箭手村",
       "x": 36.88,
       "y": 69.36,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -896,9 +896,9 @@
       "city": "奇幻村",
       "x": 39.06,
       "y": 35.32,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -908,9 +908,9 @@
       "city": "奇幻村",
       "x": 43.44,
       "y": 34.89,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 28,
+      "owner": "鐵拳教育",
+      "level": 1,
       "status": 0
     },
     {
@@ -932,9 +932,9 @@
       "city": "奇幻村",
       "x": 50.31,
       "y": 38.3,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 32,
+      "owner": "高希因娜",
+      "level": 1,
       "status": 0
     },
     {
@@ -956,9 +956,9 @@
       "city": "勇士之村",
       "x": 49.22,
       "y": 21.7,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -980,9 +980,9 @@
       "city": "勇士之村",
       "x": 55.16,
       "y": 21.49,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -992,9 +992,9 @@
       "city": "勇士之村",
       "x": 59.2,
       "y": 22.2,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -1004,9 +1004,9 @@
       "city": "勇士之村",
       "x": 60.65,
       "y": 18.4,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -1052,9 +1052,9 @@
       "city": "弓箭手村",
       "x": 48.44,
       "y": 83.83,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 3,
       "status": 0
     },
     {
@@ -1076,9 +1076,9 @@
       "city": "魔法森林",
       "x": 75.16,
       "y": 83.62,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 7,
       "status": 0
     },
     {
