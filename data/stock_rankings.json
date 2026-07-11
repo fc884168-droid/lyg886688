@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12 00:05:07",
+  "updatedAt": "2026-07-12 00:10:16",
   "profit": [
     {
       "rank": 1,
@@ -47,15 +47,15 @@
   "holdings": [
     {
       "rank": 1,
-      "player": "膽小鬼彎彎",
-      "market_value": 139357818,
-      "total_shares": 19052
+      "player": "小哥哥",
+      "market_value": 1099578436,
+      "total_shares": 152484
     },
     {
       "rank": 2,
-      "player": "小哥哥",
-      "market_value": 99576403,
-      "total_shares": 13421
+      "player": "膽小鬼彎彎",
+      "market_value": 139357818,
+      "total_shares": 19052
     },
     {
       "rank": 3,
@@ -66,7 +66,7 @@
     {
       "rank": 4,
       "player": "莉莉白",
-      "market_value": 16175318,
+      "market_value": 16188938,
       "total_shares": 2948
     },
     {
@@ -102,7 +102,7 @@
     {
       "rank": 10,
       "player": "Edencc",
-      "market_value": 10139688,
+      "market_value": 10160883,
       "total_shares": 1413
     },
     {
@@ -126,7 +126,7 @@
     {
       "rank": 14,
       "player": "麻糬",
-      "market_value": 9465209,
+      "market_value": 9480209,
       "total_shares": 1601
     },
     {
@@ -156,7 +156,7 @@
     {
       "rank": 19,
       "player": "鐵拳教育",
-      "market_value": 7840600,
+      "market_value": 7842100,
       "total_shares": 1100
     },
     {
