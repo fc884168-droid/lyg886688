@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11 23:08:51",
+  "updatedAt": "2026-07-11 23:13:58",
   "lands": [
     {
       "landId": 0,
@@ -800,9 +800,9 @@
       "city": "魔法森林",
       "x": 51.88,
       "y": 56.6,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 1,
+      "owner": "Reze",
+      "level": 1,
       "status": 0
     },
     {
