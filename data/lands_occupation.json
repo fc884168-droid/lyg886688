@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11 23:54:55",
+  "updatedAt": "2026-07-12 00:00:01",
   "lands": [
     {
       "landId": 0,
@@ -380,8 +380,8 @@
       "city": "維多利亞港",
       "x": 29.06,
       "y": 62.55,
-      "ownerId": 10,
-      "owner": "批居萬",
+      "ownerId": 20,
+      "owner": "Edencc",
       "level": 2,
       "status": 0
     },
@@ -428,8 +428,8 @@
       "city": "維多利亞港",
       "x": 16.41,
       "y": 71.49,
-      "ownerId": 10,
-      "owner": "批居萬",
+      "ownerId": 20,
+      "owner": "Edencc",
       "level": 2,
       "status": 0
     },
