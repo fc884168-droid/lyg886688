@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11 23:03:45",
+  "updatedAt": "2026-07-11 23:08:51",
   "profit": [
     {
       "rank": 1,
@@ -96,13 +96,13 @@
     {
       "rank": 9,
       "player": "莉莉白",
-      "market_value": 10476302,
+      "market_value": 10476410,
       "total_shares": 2148
     },
     {
       "rank": 10,
       "player": "Edencc",
-      "market_value": 10193382,
+      "market_value": 10194795,
       "total_shares": 1413
     },
     {
@@ -132,7 +132,7 @@
     {
       "rank": 15,
       "player": "麻糬",
-      "market_value": 9529653,
+      "market_value": 9530653,
       "total_shares": 1601
     },
     {
@@ -156,7 +156,7 @@
     {
       "rank": 19,
       "player": "鐵拳教育",
-      "market_value": 7838400,
+      "market_value": 7838500,
       "total_shares": 1100
     },
     {
