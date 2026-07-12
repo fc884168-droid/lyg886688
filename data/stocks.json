@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-12 18:24:31",
+  "updatedAt": "2026-07-12 18:29:37",
   "stocks": [
     {
       "id": 10001,
       "name": "台G電",
       "description": "晶片科技股",
       "base_price": 7230,
-      "current_price": 5892,
+      "current_price": 5894,
       "today_open": 5919,
       "today_high": 5971,
       "today_low": 5879,
-      "volume_24h": 0,
-      "change_amount": -27,
-      "change_percent": -0.4562,
-      "last_update": "2026-07-12 18:23:00"
+      "volume_24h": 1200,
+      "change_amount": -25,
+      "change_percent": -0.4224,
+      "last_update": "2026-07-12 18:27:00"
     },
     {
       "id": 10002,
@@ -150,10 +150,10 @@
       "today_open": 7580,
       "today_high": 7581,
       "today_low": 7558,
-      "volume_24h": 0,
+      "volume_24h": 187,
       "change_amount": -15,
       "change_percent": -0.1979,
-      "last_update": "2026-07-12 18:23:00"
+      "last_update": "2026-07-12 18:27:21"
     },
     {
       "id": 10012,
