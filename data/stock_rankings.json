@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12 18:14:15",
+  "updatedAt": "2026-07-12 18:19:22",
   "profit": [
     {
       "rank": 1,
@@ -48,25 +48,25 @@
     {
       "rank": 1,
       "player": "小哥哥",
-      "market_value": 913070805,
+      "market_value": 910098425,
       "total_shares": 152484
     },
     {
       "rank": 2,
       "player": "膽小鬼彎彎",
-      "market_value": 127818228,
+      "market_value": 126371550,
       "total_shares": 19052
     },
     {
       "rank": 3,
       "player": "撒歡咩",
-      "market_value": 64329165,
+      "market_value": 62373770,
       "total_shares": 9668
     },
     {
       "rank": 4,
       "player": "莉莉白",
-      "market_value": 14321470,
+      "market_value": 14191260,
       "total_shares": 2988
     },
     {
@@ -78,26 +78,26 @@
     {
       "rank": 6,
       "player": "玩玩就好",
-      "market_value": 10697778,
+      "market_value": 11313558,
       "total_shares": 2799
     },
     {
       "rank": 7,
-      "player": "聽君一席話",
-      "market_value": 10485828,
-      "total_shares": 1422
-    },
-    {
-      "rank": 8,
       "player": "我是小ET",
       "market_value": 9895704,
       "total_shares": 1288
     },
     {
-      "rank": 9,
+      "rank": 8,
       "player": "普龍貢丸",
       "market_value": 9888021,
       "total_shares": 1287
+    },
+    {
+      "rank": 9,
+      "player": "聽君一席話",
+      "market_value": 9847350,
+      "total_shares": 1422
     },
     {
       "rank": 10,
@@ -114,20 +114,20 @@
     {
       "rank": 12,
       "player": "如聽一席話",
-      "market_value": 9401850,
+      "market_value": 8829375,
       "total_shares": 1275
     },
     {
       "rank": 13,
-      "player": "高希因娜",
-      "market_value": 9195378,
-      "total_shares": 1247
-    },
-    {
-      "rank": 14,
       "player": "飛行",
       "market_value": 8658960,
       "total_shares": 1324
+    },
+    {
+      "rank": 14,
+      "player": "高希因娜",
+      "market_value": 8635475,
+      "total_shares": 1247
     },
     {
       "rank": 15,
@@ -162,7 +162,7 @@
     {
       "rank": 20,
       "player": "Reze",
-      "market_value": 6232500,
+      "market_value": 6008000,
       "total_shares": 1000
     }
   ]

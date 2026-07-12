@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12 18:14:15",
+  "updatedAt": "2026-07-12 18:19:21",
   "stocks": [
     {
       "id": 10001,
@@ -20,42 +20,42 @@
       "name": "落葉AI工作室",
       "description": "AI與科技概念股",
       "base_price": 3750,
-      "current_price": 3822,
+      "current_price": 4042,
       "today_open": 3786,
-      "today_high": 3822,
+      "today_high": 4042,
       "today_low": 3756,
       "volume_24h": 0,
-      "change_amount": 36,
-      "change_percent": 0.9509,
-      "last_update": "2026-07-12 18:13:00"
+      "change_amount": 256,
+      "change_percent": 6.7618,
+      "last_update": "2026-07-12 18:16:36"
     },
     {
       "id": 10003,
       "name": "陳弱莊斗雞學院",
       "description": "娛樂教育概念股",
       "base_price": 4107,
-      "current_price": 3926,
+      "current_price": 4540,
       "today_open": 3912,
-      "today_high": 3926,
+      "today_high": 4540,
       "today_low": 3899,
       "volume_24h": 0,
-      "change_amount": 14,
-      "change_percent": 0.3579,
-      "last_update": "2026-07-12 18:13:00"
+      "change_amount": 628,
+      "change_percent": 16.0532,
+      "last_update": "2026-07-12 18:16:43"
     },
     {
       "id": 10004,
       "name": "19茶屋",
       "description": "手搖飲品牌股",
       "base_price": 9203,
-      "current_price": 7374,
+      "current_price": 6925,
       "today_open": 7271,
       "today_high": 7374,
-      "today_low": 7254,
+      "today_low": 6925,
       "volume_24h": 0,
-      "change_amount": 103,
-      "change_percent": 1.4166,
-      "last_update": "2026-07-12 18:13:00"
+      "change_amount": -346,
+      "change_percent": -4.7586,
+      "last_update": "2026-07-12 18:16:30"
     },
     {
       "id": 10005,
@@ -76,14 +76,14 @@
       "name": "豬皮購物",
       "description": "電商購物股",
       "base_price": 4344,
-      "current_price": 3933,
+      "current_price": 4160,
       "today_open": 3939,
-      "today_high": 3955,
+      "today_high": 4160,
       "today_low": 3910,
       "volume_24h": 0,
-      "change_amount": -6,
-      "change_percent": -0.1523,
-      "last_update": "2026-07-12 18:13:00"
+      "change_amount": 221,
+      "change_percent": 5.6106,
+      "last_update": "2026-07-12 18:16:36"
     },
     {
       "id": 10007,
