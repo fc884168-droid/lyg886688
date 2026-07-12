@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12 22:16:33",
+  "updatedAt": "2026-07-12 22:21:43",
   "profit": [
     {
       "rank": 1,
@@ -48,121 +48,121 @@
     {
       "rank": 1,
       "player": "小哥哥",
-      "market_value": 957991532,
+      "market_value": 958145007,
       "total_shares": 152484
     },
     {
       "rank": 2,
       "player": "膽小鬼彎彎",
-      "market_value": 127952784,
+      "market_value": 127646552,
       "total_shares": 19052
     },
     {
       "rank": 3,
       "player": "撒歡咩",
-      "market_value": 65341870,
+      "market_value": 65161643,
       "total_shares": 9668
     },
     {
       "rank": 4,
       "player": "莉莉白",
-      "market_value": 23675095,
+      "market_value": 23655967,
       "total_shares": 4375
     },
     {
       "rank": 5,
       "player": "操島呼",
-      "market_value": 11353916,
+      "market_value": 11375333,
       "total_shares": 1531
     },
     {
       "rank": 6,
       "player": "玩玩就好",
-      "market_value": 10708974,
+      "market_value": 10619406,
       "total_shares": 2799
     },
     {
       "rank": 7,
       "player": "聽君一席話",
-      "market_value": 10376334,
+      "market_value": 10310922,
       "total_shares": 1422
     },
     {
       "rank": 8,
       "player": "批居萬",
-      "market_value": 10019122,
+      "market_value": 10061928,
       "total_shares": 2518
     },
     {
       "rank": 9,
       "player": "超大粒貢丸",
-      "market_value": 9875878,
+      "market_value": 9918072,
       "total_shares": 2482
     },
     {
       "rank": 10,
       "player": "我是小ET",
-      "market_value": 9745008,
+      "market_value": 9635528,
       "total_shares": 1288
     },
     {
       "rank": 11,
       "player": "普龍貢丸",
-      "market_value": 9737442,
+      "market_value": 9628047,
       "total_shares": 1287
     },
     {
       "rank": 12,
       "player": "如聽一席話",
-      "market_value": 9303675,
+      "market_value": 9245025,
       "total_shares": 1275
     },
     {
       "rank": 13,
       "player": "高希因娜",
-      "market_value": 9099359,
+      "market_value": 9041997,
       "total_shares": 1247
     },
     {
       "rank": 14,
       "player": "Edencc",
-      "market_value": 8787447,
+      "market_value": 8791686,
       "total_shares": 1413
     },
     {
       "rank": 15,
       "player": "飛行",
-      "market_value": 8731780,
+      "market_value": 8739724,
       "total_shares": 1324
     },
     {
       "rank": 16,
       "player": "麻糬",
-      "market_value": 8610379,
+      "market_value": 8623596,
       "total_shares": 1601
     },
     {
       "rank": 17,
       "player": "一杯冰華田",
-      "market_value": 8538000,
+      "market_value": 8529000,
       "total_shares": 3000
     },
     {
       "rank": 18,
       "player": "寶來我家",
-      "market_value": 7801885,
+      "market_value": 7808983,
       "total_shares": 1183
     },
     {
       "rank": 19,
       "player": "鐵拳教育",
-      "market_value": 7216900,
+      "market_value": 7223200,
       "total_shares": 1100
     },
     {
       "rank": 20,
       "player": "Reze",
-      "market_value": 6228500,
+      "market_value": 6213500,
       "total_shares": 1000
     }
   ]
