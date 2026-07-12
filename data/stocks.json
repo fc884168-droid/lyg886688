@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12 16:26:52",
+  "updatedAt": "2026-07-12 16:32:00",
   "stocks": [
     {
       "id": 10001,
@@ -48,42 +48,42 @@
       "name": "19茶屋",
       "description": "手搖飲品牌股",
       "base_price": 9203,
-      "current_price": 7207,
+      "current_price": 6579,
       "today_open": 7744,
       "today_high": 8070,
-      "today_low": 7139,
+      "today_low": 6579,
       "volume_24h": 0,
-      "change_amount": -537,
-      "change_percent": -6.9344,
-      "last_update": "2026-07-12 16:23:00"
+      "change_amount": -1165,
+      "change_percent": -15.0439,
+      "last_update": "2026-07-12 16:30:59"
     },
     {
       "id": 10005,
       "name": "廖老二手搖飲",
       "description": "飲料連鎖概念股",
       "base_price": 3000,
-      "current_price": 2722,
+      "current_price": 2485,
       "today_open": 3090,
       "today_high": 3116,
-      "today_low": 2704,
+      "today_low": 2485,
       "volume_24h": 0,
-      "change_amount": -368,
-      "change_percent": -11.9094,
-      "last_update": "2026-07-12 16:23:00"
+      "change_amount": -605,
+      "change_percent": -19.5793,
+      "last_update": "2026-07-12 16:30:59"
     },
     {
       "id": 10006,
       "name": "豬皮購物",
       "description": "電商購物股",
       "base_price": 4344,
-      "current_price": 3861,
+      "current_price": 3671,
       "today_open": 3820,
       "today_high": 3907,
-      "today_low": 3637,
+      "today_low": 3525,
       "volume_24h": 0,
-      "change_amount": 41,
-      "change_percent": 1.0733,
-      "last_update": "2026-07-12 16:23:00"
+      "change_amount": -149,
+      "change_percent": -3.9005,
+      "last_update": "2026-07-12 16:31:09"
     },
     {
       "id": 10007,
