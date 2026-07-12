@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12 22:21:43",
+  "updatedAt": "2026-07-12 22:26:54",
   "stocks": [
     {
       "id": 10001,
@@ -90,14 +90,14 @@
       "name": "特會拉電動車",
       "description": "電動車能源股",
       "base_price": 8431,
-      "current_price": 6601,
+      "current_price": 6602,
       "today_open": 6701,
       "today_high": 6764,
       "today_low": 6546,
-      "volume_24h": 0,
-      "change_amount": -100,
-      "change_percent": -1.4923,
-      "last_update": "2026-07-12 22:18:00"
+      "volume_24h": 500,
+      "change_amount": -99,
+      "change_percent": -1.4774,
+      "last_update": "2026-07-12 22:22:48"
     },
     {
       "id": 10008,
@@ -146,28 +146,28 @@
       "name": "ETF穩健指數",
       "description": "長期投資型 ETF，低波動、低回報但相對穩定",
       "base_price": 6500,
-      "current_price": 7433,
+      "current_price": 7434,
       "today_open": 7511,
       "today_high": 7518,
       "today_low": 7407,
-      "volume_24h": 0,
-      "change_amount": -78,
-      "change_percent": -1.0385,
-      "last_update": "2026-07-12 22:18:00"
+      "volume_24h": 397,
+      "change_amount": -77,
+      "change_percent": -1.0252,
+      "last_update": "2026-07-12 22:23:18"
     },
     {
       "id": 10012,
       "name": "人工智障GPT",
       "description": "號稱最強AI，回答起來一本正經卻常常胡說八道，投資人心臟要夠大顆。",
       "base_price": 8888,
-      "current_price": 7481,
+      "current_price": 7482,
       "today_open": 7731,
       "today_high": 7871,
       "today_low": 7481,
-      "volume_24h": 0,
-      "change_amount": -250,
-      "change_percent": -3.2337,
-      "last_update": "2026-07-12 22:18:00"
+      "volume_24h": 500,
+      "change_amount": -249,
+      "change_percent": -3.2208,
+      "last_update": "2026-07-12 22:22:23"
     }
   ]
 }
