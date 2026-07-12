@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13 00:14:34",
+  "updatedAt": "2026-07-13 00:19:40",
   "lands": [
     {
       "landId": 0,
@@ -368,9 +368,9 @@
       "city": "墮落城市",
       "x": 24.53,
       "y": 60.0,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 20,
+      "owner": "Edencc",
+      "level": 1,
       "status": 0
     },
     {
@@ -548,9 +548,9 @@
       "city": "墮落城市",
       "x": 23.44,
       "y": 39.79,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 20,
+      "owner": "Edencc",
+      "level": 1,
       "status": 0
     },
     {
@@ -560,9 +560,9 @@
       "city": "墮落城市",
       "x": 27.51,
       "y": 40.85,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 20,
+      "owner": "Edencc",
+      "level": 1,
       "status": 0
     },
     {
