@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12 19:26:00",
+  "updatedAt": "2026-07-12 20:49:25",
   "stocks": [
     {
       "id": 10001,
@@ -7,13 +7,13 @@
       "description": "晶片科技股",
       "base_price": 7230,
       "current_price": 6189,
-      "today_open": 5919,
+      "today_open": 6189,
       "today_high": 6189,
-      "today_low": 5879,
-      "volume_24h": 1200,
-      "change_amount": 270,
-      "change_percent": 4.5616,
-      "last_update": "2026-07-12 18:40:34"
+      "today_low": 6189,
+      "volume_24h": 0,
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-07-12 20:48:57"
     },
     {
       "id": 10002,
@@ -21,13 +21,13 @@
       "description": "AI與科技概念股",
       "base_price": 3750,
       "current_price": 3840,
-      "today_open": 3786,
-      "today_high": 4059,
-      "today_low": 3756,
+      "today_open": 3840,
+      "today_high": 3840,
+      "today_low": 3840,
       "volume_24h": 0,
-      "change_amount": 54,
-      "change_percent": 1.4263,
-      "last_update": "2026-07-12 18:40:42"
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-07-12 20:48:57"
     },
     {
       "id": 10003,
@@ -35,13 +35,13 @@
       "description": "娛樂教育概念股",
       "base_price": 4107,
       "current_price": 4517,
-      "today_open": 3912,
-      "today_high": 4560,
-      "today_low": 3899,
+      "today_open": 4517,
+      "today_high": 4517,
+      "today_low": 4517,
       "volume_24h": 0,
-      "change_amount": 605,
-      "change_percent": 15.4652,
-      "last_update": "2026-07-12 18:33:00"
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-07-12 20:48:57"
     },
     {
       "id": 10004,
@@ -49,13 +49,13 @@
       "description": "手搖飲品牌股",
       "base_price": 9203,
       "current_price": 7314,
-      "today_open": 7271,
-      "today_high": 7374,
-      "today_low": 6872,
+      "today_open": 7314,
+      "today_high": 7314,
+      "today_low": 7314,
       "volume_24h": 0,
-      "change_amount": 43,
-      "change_percent": 0.5914,
-      "last_update": "2026-07-12 18:40:49"
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-07-12 20:48:57"
     },
     {
       "id": 10005,
@@ -63,13 +63,13 @@
       "description": "飲料連鎖概念股",
       "base_price": 3000,
       "current_price": 2823,
-      "today_open": 2656,
+      "today_open": 2823,
       "today_high": 2823,
-      "today_low": 2646,
+      "today_low": 2823,
       "volume_24h": 0,
-      "change_amount": 167,
-      "change_percent": 6.2877,
-      "last_update": "2026-07-12 18:40:49"
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-07-12 20:48:57"
     },
     {
       "id": 10006,
@@ -77,13 +77,13 @@
       "description": "電商購物股",
       "base_price": 4344,
       "current_price": 4339,
-      "today_open": 3939,
+      "today_open": 4339,
       "today_high": 4339,
-      "today_low": 3910,
+      "today_low": 4339,
       "volume_24h": 0,
-      "change_amount": 400,
-      "change_percent": 10.1549,
-      "last_update": "2026-07-12 18:40:49"
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-07-12 20:48:57"
     },
     {
       "id": 10007,
@@ -91,13 +91,13 @@
       "description": "電動車能源股",
       "base_price": 8431,
       "current_price": 6701,
-      "today_open": 6486,
+      "today_open": 6701,
       "today_high": 6701,
-      "today_low": 6384,
+      "today_low": 6701,
       "volume_24h": 0,
-      "change_amount": 215,
-      "change_percent": 3.3148,
-      "last_update": "2026-07-12 18:40:34"
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-07-12 20:48:57"
     },
     {
       "id": 10008,
@@ -105,13 +105,13 @@
       "description": "航空運輸股",
       "base_price": 3984,
       "current_price": 3902,
-      "today_open": 3786,
+      "today_open": 3902,
       "today_high": 3902,
-      "today_low": 3754,
+      "today_low": 3902,
       "volume_24h": 0,
-      "change_amount": 116,
-      "change_percent": 3.0639,
-      "last_update": "2026-07-12 18:33:00"
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-07-12 20:48:57"
     },
     {
       "id": 10009,
@@ -119,13 +119,13 @@
       "description": "",
       "base_price": 5200,
       "current_price": 5274,
-      "today_open": 5145,
+      "today_open": 5274,
       "today_high": 5274,
-      "today_low": 5025,
-      "volume_24h": 300,
-      "change_amount": 129,
-      "change_percent": 2.5073,
-      "last_update": "2026-07-12 18:40:34"
+      "today_low": 5274,
+      "volume_24h": 0,
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-07-12 20:48:57"
     },
     {
       "id": 10010,
@@ -133,13 +133,13 @@
       "description": "",
       "base_price": 6100,
       "current_price": 6199,
-      "today_open": 6203,
-      "today_high": 6222,
-      "today_low": 6123,
+      "today_open": 6199,
+      "today_high": 6199,
+      "today_low": 6199,
       "volume_24h": 0,
-      "change_amount": -4,
-      "change_percent": -0.0645,
-      "last_update": "2026-07-12 18:33:00"
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-07-12 20:48:57"
     },
     {
       "id": 10011,
@@ -147,13 +147,13 @@
       "description": "長期投資型 ETF，低波動、低回報但相對穩定",
       "base_price": 6500,
       "current_price": 7511,
-      "today_open": 7580,
-      "today_high": 7597,
+      "today_open": 7511,
+      "today_high": 7511,
       "today_low": 7511,
-      "volume_24h": 187,
-      "change_amount": -69,
-      "change_percent": -0.9103,
-      "last_update": "2026-07-12 18:33:00"
+      "volume_24h": 0,
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-07-12 20:48:57"
     },
     {
       "id": 10012,
@@ -161,13 +161,13 @@
       "description": "號稱最強AI，回答起來一本正經卻常常胡說八道，投資人心臟要夠大顆。",
       "base_price": 8888,
       "current_price": 7731,
-      "today_open": 7712,
-      "today_high": 7735,
-      "today_low": 7655,
+      "today_open": 7731,
+      "today_high": 7731,
+      "today_low": 7731,
       "volume_24h": 0,
-      "change_amount": 19,
-      "change_percent": 0.2464,
-      "last_update": "2026-07-12 18:33:00"
+      "change_amount": 0,
+      "change_percent": 0.0,
+      "last_update": "2026-07-12 20:48:57"
     }
   ]
 }
