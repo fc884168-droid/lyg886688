@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12 23:38:42",
+  "updatedAt": "2026-07-12 23:43:51",
   "profit": [
     {
       "rank": 1,
@@ -42,25 +42,25 @@
     {
       "rank": 1,
       "player": "小哥哥",
-      "market_value": 914680415,
+      "market_value": 916070615,
       "total_shares": 157702
     },
     {
       "rank": 2,
       "player": "膽小鬼彎彎",
-      "market_value": 118774514,
+      "market_value": 119451134,
       "total_shares": 19052
     },
     {
       "rank": 3,
       "player": "撒歡咩",
-      "market_value": 60594421,
+      "market_value": 61508971,
       "total_shares": 9668
     },
     {
       "rank": 4,
       "player": "莉莉白",
-      "market_value": 23418086,
+      "market_value": 23478986,
       "total_shares": 4375
     },
     {
@@ -95,27 +95,27 @@
     },
     {
       "rank": 10,
+      "player": "聽君一席話",
+      "market_value": 9693774,
+      "total_shares": 1422
+    },
+    {
+      "rank": 11,
       "player": "皓氣蕩然",
       "market_value": 9464706,
       "total_shares": 1397
     },
     {
-      "rank": 11,
+      "rank": 12,
       "player": "我是小ET",
       "market_value": 9403688,
       "total_shares": 1288
     },
     {
-      "rank": 12,
+      "rank": 13,
       "player": "普龍貢丸",
       "market_value": 9396387,
       "total_shares": 1287
-    },
-    {
-      "rank": 13,
-      "player": "聽君一席話",
-      "market_value": 9395154,
-      "total_shares": 1422
     },
     {
       "rank": 14,
@@ -144,20 +144,20 @@
     {
       "rank": 18,
       "player": "如聽一席話",
-      "market_value": 8423925,
+      "market_value": 8691675,
       "total_shares": 1275
     },
     {
       "rank": 19,
-      "player": "Edencc",
-      "market_value": 8421480,
-      "total_shares": 1413
+      "player": "高希因娜",
+      "market_value": 8500799,
+      "total_shares": 1247
     },
     {
       "rank": 20,
-      "player": "高希因娜",
-      "market_value": 8238929,
-      "total_shares": 1247
+      "player": "Edencc",
+      "market_value": 8421480,
+      "total_shares": 1413
     }
   ]
 }

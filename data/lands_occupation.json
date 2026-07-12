@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12 23:38:41",
+  "updatedAt": "2026-07-12 23:43:50",
   "lands": [
     {
       "landId": 0,
@@ -200,9 +200,9 @@
       "city": "勇士之村",
       "x": 56.72,
       "y": 36.81,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -248,9 +248,9 @@
       "city": "勇士之村",
       "x": 44.53,
       "y": 23.83,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -272,9 +272,9 @@
       "city": "勇士之村",
       "x": 31.41,
       "y": 29.57,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -680,9 +680,9 @@
       "city": "勇士之村",
       "x": 63.91,
       "y": 32.34,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -728,9 +728,9 @@
       "city": "勇士之村",
       "x": 68.75,
       "y": 43.83,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -788,9 +788,9 @@
       "city": "魔法森林",
       "x": 54.84,
       "y": 58.3,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 1,
       "status": 0
     },
     {
@@ -1028,9 +1028,9 @@
       "city": "魔法森林",
       "x": 79.06,
       "y": 47.66,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 3,
       "status": 0
     },
     {
@@ -1064,9 +1064,9 @@
       "city": "魔法森林",
       "x": 61.09,
       "y": 72.77,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 3,
       "status": 0
     },
     {
@@ -1088,9 +1088,9 @@
       "city": "魔法森林",
       "x": 72.66,
       "y": 65.53,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 3,
       "status": 0
     }
   ]

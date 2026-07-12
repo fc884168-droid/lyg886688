@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12 23:38:41",
+  "updatedAt": "2026-07-12 23:43:50",
   "stocks": [
     {
       "id": 10001,
@@ -48,14 +48,14 @@
       "name": "19茶屋",
       "description": "手搖飲品牌股",
       "base_price": 9203,
-      "current_price": 6607,
+      "current_price": 6817,
       "today_open": 7314,
       "today_high": 7692,
       "today_low": 6408,
       "volume_24h": 0,
-      "change_amount": -707,
-      "change_percent": -9.6664,
-      "last_update": "2026-07-12 23:38:00"
+      "change_amount": -497,
+      "change_percent": -6.7952,
+      "last_update": "2026-07-12 23:39:16"
     },
     {
       "id": 10005,
