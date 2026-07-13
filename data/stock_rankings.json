@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13 23:26:05",
+  "updatedAt": "2026-07-13 23:31:14",
   "profit": [
     {
       "rank": 1,
@@ -9,30 +9,36 @@
     },
     {
       "rank": 2,
+      "player": "批居萬",
+      "realized_profit": 4282751,
+      "available_fund": 6969457
+    },
+    {
+      "rank": 3,
       "player": "撒歡咩",
       "realized_profit": 3052307,
       "available_fund": 3052307
     },
     {
-      "rank": 3,
+      "rank": 4,
       "player": "聽君一席話",
       "realized_profit": 1366549,
       "available_fund": 1366549
     },
     {
-      "rank": 4,
+      "rank": 5,
       "player": "莉莉白",
       "realized_profit": 400058,
       "available_fund": 400058
     },
     {
-      "rank": 5,
+      "rank": 6,
       "player": "玩玩就好",
       "realized_profit": 317367,
       "available_fund": 559401
     },
     {
-      "rank": 6,
+      "rank": 7,
       "player": "Reze",
       "realized_profit": 258300,
       "available_fund": 258300
@@ -48,8 +54,8 @@
     {
       "rank": 2,
       "player": "批居萬",
-      "market_value": 117211160,
-      "total_shares": 42856
+      "market_value": 114281975,
+      "total_shares": 41785
     },
     {
       "rank": 3,
