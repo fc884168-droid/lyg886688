@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14 00:38:38",
+  "updatedAt": "2026-07-14 00:43:46",
   "lands": [
     {
       "landId": 0,
@@ -58,7 +58,7 @@
       "y": 79.79,
       "ownerId": 20,
       "owner": "Edencc",
-      "level": 6,
+      "level": 7,
       "status": 0
     },
     {
@@ -382,7 +382,7 @@
       "y": 62.55,
       "ownerId": 20,
       "owner": "Edencc",
-      "level": 2,
+      "level": 3,
       "status": 0
     },
     {
@@ -430,7 +430,7 @@
       "y": 71.49,
       "ownerId": 20,
       "owner": "Edencc",
-      "level": 2,
+      "level": 3,
       "status": 0
     },
     {
@@ -442,7 +442,7 @@
       "y": 68.3,
       "ownerId": 20,
       "owner": "Edencc",
-      "level": 2,
+      "level": 3,
       "status": 0
     },
     {
@@ -454,7 +454,7 @@
       "y": 68.51,
       "ownerId": 20,
       "owner": "Edencc",
-      "level": 2,
+      "level": 3,
       "status": 0
     },
     {
@@ -466,7 +466,7 @@
       "y": 66.38,
       "ownerId": 20,
       "owner": "Edencc",
-      "level": 2,
+      "level": 3,
       "status": 0
     },
     {
