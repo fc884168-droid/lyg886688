@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14 03:12:50",
+  "updatedAt": "2026-07-14 03:17:58",
   "stocks": [
     {
       "id": 10001,
@@ -20,14 +20,14 @@
       "name": "落葉AI工作室",
       "description": "AI與科技概念股",
       "base_price": 3750,
-      "current_price": 2933,
+      "current_price": 3055,
       "today_open": 3041,
       "today_high": 3072,
       "today_low": 2913,
       "volume_24h": 0,
-      "change_amount": -108,
-      "change_percent": -3.5515,
-      "last_update": "2026-07-14 03:12:00"
+      "change_amount": 14,
+      "change_percent": 0.4604,
+      "last_update": "2026-07-14 03:14:31"
     },
     {
       "id": 10003,

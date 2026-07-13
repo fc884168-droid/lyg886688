@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14 03:12:50",
+  "updatedAt": "2026-07-14 03:17:58",
   "profit": [
     {
       "rank": 1,
@@ -48,7 +48,7 @@
     {
       "rank": 1,
       "player": "小哥哥",
-      "market_value": 977657817,
+      "market_value": 979124135,
       "total_shares": 157702
     },
     {
@@ -119,15 +119,15 @@
     },
     {
       "rank": 13,
-      "player": "麻糬",
-      "market_value": 8431564,
-      "total_shares": 1601
+      "player": "玩玩就好",
+      "market_value": 8550945,
+      "total_shares": 2799
     },
     {
       "rank": 14,
-      "player": "玩玩就好",
-      "market_value": 8209467,
-      "total_shares": 2799
+      "player": "麻糬",
+      "market_value": 8431564,
+      "total_shares": 1601
     },
     {
       "rank": 15,
