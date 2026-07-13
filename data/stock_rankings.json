@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14 00:02:13",
+  "updatedAt": "2026-07-14 00:07:32",
   "profit": [
     {
       "rank": 1,
@@ -60,25 +60,25 @@
     {
       "rank": 3,
       "player": "膽小鬼彎彎",
-      "market_value": 93250544,
+      "market_value": 93272204,
       "total_shares": 19052
     },
     {
       "rank": 4,
       "player": "撒歡咩",
-      "market_value": 56393779,
+      "market_value": 56396555,
       "total_shares": 9668
     },
     {
       "rank": 5,
       "player": "茶茶醬",
-      "market_value": 36661424,
+      "market_value": 36664790,
       "total_shares": 7911
     },
     {
       "rank": 6,
       "player": "莉莉白",
-      "market_value": 22751157,
+      "market_value": 22751757,
       "total_shares": 4375
     },
     {
@@ -162,7 +162,7 @@
     {
       "rank": 20,
       "player": "皓氣蕩然",
-      "market_value": 7855169,
+      "market_value": 7856169,
       "total_shares": 1397
     }
   ]
