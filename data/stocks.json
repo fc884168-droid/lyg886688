@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13 23:15:49",
+  "updatedAt": "2026-07-13 23:20:57",
   "stocks": [
     {
       "id": 10001,
@@ -62,14 +62,14 @@
       "name": "廖老二手搖飲",
       "description": "飲料連鎖概念股",
       "base_price": 3000,
-      "current_price": 2499,
+      "current_price": 2504,
       "today_open": 2960,
       "today_high": 2979,
       "today_low": 2445,
-      "volume_24h": 0,
-      "change_amount": -461,
-      "change_percent": -15.5743,
-      "last_update": "2026-07-13 23:12:00"
+      "volume_24h": 42856,
+      "change_amount": -456,
+      "change_percent": -15.4054,
+      "last_update": "2026-07-13 23:20:56"
     },
     {
       "id": 10006,
@@ -104,14 +104,14 @@
       "name": "Eagle航空",
       "description": "航空運輸股",
       "base_price": 3984,
-      "current_price": 2904,
+      "current_price": 2902,
       "today_open": 3153,
       "today_high": 3203,
       "today_low": 2886,
-      "volume_24h": 0,
-      "change_amount": -249,
-      "change_percent": -7.8972,
-      "last_update": "2026-07-13 23:12:00"
+      "volume_24h": 2518,
+      "change_amount": -251,
+      "change_percent": -7.9607,
+      "last_update": "2026-07-13 23:19:43"
     },
     {
       "id": 10009,
