@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14 01:14:34",
+  "updatedAt": "2026-07-14 01:19:46",
   "stocks": [
     {
       "id": 10001,
@@ -90,14 +90,14 @@
       "name": "特會拉電動車",
       "description": "電動車能源股",
       "base_price": 8431,
-      "current_price": 4374,
+      "current_price": 4383,
       "today_open": 4883,
       "today_high": 5264,
       "today_low": 4359,
-      "volume_24h": 8713,
-      "change_amount": -509,
-      "change_percent": -10.4239,
-      "last_update": "2026-07-14 01:12:00"
+      "volume_24h": 15317,
+      "change_amount": -500,
+      "change_percent": -10.2396,
+      "last_update": "2026-07-14 01:17:19"
     },
     {
       "id": 10008,
