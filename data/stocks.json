@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13 17:52:05",
+  "updatedAt": "2026-07-13 17:57:14",
   "stocks": [
     {
       "id": 10001,
@@ -76,14 +76,14 @@
       "name": "豬皮購物",
       "description": "電商購物股",
       "base_price": 4344,
-      "current_price": 3651,
+      "current_price": 3654,
       "today_open": 4339,
       "today_high": 4592,
       "today_low": 3560,
-      "volume_24h": 21230,
-      "change_amount": -688,
-      "change_percent": -15.8562,
-      "last_update": "2026-07-13 17:48:00"
+      "volume_24h": 23967,
+      "change_amount": -685,
+      "change_percent": -15.787,
+      "last_update": "2026-07-13 17:52:08"
     },
     {
       "id": 10007,
