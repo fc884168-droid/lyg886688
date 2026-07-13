@@ -30,10 +30,8 @@
     return ((cur - open) * 100) / open;
   }
 
+  // 與遊戲「股市投資」一致：用今開／現價重算日漲跌%，不盲信 JSON 的 change_percent
   function stockChange(stock) {
-    if (stock.change_percent != null && stock.change_percent !== "") {
-      return Number(stock.change_percent);
-    }
     return pct(stock.today_open, stock.current_price);
   }
 
@@ -97,11 +95,31 @@
     });
   }
 
+  var chartRetryRaf = null;
+
+  function chartDims() {
+    return { width: host.clientWidth, height: host.clientHeight || 400 };
+  }
+
   function ensureChart() {
     if (chart || typeof LightweightCharts === "undefined") return;
+    var dims = chartDims();
+    // 寬度 0 時建圖會讓 lightweight-charts 進入病態渲染
+    // （實測：canvas 全變 0 寬、繪圖層卡死、Chrome 崩 STATUS_STACK_BUFFER_OVERRUN）。
+    // 版面還沒排好就等下一幀再試，絕對不能用 0 寬建圖。
+    if (dims.width <= 0) {
+      if (chartRetryRaf == null) {
+        chartRetryRaf = requestAnimationFrame(function () {
+          chartRetryRaf = null;
+          var stock = stocks.find(function (s) { return s.id === activeId; });
+          if (stock) renderChart(stock);
+        });
+      }
+      return;
+    }
     chart = LightweightCharts.createChart(host, {
-      width: host.clientWidth,
-      height: host.clientHeight || 400,
+      width: dims.width,
+      height: dims.height,
       layout: {
         background: { color: "#121820" },
         textColor: "#9aa4b2",
@@ -157,10 +175,18 @@
       visible: chartMode === "area"
     });
 
-    window.addEventListener("resize", function () {
+    // 監聽容器本身的尺寸（涵蓋視窗縮放與版面變動），寬度必須 > 0 才套用——
+    // 永遠不把 0 寬寫進圖表，避免再次觸發渲染卡死。
+    var applySize = function () {
       if (!chart) return;
-      chart.applyOptions({ width: host.clientWidth, height: host.clientHeight || 400 });
-    });
+      var d = chartDims();
+      if (d.width > 0) chart.applyOptions({ width: d.width, height: d.height });
+    };
+    if (typeof ResizeObserver !== "undefined") {
+      new ResizeObserver(applySize).observe(host);
+    } else {
+      window.addEventListener("resize", applySize);
+    }
   }
 
   function updateQuote(stock) {
@@ -238,7 +264,12 @@
     if (!chart || !candleSeries || !areaSeries) return;
     candleSeries.setData(toChartData(bars));
     areaSeries.setData(toAreaData(bars));
-    chart.timeScale().fitContent();
+    // 只在「換股票或換圖表模式」時重設視野；20秒自動刷新不再重置使用者的縮放/平移
+    var fitKey = stock.id + ":" + chartMode;
+    if (renderChart._fitKey !== fitKey) {
+      renderChart._fitKey = fitKey;
+      chart.timeScale().fitContent();
+    }
   }
 
   function selectStock(id) {
