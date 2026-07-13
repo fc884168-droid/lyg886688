@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14 01:30:03",
+  "updatedAt": "2026-07-14 01:35:11",
   "lands": [
     {
       "landId": 0,
@@ -848,9 +848,9 @@
       "city": "墮落城市",
       "x": 22.97,
       "y": 55.53,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 18,
+      "owner": "寶來我家",
+      "level": 1,
       "status": 0
     },
     {
@@ -944,9 +944,9 @@
       "city": "奇幻村",
       "x": 50.47,
       "y": 43.19,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 18,
+      "owner": "寶來我家",
+      "level": 1,
       "status": 0
     },
     {
