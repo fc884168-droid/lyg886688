@@ -117,75 +117,103 @@
       }
       return;
     }
-    chart = LightweightCharts.createChart(host, {
-      width: dims.width,
-      height: dims.height,
-      layout: {
-        background: { color: "#121820" },
-        textColor: "#9aa4b2",
-        fontFamily: '"Segoe UI", "Microsoft JhengHei", sans-serif',
-        fontSize: 12
-      },
-      grid: {
-        vertLines: { visible: false },
-        horzLines: { color: "#243041" }
-      },
-      crosshair: {
-        mode: LightweightCharts.CrosshairMode.Magnet,
-        vertLine: { visible: false, labelVisible: false },
-        horzLine: {
-          color: "#6e7681",
-          labelBackgroundColor: "#d97706"
+    try {
+      chart = LightweightCharts.createChart(host, {
+        width: dims.width,
+        height: dims.height,
+        layout: {
+          background: { color: "#121820" },
+          textColor: "#9aa4b2",
+          fontFamily: '"Segoe UI", "Microsoft JhengHei", sans-serif',
+          fontSize: 12
+        },
+        grid: {
+          vertLines: { visible: false },
+          horzLines: { color: "#243041" }
+        },
+        crosshair: {
+          mode: LightweightCharts.CrosshairMode.Magnet,
+          vertLine: { visible: false, labelVisible: false },
+          horzLine: {
+            color: "#6e7681",
+            labelBackgroundColor: "#d97706"
+          }
+        },
+        rightPriceScale: {
+          borderVisible: false,
+          scaleMargins: { top: 0.08, bottom: 0.08 }
+        },
+        timeScale: {
+          borderVisible: false,
+          timeVisible: true,
+          secondsVisible: false,
+          rightOffset: 4,
+          barSpacing: 11,
+          minBarSpacing: 5
+        },
+        localization: {
+          locale: "zh-TW",
+          priceFormatter: function (p) { return fmt(Math.round(p)); }
         }
-      },
-      rightPriceScale: {
-        borderVisible: false,
-        scaleMargins: { top: 0.08, bottom: 0.08 }
-      },
-      timeScale: {
-        borderVisible: false,
-        timeVisible: true,
-        secondsVisible: false,
-        rightOffset: 4,
-        barSpacing: 11,
-        minBarSpacing: 5
-      },
-      localization: {
-        locale: "zh-TW",
-        priceFormatter: function (p) { return fmt(Math.round(p)); }
-      }
-    });
+      });
 
-    candleSeries = chart.addCandlestickSeries({
-      upColor: "#ef5350",
-      downColor: "#43a047",
-      borderUpColor: "#ef5350",
-      borderDownColor: "#43a047",
-      wickUpColor: "#ef5350",
-      wickDownColor: "#43a047",
-      visible: chartMode === "candle"
-    });
+      candleSeries = chart.addCandlestickSeries({
+        upColor: "#ef5350",
+        downColor: "#43a047",
+        borderUpColor: "#ef5350",
+        borderDownColor: "#43a047",
+        wickUpColor: "#ef5350",
+        wickDownColor: "#43a047",
+        visible: chartMode === "candle"
+      });
 
-    areaSeries = chart.addAreaSeries({
-      lineColor: "#d97706",
-      lineWidth: 2,
-      topColor: "rgba(217, 119, 6, 0.35)",
-      bottomColor: "rgba(217, 119, 6, 0.02)",
-      priceLineVisible: false,
-      visible: chartMode === "area"
-    });
+      areaSeries = chart.addAreaSeries({
+        lineColor: "#d97706",
+        lineWidth: 2,
+        topColor: "rgba(217, 119, 6, 0.35)",
+        bottomColor: "rgba(217, 119, 6, 0.02)",
+        priceLineVisible: false,
+        visible: chartMode === "area"
+      });
+    } catch (e) {
+      console.error("[market] createChart failed", e);
+      chart = null;
+      candleSeries = null;
+      areaSeries = null;
+      return;
+    }
 
-    // 監聽容器本身的尺寸（涵蓋視窗縮放與版面變動），寬度必須 > 0 才套用——
-    // 永遠不把 0 寬寫進圖表，避免再次觸發渲染卡死。
+    // 監聽容器本身的尺寸（涵蓋視窗縮放與版面變動）。用 rAF 把同一幀內的多次
+    // ResizeObserver 通知合併成一次 applyOptions——拖曳視窗跨螢幕（尤其不同
+    // DPI 縮放的多螢幕環境）會在極短時間內連續觸發多次 resize 通知，若每次都
+    // 立刻呼叫 applyOptions 對 canvas 連續重建 backing store，實測是先前
+    // Chrome 崩潰（STATUS_STACK_BUFFER_OVERRUN）的另一個觸發路徑，
+    // 不只是單純的 0 寬。同尺寸也跳過，減少不必要的 canvas 重建。
+    var resizeRaf = null;
+    var lastSize = { width: dims.width, height: dims.height };
     var applySize = function () {
       if (!chart) return;
       var d = chartDims();
-      if (d.width > 0) chart.applyOptions({ width: d.width, height: d.height });
+      if (d.width <= 0) return;
+      if (d.width === lastSize.width && d.height === lastSize.height) return;
+      try {
+        chart.applyOptions({ width: d.width, height: d.height });
+        lastSize = d;
+      } catch (e) {
+        console.error("[market] chart resize failed", e);
+      }
+    };
+    var scheduleApplySize = function () {
+      if (resizeRaf != null) return;
+      resizeRaf = requestAnimationFrame(function () {
+        resizeRaf = null;
+        applySize();
+      });
     };
     if (typeof ResizeObserver !== "undefined") {
-      new ResizeObserver(applySize).observe(host);
+      new ResizeObserver(scheduleApplySize).observe(host);
     } else {
-      window.addEventListener("resize", applySize);
+      window.addEventListener("resize", scheduleApplySize);
     }
   }
 
@@ -262,13 +290,17 @@
     if (chartEmpty) chartEmpty.hidden = true;
     ensureChart();
     if (!chart || !candleSeries || !areaSeries) return;
-    candleSeries.setData(toChartData(bars));
-    areaSeries.setData(toAreaData(bars));
-    // 只在「換股票或換圖表模式」時重設視野；20秒自動刷新不再重置使用者的縮放/平移
-    var fitKey = stock.id + ":" + chartMode;
-    if (renderChart._fitKey !== fitKey) {
-      renderChart._fitKey = fitKey;
-      chart.timeScale().fitContent();
+    try {
+      candleSeries.setData(toChartData(bars));
+      areaSeries.setData(toAreaData(bars));
+      // 只在「換股票或換圖表模式」時重設視野；20秒自動刷新不再重置使用者的縮放/平移
+      var fitKey = stock.id + ":" + chartMode;
+      if (renderChart._fitKey !== fitKey) {
+        renderChart._fitKey = fitKey;
+        chart.timeScale().fitContent();
+      }
+    } catch (e) {
+      console.error("[market] chart setData failed", e);
     }
   }
 
