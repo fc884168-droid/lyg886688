@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14 20:28:59",
+  "updatedAt": "2026-07-14 20:34:10",
   "lands": [
     {
       "landId": 0,
@@ -68,9 +68,9 @@
       "city": "奇幻村",
       "x": 42.66,
       "y": 55.53,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 3,
       "status": 0
     },
     {
