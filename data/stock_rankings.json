@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14 22:37:53",
+  "updatedAt": "2026-07-14 22:43:00",
   "profit": [
     {
       "rank": 1,
@@ -54,121 +54,121 @@
     {
       "rank": 1,
       "player": "小哥哥",
-      "market_value": 915352303,
+      "market_value": 911173984,
       "total_shares": 157702
     },
     {
       "rank": 2,
       "player": "寶來我家",
-      "market_value": 201517320,
+      "market_value": 201248072,
       "total_shares": 46092
     },
     {
       "rank": 3,
-      "player": "膽小鬼彎彎",
-      "market_value": 97844554,
-      "total_shares": 19052
+      "player": "批居萬",
+      "market_value": 98111180,
+      "total_shares": 41785
     },
     {
       "rank": 4,
-      "player": "批居萬",
-      "market_value": 97024770,
-      "total_shares": 41785
+      "player": "膽小鬼彎彎",
+      "market_value": 97712982,
+      "total_shares": 19052
     },
     {
       "rank": 5,
       "player": "茶茶醬",
-      "market_value": 35972882,
+      "market_value": 35923014,
       "total_shares": 7911
     },
     {
       "rank": 6,
       "player": "撒歡咩",
-      "market_value": 29817644,
+      "market_value": 29882345,
       "total_shares": 5743
     },
     {
       "rank": 7,
       "player": "莉莉白",
-      "market_value": 21069751,
+      "market_value": 21038204,
       "total_shares": 4375
     },
     {
       "rank": 8,
       "player": "操島呼",
-      "market_value": 10083492,
+      "market_value": 10097288,
       "total_shares": 1531
     },
     {
       "rank": 9,
       "player": "不要四季豆",
-      "market_value": 10031832,
+      "market_value": 9981972,
       "total_shares": 1662
     },
     {
       "rank": 10,
       "player": "too袂落雨",
-      "market_value": 9893004,
+      "market_value": 9843834,
       "total_shares": 1639
     },
     {
       "rank": 11,
       "player": "玩玩就好",
-      "market_value": 9810495,
+      "market_value": 9779706,
       "total_shares": 2799
     },
     {
       "rank": 12,
       "player": "一杯冰華田",
-      "market_value": 8983315,
+      "market_value": 8955122,
       "total_shares": 2563
     },
     {
       "rank": 13,
       "player": "hyok",
-      "market_value": 8816082,
+      "market_value": 8828124,
       "total_shares": 1338
     },
     {
       "rank": 14,
       "player": "Edencc",
-      "market_value": 8528868,
+      "market_value": 8486478,
       "total_shares": 1413
     },
     {
       "rank": 15,
       "player": "艾莉緹娜",
-      "market_value": 8334000,
+      "market_value": 8313600,
       "total_shares": 1600
     },
     {
       "rank": 16,
       "player": "皓氣蕩然",
-      "market_value": 7798333,
+      "market_value": 7781406,
       "total_shares": 1397
     },
     {
       "rank": 17,
       "player": "麻糬",
-      "market_value": 7791521,
+      "market_value": 7747698,
       "total_shares": 1601
     },
     {
       "rank": 18,
       "player": "聽君一席話",
-      "market_value": 7269264,
+      "market_value": 7296282,
       "total_shares": 1422
     },
     {
       "rank": 19,
       "player": "超大粒貢丸",
-      "market_value": 7249922,
+      "market_value": 7192836,
       "total_shares": 2482
     },
     {
       "rank": 20,
       "player": "飛行",
-      "market_value": 7206532,
+      "market_value": 7189320,
       "total_shares": 1324
     }
   ]
