@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14 15:45:34",
+  "updatedAt": "2026-07-14 15:50:46",
   "lands": [
     {
       "landId": 0,
@@ -584,9 +584,9 @@
       "city": "奇幻村",
       "x": 30.78,
       "y": 51.91,
-      "ownerId": 0,
-      "owner": "",
-      "level": 0,
+      "ownerId": 2,
+      "owner": "膽小鬼彎彎",
+      "level": 1,
       "status": 0
     },
     {
