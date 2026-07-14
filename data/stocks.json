@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-15 05:34:16",
+  "updatedAt": "2026-07-15 05:39:26",
   "stocks": [
     {
       "id": 10001,
       "name": "台G電",
       "description": "晶片科技股",
       "base_price": 7230,
-      "current_price": 6500,
+      "current_price": 6195,
       "today_open": 6188,
       "today_high": 7528,
       "today_low": 5372,
       "volume_24h": 43112,
-      "change_amount": 312,
-      "change_percent": 5.042,
-      "last_update": "2026-07-15 05:34:00"
+      "change_amount": 7,
+      "change_percent": 0.1131,
+      "last_update": "2026-07-15 05:38:00"
     },
     {
       "id": 10002,
@@ -62,14 +62,14 @@
       "name": "廖老二手搖飲",
       "description": "飲料連鎖概念股",
       "base_price": 3000,
-      "current_price": 2377,
+      "current_price": 2382,
       "today_open": 2492,
       "today_high": 2502,
       "today_low": 2146,
-      "volume_24h": 3100,
-      "change_amount": -115,
-      "change_percent": -4.6148,
-      "last_update": "2026-07-15 05:34:00"
+      "volume_24h": 427113,
+      "change_amount": -110,
+      "change_percent": -4.4141,
+      "last_update": "2026-07-15 05:37:53"
     },
     {
       "id": 10006,
@@ -90,14 +90,14 @@
       "name": "特會拉電動車",
       "description": "電動車能源股",
       "base_price": 8431,
-      "current_price": 4579,
+      "current_price": 4364,
       "today_open": 4658,
       "today_high": 5721,
       "today_low": 4346,
       "volume_24h": 14234,
-      "change_amount": -79,
-      "change_percent": -1.696,
-      "last_update": "2026-07-15 05:34:00"
+      "change_amount": -294,
+      "change_percent": -6.3117,
+      "last_update": "2026-07-15 05:38:00"
     },
     {
       "id": 10008,
