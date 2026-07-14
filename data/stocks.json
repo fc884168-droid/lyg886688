@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-14 20:54:45",
+  "updatedAt": "2026-07-14 20:59:53",
   "stocks": [
     {
       "id": 10001,
       "name": "台G電",
       "description": "晶片科技股",
       "base_price": 7230,
-      "current_price": 6358,
+      "current_price": 5443,
       "today_open": 6188,
       "today_high": 6358,
-      "today_low": 5893,
-      "volume_24h": 3925,
-      "change_amount": 170,
-      "change_percent": 2.7473,
-      "last_update": "2026-07-14 20:50:00"
+      "today_low": 5432,
+      "volume_24h": 16542,
+      "change_amount": -745,
+      "change_percent": -12.0394,
+      "last_update": "2026-07-14 20:57:45"
     },
     {
       "id": 10002,
@@ -62,42 +62,42 @@
       "name": "廖老二手搖飲",
       "description": "飲料連鎖概念股",
       "base_price": 3000,
-      "current_price": 2146,
+      "current_price": 2352,
       "today_open": 2492,
       "today_high": 2502,
       "today_low": 2146,
       "volume_24h": 3000,
-      "change_amount": -346,
-      "change_percent": -13.8844,
-      "last_update": "2026-07-14 20:50:00"
+      "change_amount": -140,
+      "change_percent": -5.618,
+      "last_update": "2026-07-14 20:57:11"
     },
     {
       "id": 10006,
       "name": "豬皮購物",
       "description": "電商購物股",
       "base_price": 4344,
-      "current_price": 2777,
+      "current_price": 2925,
       "today_open": 2943,
       "today_high": 2980,
       "today_low": 2745,
       "volume_24h": 0,
-      "change_amount": -166,
-      "change_percent": -5.6405,
-      "last_update": "2026-07-14 20:50:00"
+      "change_amount": -18,
+      "change_percent": -0.6116,
+      "last_update": "2026-07-14 20:57:02"
     },
     {
       "id": 10007,
       "name": "特會拉電動車",
       "description": "電動車能源股",
       "base_price": 8431,
-      "current_price": 4859,
+      "current_price": 4849,
       "today_open": 4658,
       "today_high": 4867,
       "today_low": 4346,
-      "volume_24h": 0,
-      "change_amount": 201,
-      "change_percent": 4.3152,
-      "last_update": "2026-07-14 20:50:00"
+      "volume_24h": 14134,
+      "change_amount": 191,
+      "change_percent": 4.1005,
+      "last_update": "2026-07-14 20:57:28"
     },
     {
       "id": 10008,
