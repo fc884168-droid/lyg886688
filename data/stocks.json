@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-07-15 06:51:18",
+  "updatedAt": "2026-07-15 06:56:26",
   "stocks": [
     {
       "id": 10001,
       "name": "台G電",
       "description": "晶片科技股",
       "base_price": 7230,
-      "current_price": 6120,
+      "current_price": 6134,
       "today_open": 6188,
       "today_high": 7528,
       "today_low": 5372,
       "volume_24h": 43112,
-      "change_amount": -68,
-      "change_percent": -1.0989,
-      "last_update": "2026-07-15 06:44:00"
+      "change_amount": -54,
+      "change_percent": -0.8727,
+      "last_update": "2026-07-15 06:54:00"
     },
     {
       "id": 10002,
       "name": "落葉AI工作室",
       "description": "AI與科技概念股",
       "base_price": 3750,
-      "current_price": 3370,
+      "current_price": 3383,
       "today_open": 3033,
       "today_high": 3648,
       "today_low": 2938,
       "volume_24h": 2663,
-      "change_amount": 337,
-      "change_percent": 11.1111,
-      "last_update": "2026-07-15 06:44:00"
+      "change_amount": 350,
+      "change_percent": 11.5397,
+      "last_update": "2026-07-15 06:54:00"
     },
     {
       "id": 10003,
       "name": "陳弱莊斗雞學院",
       "description": "娛樂教育概念股",
       "base_price": 4107,
-      "current_price": 3350,
+      "current_price": 3371,
       "today_open": 3152,
       "today_high": 3549,
       "today_low": 3026,
       "volume_24h": 100,
-      "change_amount": 198,
-      "change_percent": 6.2817,
-      "last_update": "2026-07-15 06:44:00"
+      "change_amount": 219,
+      "change_percent": 6.948,
+      "last_update": "2026-07-15 06:54:00"
     },
     {
       "id": 10004,
       "name": "19茶屋",
       "description": "手搖飲品牌股",
       "base_price": 9203,
-      "current_price": 4900,
+      "current_price": 4948,
       "today_open": 4927,
       "today_high": 5430,
       "today_low": 4355,
       "volume_24h": 100,
-      "change_amount": -27,
-      "change_percent": -0.548,
-      "last_update": "2026-07-15 06:44:00"
+      "change_amount": 21,
+      "change_percent": 0.4262,
+      "last_update": "2026-07-15 06:54:00"
     },
     {
       "id": 10005,
       "name": "廖老二手搖飲",
       "description": "飲料連鎖概念股",
       "base_price": 3000,
-      "current_price": 2429,
+      "current_price": 2425,
       "today_open": 2492,
       "today_high": 2502,
       "today_low": 2146,
       "volume_24h": 427113,
-      "change_amount": -63,
-      "change_percent": -2.5281,
-      "last_update": "2026-07-15 06:44:00"
+      "change_amount": -67,
+      "change_percent": -2.6886,
+      "last_update": "2026-07-15 06:54:00"
     },
     {
       "id": 10006,
       "name": "豬皮購物",
       "description": "電商購物股",
       "base_price": 4344,
-      "current_price": 2882,
+      "current_price": 2886,
       "today_open": 2943,
       "today_high": 3009,
       "today_low": 2590,
       "volume_24h": 100,
-      "change_amount": -61,
-      "change_percent": -2.0727,
-      "last_update": "2026-07-15 06:44:00"
+      "change_amount": -57,
+      "change_percent": -1.9368,
+      "last_update": "2026-07-15 06:54:00"
     },
     {
       "id": 10007,
       "name": "特會拉電動車",
       "description": "電動車能源股",
       "base_price": 8431,
-      "current_price": 4299,
+      "current_price": 4327,
       "today_open": 4658,
       "today_high": 5721,
       "today_low": 4272,
       "volume_24h": 14234,
-      "change_amount": -359,
-      "change_percent": -7.7072,
-      "last_update": "2026-07-15 06:44:00"
+      "change_amount": -331,
+      "change_percent": -7.1061,
+      "last_update": "2026-07-15 06:54:00"
     },
     {
       "id": 10008,
       "name": "Eagle航空",
       "description": "航空運輸股",
       "base_price": 3984,
-      "current_price": 2904,
+      "current_price": 2909,
       "today_open": 2883,
       "today_high": 3128,
       "today_low": 2818,
       "volume_24h": 3714,
-      "change_amount": 21,
-      "change_percent": 0.7284,
-      "last_update": "2026-07-15 06:44:00"
+      "change_amount": 26,
+      "change_percent": 0.9018,
+      "last_update": "2026-07-15 06:54:00"
     },
     {
       "id": 10009,
@@ -125,49 +125,49 @@
       "volume_24h": 17429,
       "change_amount": -141,
       "change_percent": -3.7115,
-      "last_update": "2026-07-15 06:44:00"
+      "last_update": "2026-07-15 06:54:00"
     },
     {
       "id": 10010,
       "name": "泉願格鬥",
       "description": "",
       "base_price": 6100,
-      "current_price": 4939,
+      "current_price": 4933,
       "today_open": 4923,
       "today_high": 5362,
       "today_low": 4696,
       "volume_24h": 100,
-      "change_amount": 16,
-      "change_percent": 0.325,
-      "last_update": "2026-07-15 06:44:00"
+      "change_amount": 10,
+      "change_percent": 0.2031,
+      "last_update": "2026-07-15 06:54:00"
     },
     {
       "id": 10011,
       "name": "ETF穩健指數",
       "description": "長期投資型 ETF，低波動、低回報但相對穩定",
       "base_price": 6500,
-      "current_price": 6479,
+      "current_price": 6474,
       "today_open": 5878,
       "today_high": 7028,
       "today_low": 5693,
       "volume_24h": 100,
-      "change_amount": 601,
-      "change_percent": 10.2246,
-      "last_update": "2026-07-15 06:44:00"
+      "change_amount": 596,
+      "change_percent": 10.1395,
+      "last_update": "2026-07-15 06:54:00"
     },
     {
       "id": 10012,
       "name": "人工智障GPT",
       "description": "號稱最強AI，回答起來一本正經卻常常胡說八道，投資人心臟要夠大顆。",
       "base_price": 8888,
-      "current_price": 5110,
+      "current_price": 5136,
       "today_open": 5099,
-      "today_high": 5153,
+      "today_high": 5171,
       "today_low": 4645,
       "volume_24h": 22980,
-      "change_amount": 11,
-      "change_percent": 0.2157,
-      "last_update": "2026-07-15 06:44:00"
+      "change_amount": 37,
+      "change_percent": 0.7256,
+      "last_update": "2026-07-15 06:54:00"
     }
   ]
 }
