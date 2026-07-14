@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15 00:00:00",
+  "updatedAt": "2026-07-15 00:05:07",
   "profit": [
     {
       "rank": 1,
@@ -54,7 +54,7 @@
     {
       "rank": 1,
       "player": "小哥哥",
-      "market_value": 1060555282,
+      "market_value": 1119935183,
       "total_shares": 157702
     },
     {
@@ -78,7 +78,7 @@
     {
       "rank": 5,
       "player": "茶茶醬",
-      "market_value": 37956306,
+      "market_value": 38754369,
       "total_shares": 7911
     },
     {
@@ -90,25 +90,25 @@
     {
       "rank": 7,
       "player": "莉莉白",
-      "market_value": 23438607,
+      "market_value": 24355803,
       "total_shares": 4375
     },
     {
       "rank": 8,
       "player": "不要四季豆",
-      "market_value": 11788566,
+      "market_value": 12498240,
       "total_shares": 1662
     },
     {
       "rank": 9,
       "player": "too袂落雨",
-      "market_value": 11625427,
+      "market_value": 12325280,
       "total_shares": 1639
     },
     {
       "rank": 10,
       "player": "Edencc",
-      "market_value": 10022409,
+      "market_value": 10625760,
       "total_shares": 1413
     },
     {
@@ -120,20 +120,20 @@
     {
       "rank": 12,
       "player": "艾莉緹娜",
-      "market_value": 9394600,
+      "market_value": 9821600,
       "total_shares": 1600
     },
     {
       "rank": 13,
-      "player": "玩玩就好",
-      "market_value": 9004383,
-      "total_shares": 2799
+      "player": "麻糬",
+      "market_value": 9258092,
+      "total_shares": 1601
     },
     {
       "rank": 14,
-      "player": "麻糬",
-      "market_value": 8831092,
-      "total_shares": 1601
+      "player": "玩玩就好",
+      "market_value": 9004383,
+      "total_shares": 2799
     },
     {
       "rank": 15,
@@ -161,15 +161,15 @@
     },
     {
       "rank": 19,
-      "player": "超大粒貢丸",
-      "market_value": 7177944,
-      "total_shares": 2482
+      "player": "Erick",
+      "market_value": 7520000,
+      "total_shares": 1000
     },
     {
       "rank": 20,
-      "player": "Erick",
-      "market_value": 7093000,
-      "total_shares": 1000
+      "player": "超大粒貢丸",
+      "market_value": 7177944,
+      "total_shares": 2482
     }
   ]
 }
