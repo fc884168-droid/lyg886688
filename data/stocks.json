@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-15 00:10:14",
+  "updatedAt": "2026-07-15 00:15:22",
   "stocks": [
     {
       "id": 10001,
       "name": "台G電",
       "description": "晶片科技股",
       "base_price": 7230,
-      "current_price": 7461,
+      "current_price": 7458,
       "today_open": 6188,
       "today_high": 7528,
       "today_low": 5372,
-      "volume_24h": 41699,
-      "change_amount": 1273,
-      "change_percent": 20.5721,
-      "last_update": "2026-07-15 00:10:00"
+      "volume_24h": 43112,
+      "change_amount": 1270,
+      "change_percent": 20.5236,
+      "last_update": "2026-07-15 00:13:46"
     },
     {
       "id": 10002,
@@ -104,14 +104,14 @@
       "name": "Eagle航空",
       "description": "航空運輸股",
       "base_price": 3984,
-      "current_price": 2915,
+      "current_price": 2918,
       "today_open": 2883,
       "today_high": 3128,
       "today_low": 2818,
-      "volume_24h": 100,
-      "change_amount": 32,
-      "change_percent": 1.11,
-      "last_update": "2026-07-15 00:10:00"
+      "volume_24h": 3714,
+      "change_amount": 35,
+      "change_percent": 1.214,
+      "last_update": "2026-07-15 00:15:10"
     },
     {
       "id": 10009,
