@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15 23:08:41",
+  "updatedAt": "2026-07-15 23:13:49",
   "profit": [
     {
       "rank": 1,
@@ -54,7 +54,7 @@
     {
       "rank": 1,
       "player": "小哥哥",
-      "market_value": 791864872,
+      "market_value": 793394565,
       "total_shares": 157702
     },
     {
@@ -65,32 +65,32 @@
     },
     {
       "rank": 3,
+      "player": "膽小鬼彎彎",
+      "market_value": 171488256,
+      "total_shares": 38064
+    },
+    {
+      "rank": 4,
       "player": "寶來我家",
       "market_value": 161062848,
       "total_shares": 46092
     },
     {
-      "rank": 4,
+      "rank": 5,
       "player": "批居萬",
       "market_value": 72204480,
       "total_shares": 41785
     },
     {
-      "rank": 5,
-      "player": "膽小鬼彎彎",
-      "market_value": 71485136,
-      "total_shares": 19052
-    },
-    {
       "rank": 6,
       "player": "茶茶醬",
-      "market_value": 27749942,
+      "market_value": 27770501,
       "total_shares": 7911
     },
     {
       "rank": 7,
       "player": "莉莉白",
-      "market_value": 17175861,
+      "market_value": 17199489,
       "total_shares": 4375
     },
     {
@@ -102,13 +102,13 @@
     {
       "rank": 9,
       "player": "不要四季豆",
-      "market_value": 8723838,
+      "market_value": 8742120,
       "total_shares": 1662
     },
     {
       "rank": 10,
       "player": "too袂落雨",
-      "market_value": 8603111,
+      "market_value": 8621140,
       "total_shares": 1639
     },
     {
@@ -120,7 +120,7 @@
     {
       "rank": 12,
       "player": "Edencc",
-      "market_value": 8182096,
+      "market_value": 7845994,
       "total_shares": 3614
     },
     {
@@ -132,13 +132,13 @@
     {
       "rank": 14,
       "player": "艾莉緹娜",
-      "market_value": 7087400,
+      "market_value": 7098400,
       "total_shares": 1600
     },
     {
       "rank": 15,
       "player": "麻糬",
-      "market_value": 6609664,
+      "market_value": 6564771,
       "total_shares": 1601
     },
     {
@@ -156,13 +156,13 @@
     {
       "rank": 18,
       "player": "超大粒貢丸",
-      "market_value": 5619248,
+      "market_value": 5388422,
       "total_shares": 2482
     },
     {
       "rank": 19,
       "player": "Erick",
-      "market_value": 5249000,
+      "market_value": 5260000,
       "total_shares": 1000
     },
     {
