@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-07-15 20:44:30",
+  "updatedAt": "2026-07-15 20:49:37",
   "stocks": [
     {
       "id": 10001,
       "name": "台G電",
       "description": "晶片科技股",
       "base_price": 7230,
-      "current_price": 5064,
+      "current_price": 5791,
       "today_open": 5128,
-      "today_high": 5184,
+      "today_high": 5791,
       "today_low": 4958,
       "volume_24h": 0,
-      "change_amount": -64,
-      "change_percent": -1.248,
-      "last_update": "2026-07-15 20:44:00"
+      "change_amount": 663,
+      "change_percent": 12.929,
+      "last_update": "2026-07-15 20:48:37"
     },
     {
       "id": 10002,
       "name": "落葉AI工作室",
       "description": "AI與科技概念股",
       "base_price": 3750,
-      "current_price": 3020,
+      "current_price": 3190,
       "today_open": 3169,
-      "today_high": 3174,
+      "today_high": 3190,
       "today_low": 3020,
       "volume_24h": 0,
-      "change_amount": -149,
-      "change_percent": -4.7018,
-      "last_update": "2026-07-15 20:44:00"
+      "change_amount": 21,
+      "change_percent": 0.6627,
+      "last_update": "2026-07-15 20:44:44"
     },
     {
       "id": 10003,
@@ -62,14 +62,14 @@
       "name": "廖老二手搖飲",
       "description": "飲料連鎖概念股",
       "base_price": 3000,
-      "current_price": 2278,
+      "current_price": 2406,
       "today_open": 2296,
-      "today_high": 2312,
+      "today_high": 2406,
       "today_low": 2243,
       "volume_24h": 0,
-      "change_amount": -18,
-      "change_percent": -0.784,
-      "last_update": "2026-07-15 20:44:00"
+      "change_amount": 110,
+      "change_percent": 4.7909,
+      "last_update": "2026-07-15 20:44:44"
     },
     {
       "id": 10006,
@@ -90,14 +90,14 @@
       "name": "特會拉電動車",
       "description": "電動車能源股",
       "base_price": 8431,
-      "current_price": 3969,
+      "current_price": 4346,
       "today_open": 3991,
-      "today_high": 4030,
+      "today_high": 4346,
       "today_low": 3894,
       "volume_24h": 0,
-      "change_amount": -22,
-      "change_percent": -0.5512,
-      "last_update": "2026-07-15 20:44:00"
+      "change_amount": 355,
+      "change_percent": 8.895,
+      "last_update": "2026-07-15 20:48:47"
     },
     {
       "id": 10008,
