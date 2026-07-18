@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17 19:08:56",
+  "updatedAt": "2026-07-19 01:17:12",
   "lands": [
     {
       "landId": 0,
@@ -8,8 +8,8 @@
       "city": "弓箭手村",
       "x": 45.62,
       "y": 80.21,
-      "ownerId": 22,
-      "owner": "小哥哥",
+      "ownerId": 20,
+      "owner": "Edencc",
       "level": 7,
       "status": 0
     },
@@ -32,9 +32,9 @@
       "city": "勇士之村",
       "x": 38.44,
       "y": 18.3,
-      "ownerId": 74,
-      "owner": "勃其D魯夫",
-      "level": 5,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 7,
       "status": 0
     },
     {
@@ -44,9 +44,9 @@
       "city": "墮落城市",
       "x": 15.0,
       "y": 39.15,
-      "ownerId": 1,
-      "owner": "Reze",
-      "level": 6,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 7,
       "status": 0
     },
     {
@@ -70,7 +70,7 @@
       "y": 55.53,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 3,
+      "level": 7,
       "status": 0
     },
     {
@@ -82,7 +82,7 @@
       "y": 80.0,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 3,
+      "level": 7,
       "status": 0
     },
     {
@@ -94,7 +94,7 @@
       "y": 75.32,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 3,
+      "level": 7,
       "status": 0
     },
     {
@@ -106,7 +106,7 @@
       "y": 70.21,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 3,
+      "level": 7,
       "status": 0
     },
     {
@@ -118,7 +118,7 @@
       "y": 66.17,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 3,
+      "level": 7,
       "status": 0
     },
     {
@@ -130,7 +130,7 @@
       "y": 64.04,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 3,
+      "level": 7,
       "status": 0
     },
     {
@@ -142,7 +142,7 @@
       "y": 61.49,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 3,
+      "level": 7,
       "status": 0
     },
     {
@@ -154,7 +154,7 @@
       "y": 55.53,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 5,
       "status": 0
     },
     {
@@ -166,7 +166,7 @@
       "y": 53.83,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 3,
+      "level": 7,
       "status": 0
     },
     {
@@ -178,7 +178,7 @@
       "y": 48.72,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 5,
       "status": 0
     },
     {
@@ -188,9 +188,9 @@
       "city": "勇士之村",
       "x": 57.19,
       "y": 42.55,
-      "ownerId": 74,
-      "owner": "勃其D魯夫",
-      "level": 1,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 7,
       "status": 0
     },
     {
@@ -200,9 +200,9 @@
       "city": "勇士之村",
       "x": 56.72,
       "y": 36.81,
-      "ownerId": 74,
-      "owner": "勃其D魯夫",
-      "level": 1,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 7,
       "status": 0
     },
     {
@@ -212,9 +212,9 @@
       "city": "勇士之村",
       "x": 54.06,
       "y": 32.98,
-      "ownerId": 74,
-      "owner": "勃其D魯夫",
-      "level": 1,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 7,
       "status": 0
     },
     {
@@ -226,7 +226,7 @@
       "y": 27.87,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -238,7 +238,7 @@
       "y": 25.96,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -250,7 +250,7 @@
       "y": 23.83,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -262,7 +262,7 @@
       "y": 22.85,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -274,7 +274,7 @@
       "y": 29.57,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -286,7 +286,7 @@
       "y": 32.98,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -298,7 +298,7 @@
       "y": 32.98,
       "ownerId": 1,
       "owner": "Reze",
-      "level": 2,
+      "level": 7,
       "status": 0
     },
     {
@@ -310,7 +310,7 @@
       "y": 32.98,
       "ownerId": 1,
       "owner": "Reze",
-      "level": 2,
+      "level": 7,
       "status": 0
     },
     {
@@ -322,7 +322,7 @@
       "y": 47.02,
       "ownerId": 1,
       "owner": "Reze",
-      "level": 2,
+      "level": 7,
       "status": 0
     },
     {
@@ -334,7 +334,7 @@
       "y": 52.34,
       "ownerId": 1,
       "owner": "Reze",
-      "level": 2,
+      "level": 7,
       "status": 0
     },
     {
@@ -346,7 +346,7 @@
       "y": 59.65,
       "ownerId": 1,
       "owner": "Reze",
-      "level": 2,
+      "level": 7,
       "status": 0
     },
     {
@@ -358,7 +358,7 @@
       "y": 61.06,
       "ownerId": 1,
       "owner": "Reze",
-      "level": 2,
+      "level": 7,
       "status": 0
     },
     {
@@ -370,7 +370,7 @@
       "y": 60.0,
       "ownerId": 20,
       "owner": "Edencc",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -394,7 +394,7 @@
       "y": 70.15,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 3,
+      "level": 7,
       "status": 0
     },
     {
@@ -406,7 +406,7 @@
       "y": 76.6,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 3,
+      "level": 7,
       "status": 0
     },
     {
@@ -418,7 +418,7 @@
       "y": 79.57,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 3,
+      "level": 7,
       "status": 0
     },
     {
@@ -478,7 +478,7 @@
       "y": 28.94,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -490,7 +490,7 @@
       "y": 33.83,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -502,7 +502,7 @@
       "y": 39.57,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -514,7 +514,7 @@
       "y": 44.26,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -526,7 +526,7 @@
       "y": 72.77,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -538,7 +538,7 @@
       "y": 68.09,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -550,7 +550,7 @@
       "y": 39.79,
       "ownerId": 20,
       "owner": "Edencc",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -562,7 +562,7 @@
       "y": 40.85,
       "ownerId": 20,
       "owner": "Edencc",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -574,7 +574,7 @@
       "y": 46.6,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 2,
+      "level": 7,
       "status": 0
     },
     {
@@ -586,7 +586,7 @@
       "y": 51.91,
       "ownerId": 2,
       "owner": "膽小鬼彎彎",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -598,7 +598,7 @@
       "y": 55.11,
       "ownerId": 2,
       "owner": "膽小鬼彎彎",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -608,9 +608,9 @@
       "city": "黃金海岸",
       "x": 84.55,
       "y": 63.92,
-      "ownerId": 10,
-      "owner": "批居萬",
-      "level": 5,
+      "ownerId": 20,
+      "owner": "Edencc",
+      "level": 7,
       "status": 0
     },
     {
@@ -622,7 +622,7 @@
       "y": 53.53,
       "ownerId": 20,
       "owner": "Edencc",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -632,9 +632,9 @@
       "city": "黃金海岸",
       "x": 90.06,
       "y": 54.18,
-      "ownerId": 10,
-      "owner": "批居萬",
-      "level": 1,
+      "ownerId": 20,
+      "owner": "Edencc",
+      "level": 7,
       "status": 0
     },
     {
@@ -644,9 +644,9 @@
       "city": "黃金海岸",
       "x": 91.92,
       "y": 59.8,
-      "ownerId": 10,
-      "owner": "批居萬",
-      "level": 1,
+      "ownerId": 20,
+      "owner": "Edencc",
+      "level": 7,
       "status": 0
     },
     {
@@ -656,9 +656,9 @@
       "city": "黃金海岸",
       "x": 88.66,
       "y": 63.08,
-      "ownerId": 10,
-      "owner": "批居萬",
-      "level": 1,
+      "ownerId": 20,
+      "owner": "Edencc",
+      "level": 7,
       "status": 0
     },
     {
@@ -670,7 +670,7 @@
       "y": 34.68,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -682,7 +682,7 @@
       "y": 32.34,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -694,7 +694,7 @@
       "y": 37.23,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -706,7 +706,7 @@
       "y": 42.34,
       "ownerId": 20,
       "owner": "Edencc",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -718,7 +718,7 @@
       "y": 46.17,
       "ownerId": 20,
       "owner": "Edencc",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -730,7 +730,7 @@
       "y": 43.83,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -742,7 +742,7 @@
       "y": 39.79,
       "ownerId": 20,
       "owner": "Edencc",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -754,7 +754,7 @@
       "y": 34.68,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -766,7 +766,7 @@
       "y": 28.94,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -778,7 +778,7 @@
       "y": 56.81,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 5,
       "status": 0
     },
     {
@@ -790,7 +790,7 @@
       "y": 58.3,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 5,
       "status": 0
     },
     {
@@ -800,9 +800,9 @@
       "city": "魔法森林",
       "x": 51.88,
       "y": 56.6,
-      "ownerId": 1,
-      "owner": "Reze",
-      "level": 1,
+      "ownerId": 10,
+      "owner": "批居萬",
+      "level": 5,
       "status": 0
     },
     {
@@ -814,7 +814,7 @@
       "y": 26.38,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -826,7 +826,7 @@
       "y": 25.11,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -838,7 +838,7 @@
       "y": 22.77,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -850,7 +850,7 @@
       "y": 55.53,
       "ownerId": 18,
       "owner": "寶來我家",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -862,7 +862,7 @@
       "y": 51.28,
       "ownerId": 1,
       "owner": "Reze",
-      "level": 2,
+      "level": 7,
       "status": 0
     },
     {
@@ -874,7 +874,7 @@
       "y": 74.47,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 3,
+      "level": 7,
       "status": 0
     },
     {
@@ -886,7 +886,7 @@
       "y": 69.36,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 3,
+      "level": 7,
       "status": 0
     },
     {
@@ -898,7 +898,7 @@
       "y": 35.32,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -910,7 +910,7 @@
       "y": 34.89,
       "ownerId": 28,
       "owner": "鐵拳教育",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -922,7 +922,7 @@
       "y": 35.53,
       "ownerId": 23,
       "owner": "小姐姐",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -934,7 +934,7 @@
       "y": 38.3,
       "ownerId": 32,
       "owner": "高希因娜",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -946,7 +946,7 @@
       "y": 43.19,
       "ownerId": 18,
       "owner": "寶來我家",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -958,7 +958,7 @@
       "y": 21.7,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -970,7 +970,7 @@
       "y": 20.85,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -982,7 +982,7 @@
       "y": 21.49,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -994,7 +994,7 @@
       "y": 22.2,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -1006,7 +1006,7 @@
       "y": 18.4,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -1018,7 +1018,7 @@
       "y": 17.02,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 1,
+      "level": 7,
       "status": 0
     },
     {
@@ -1030,7 +1030,7 @@
       "y": 47.66,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 3,
+      "level": 7,
       "status": 0
     },
     {
@@ -1042,7 +1042,7 @@
       "y": 83.83,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 5,
+      "level": 7,
       "status": 0
     },
     {
@@ -1054,7 +1054,7 @@
       "y": 83.83,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 5,
+      "level": 7,
       "status": 0
     },
     {
@@ -1066,7 +1066,7 @@
       "y": 72.77,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 3,
+      "level": 7,
       "status": 0
     },
     {
@@ -1090,7 +1090,7 @@
       "y": 65.53,
       "ownerId": 10,
       "owner": "批居萬",
-      "level": 3,
+      "level": 7,
       "status": 0
     }
   ]
